@@ -103,7 +103,7 @@ for (worldNumber, gameName, url) in gameList:
                 progressionFile.close()
     lastUpdateFile.write("{} ({}): {}\n".format(gameName, worldNumber, newUpdate))
     if DDOSProtectionMode:
-        time.sleep(1)
+        time.sleep(1)  # Don't want to get in trouble for hammering the website
 if not hasunknown:
     unknownPrint += "\n"
 print()

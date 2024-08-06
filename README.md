@@ -6,7 +6,7 @@ Intended for large asyncs, where a user might get multiple items across multiple
 ## Usage
 
 Put all trackers in "Tracker List.txt" with the format "GameName: TrackerLink"  
-Run main.py  
+Run main.exe  
 
 ### Troubleshooting
 
@@ -28,4 +28,4 @@ Macguffins are sometimes a large section of the item pool (120 stars in SM64, 18
 
 ADD MORE GAMES!  
 All game currently work, but if you want to split a new game into progression/useful/filler, then I'd be happy to help!  
-Ideally I want it to work with all supported games + as many unsupported/manual as possible
+Ideally I progression info for all supported games + as many unsupported/manual as possible
