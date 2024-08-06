@@ -1,0 +1,55 @@
+Yarn: progression
+Time Piece: progression
+Sprint Hat: progression
+Brewing Hat: progression
+Ice Hat: progression
+Dweller Mask: progression
+Time Stop Hat: progression
+Projectile Badge: useful
+Fast Hatter Badge: useful
+Hover Badge: useful
+Hookshot Badge: progression
+Item Magnet Badge: useful
+No Bonk Badge: useful
+Compass Badge: useful
+Scooter Badge: useful
+One-Hit Hero Badge: progression
+Camera Badge: progression
+Relic (Burger Patty): progression
+Relic (Burger Cushion): progression
+Relic (Mountain Set): progression
+Relic (Train): progression
+Relic (UFO): progression
+Relic (Cow): progression
+Relic (Cool Cow): progression
+Relic (Tin-foil Hat Cow): progression
+Relic (Crayon Box): progression
+Relic (Red Crayon): progression
+Relic (Blue Crayon): progression
+Relic (Green Crayon): progression
+Relic (Cake Stand): progression
+Relic (Shortcake): progression
+Relic (Chocolate Cake Slice): progression
+Relic (Chocolate Cake): progression
+Relic (Necklace Bust): progression
+Relic (Necklace): progression
+25 Pons: filler
+50 Pons: filler
+100 Pons: filler
+Health Pon: filler
+Random Cosmetic: filler
+Badge Pin: useful
+Umbrella: progression
+Progressive Painting Unlock: progression
+Metro Ticket - Yellow: progression
+Metro Ticket - Green: progression
+Metro Ticket - Blue: progression
+Metro Ticket - Pink: progression
+Snatcher's Contract - The Subcon Well: progression
+Snatcher's Contract - Toilet of Doom: progression
+Snatcher's Contract - Queen Vanessa's Manor: progression
+Snatcher's Contract - Mail Delivery Service: progression
+Zipline Unlock - The Birdhouse Path: progression
+Zipline Unlock - The Lava Cake Path: progression
+Zipline Unlock - The Windmill Path: progression
+Zipline Unlock - The Twilight Bell Path: progression

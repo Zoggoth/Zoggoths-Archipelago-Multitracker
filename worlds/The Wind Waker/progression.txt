@@ -1,0 +1,154 @@
+Telescope: filler
+Boat: progression
+Wind Waker: progression
+Grappling Hook: progression
+Spoils Bag: progression
+Boomerang: progression
+Deku Leaf: progression
+Tingle Tuner: progression
+Iron Boots: progression
+Magic Armor: progression
+Bait Bag: progression
+Bombs: progression
+Delivery Bag: progression
+Hookshot: progression
+Skull Hammer: progression
+Power Bracelets: progression
+Hero: filler
+Hurricane Spin: filler
+Dragon Tingle Statue: progression
+Forbidden Tingle Statue: progression
+Goddess Tingle Statue: progression
+Earth Tingle Statue: progression
+Wind Tingle Statue: progression
+Wind: progression
+Ballad of Gales: progression
+Command Melody: progression
+Earth God: progression
+Wind God: progression
+Song of Passing: progression
+Triforce Shard 1: progression
+Triforce Shard 2: progression
+Triforce Shard 3: progression
+Triforce Shard 4: progression
+Triforce Shard 5: progression
+Triforce Shard 6: progression
+Triforce Shard 7: progression
+Triforce Shard 8: progression
+Skull Necklace: filler
+Boko Baba Seed: filler
+Golden Feather: filler
+Knight: filler
+Red Chu Jelly: filler
+Green Chu Jelly: filler
+Joy Pendant: filler
+All-Purpose Bait: filler
+Hyoi Pear: filler
+Note to Mom: progression
+Maggie: progression
+Moblin: progression
+Cabana Deed: progression
+Fill-Up Coupon: filler
+Nayru: progression
+Din: progression
+Farore: progression
+Progressive Sword: progression
+Progressive Shield: progression
+Progressive Picto Box: progression
+Progressive Bow: progression
+Progressive Magic Meter: progression
+Progressive Quiver: progression
+Progressive Bomb Bag: useful
+Progressive Wallet: progression
+Empty Bottle: progression
+Triforce Chart 1: progression
+Triforce Chart 2: progression
+Triforce Chart 3: progression
+Triforce Chart 4: progression
+Triforce Chart 5: progression
+Triforce Chart 6: progression
+Triforce Chart 7: progression
+Triforce Chart 8: progression
+Treasure Chart 1: progression
+Treasure Chart 2: progression
+Treasure Chart 3: progression
+Treasure Chart 4: progression
+Treasure Chart 5: progression
+Treasure Chart 6: progression
+Treasure Chart 7: progression
+Treasure Chart 8: progression
+Treasure Chart 9: progression
+Treasure Chart 10: progression
+Treasure Chart 11: progression
+Treasure Chart 12: progression
+Treasure Chart 13: progression
+Treasure Chart 14: progression
+Treasure Chart 15: progression
+Treasure Chart 16: progression
+Treasure Chart 17: progression
+Treasure Chart 18: progression
+Treasure Chart 19: progression
+Treasure Chart 20: progression
+Treasure Chart 21: progression
+Treasure Chart 22: progression
+Treasure Chart 23: progression
+Treasure Chart 24: progression
+Treasure Chart 25: progression
+Treasure Chart 26: progression
+Treasure Chart 27: progression
+Treasure Chart 28: progression
+Treasure Chart 29: progression
+Treasure Chart 30: progression
+Treasure Chart 31: progression
+Treasure Chart 32: progression
+Treasure Chart 33: progression
+Treasure Chart 34: progression
+Treasure Chart 35: progression
+Treasure Chart 36: progression
+Treasure Chart 37: progression
+Treasure Chart 38: progression
+Treasure Chart 39: progression
+Treasure Chart 40: progression
+Treasure Chart 41: progression
+Tingle: filler
+Ghost Ship Chart: progression
+Octo Chart: filler
+Great Fairy Chart: filler
+Secret Cave Chart: filler
+Light Ring Chart: filler
+Platform Chart: filler
+Beedle: filler
+Submarine Chart: filler
+Green Rupee: filler
+Blue Rupee: filler
+Yellow Rupee: filler
+Red Rupee: filler
+Purple Rupee: filler
+Orange Rupee: filler
+Silver Rupee: filler
+Rainbow Rupee: filler
+Piece of Heart: filler
+Heart Container: filler
+DRC Big Key: progression
+DRC Small Key: progression
+FW Big Key: progression
+FW Small Key: progression
+TotG Big Key: progression
+TotG Small Key: progression
+ET Big Key: progression
+ET Small Key: progression
+WT Big Key: progression
+WT Small Key: progression
+DRC Dungeon Map: filler
+DRC Compass: filler
+FW Dungeon Map: filler
+FW Compass: filler
+TotG Dungeon Map: filler
+TotG Compass: filler
+FF Dungeon Map: filler
+FF Compass: filler
+ET Dungeon Map: filler
+ET Compass: filler
+WT Dungeon Map: filler
+WT Compass: filler
+Victory: progression

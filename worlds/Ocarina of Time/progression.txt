@@ -1,0 +1,171 @@
+Bombs (5): filler
+Deku Nuts (5): filler
+Bombchus (10): progression
+Boomerang: progression
+Deku Stick (1): filler
+Lens of Truth: progression
+Megaton Hammer: progression
+Cojiro: progression
+Bottle: progression
+Bottle with Milk: progression
+Rutos Letter: progression
+Deliver Letter: progression
+Sell Big Poe: progression
+Magic Bean: progression
+Skull Mask: progression
+Spooky Mask: filler
+Keaton Mask: filler
+Bunny Hood: filler
+Mask of Truth: progression
+Pocket Egg: progression
+Pocket Cucco: progression
+Odd Mushroom: progression
+Odd Potion: progression
+Poachers Saw: progression
+Broken Sword: progression
+Prescription: progression
+Eyeball Frog: progression
+Eyedrops: progression
+Claim Check: progression
+Kokiri Sword: progression
+Giants Knife: progression
+Deku Shield: filler
+Hylian Shield: filler
+Mirror Shield: progression
+Goron Tunic: progression
+Zora Tunic: progression
+Iron Boots: progression
+Hover Boots: progression
+Stone of Agony: progression
+Gerudo Membership Card: progression
+Heart Container: progression
+Piece of Heart: progression
+Boss Key: progression
+Compass: filler
+Map: filler
+Small Key: progression
+Weird Egg: progression
+Recovery Heart: filler
+Arrows (5): filler
+Arrows (10): filler
+Arrows (30): filler
+Rupee (1): filler
+Rupees (5): filler
+Rupees (20): filler
+Milk: filler
+Goron Mask: filler
+Zora Mask: filler
+Gerudo Mask: filler
+Rupees (50): filler
+Rupees (200): filler
+Biggoron Sword: progression
+Fire Arrows: progression
+Ice Arrows: progression
+Light Arrows: progression
+Gold Skulltula Token: progression
+Dins Fire: progression
+Nayrus Love: progression
+Farores Wind: progression
+Deku Nuts (10): filler
+Bombs (10): filler
+Bombs (20): filler
+Deku Seeds (30): filler
+Bombchus (5): progression
+Bombchus (20): progression
+Rupee (Treasure Chest Game): filler
+Piece of Heart (Treasure Chest Game): progression
+Ice Trap: trap
+Progressive Hookshot: progression
+Progressive Strength Upgrade: progression
+Bomb Bag: progression
+Bow: progression
+Slingshot: progression
+Progressive Wallet: progression
+Progressive Scale: progression
+Deku Nut Capacity: filler
+Deku Stick Capacity: filler
+Bombchus: progression
+Magic Meter: progression
+Ocarina: progression
+Bottle with Red Potion: progression
+Bottle with Green Potion: progression
+Bottle with Blue Potion: progression
+Bottle with Fairy: progression
+Bottle with Fish: progression
+Bottle with Blue Fire: progression
+Bottle with Bugs: progression
+Bottle with Big Poe: progression
+Bottle with Poe: progression
+Boss Key (Forest Temple): progression
+Boss Key (Fire Temple): progression
+Boss Key (Water Temple): progression
+Boss Key (Spirit Temple): progression
+Boss Key (Shadow Temple): progression
+Boss Key (Ganons Castle): progression
+Compass (Deku Tree): filler
+Compass (Dodongos Cavern): filler
+Compass (Jabu Jabus Belly): filler
+Compass (Forest Temple): filler
+Compass (Fire Temple): filler
+Compass (Water Temple): filler
+Compass (Spirit Temple): filler
+Compass (Shadow Temple): filler
+Compass (Bottom of the Well): filler
+Compass (Ice Cavern): filler
+Map (Deku Tree): filler
+Map (Dodongos Cavern): filler
+Map (Jabu Jabus Belly): filler
+Map (Forest Temple): filler
+Map (Fire Temple): filler
+Map (Water Temple): filler
+Map (Spirit Temple): filler
+Map (Shadow Temple): filler
+Map (Bottom of the Well): filler
+Map (Ice Cavern): filler
+Small Key (Forest Temple): progression
+Small Key (Fire Temple): progression
+Small Key (Water Temple): progression
+Small Key (Spirit Temple): progression
+Small Key (Shadow Temple): progression
+Small Key (Bottom of the Well): progression
+Small Key (Gerudo Training Ground): progression
+Small Key (Thieves Hideout): progression
+Small Key (Ganons Castle): progression
+Double Defense: filler
+Buy Magic Bean: progression
+Magic Bean Pack: progression
+Triforce Piece: progression
+Zeldas Letter: progression
+Time Travel: progression
+Scarecrow Song: progression
+Triforce: progression
+Minuet of Forest: progression
+Bolero of Fire: progression
+Serenade of Water: progression
+Requiem of Spirit: progression
+Nocturne of Shadow: progression
+Prelude of Light: progression
+Zeldas Lullaby: progression
+Eponas Song: progression
+Sarias Song: progression
+Suns Song: progression
+Song of Time: progression
+Song of Storms: progression
+Small Key Ring (Forest Temple): progression
+Small Key Ring (Fire Temple): progression
+Small Key Ring (Water Temple): progression
+Small Key Ring (Spirit Temple): progression
+Small Key Ring (Shadow Temple): progression
+Small Key Ring (Bottom of the Well): progression
+Small Key Ring (Gerudo Training Ground): progression
+Small Key Ring (Thieves Hideout): progression
+Small Key Ring (Ganons Castle): progression
+Kokiri Emerald: progression
+Goron Ruby: progression
+Zora Sapphire: progression
+Forest Medallion: progression
+Fire Medallion: progression
+Water Medallion: progression
+Spirit Medallion: progression
+Shadow Medallion: progression
+Light Medallion: progression

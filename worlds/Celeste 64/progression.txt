@@ -1,0 +1,14 @@
+strawberry: progression
+raspberry: filler
+dash_refill: progression
+double_dash_refill: progression
+feather: progression
+coin: progression
+cassette: progression
+traffic_block: progression
+spring: progression
+breakables: progression
+ground_dash: progression
+air_dash: progression
+skid_jump: progression
+climb: progression

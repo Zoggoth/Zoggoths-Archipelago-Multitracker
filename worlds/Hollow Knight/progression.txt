@@ -1,0 +1,20 @@
+
+mask_shard: unknown
+dash_slash: unknown
+Geo_Rock-Deepnest: unknown
+Hallownest_Seal: unknown
+Soul_Totem-B: unknown
+Simple_Key: unknown
+Steady_Body: unknown
+Charm_Notch: unknown
+Rancid_Egg: unknown
+Spore_Shroom: unknown
+Geo_Rock-Hive: unknown
+Vengeful_Spirit: unknown
+Monarch_Wings: unknown
+Focus: unknown
+Leftslash: unknown
+Rightslash: unknown
+Upslash: unknown
+Downslash: unknown
+Lore_Tablet-King's_Pass_Exit: unknown

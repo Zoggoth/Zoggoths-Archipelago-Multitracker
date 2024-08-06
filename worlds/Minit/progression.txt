@@ -1,0 +1,23 @@
+Coin: progression
+HeartPiece: useful
+Tentacle: progression
+ItemCoffee: progression
+ItemFlashLight: progression
+ItemSwim: progression
+ItemKey: progression
+ItemWateringCan: progression
+ItemThrow: progression
+ItemShoes: progression
+ItemGlove: progression
+ItemBoat: progression
+ItemCamera: filler
+ItemBasement: progression
+ItemMegaSword: progression
+ItemBrokenSword: progression
+ItemTurboInk: useful
+ItemGrinder: progression
+ItemTrophy: filler
+ItemPressPass: progression
+ItemSword: progression
+Progressive Sword: progression
+Reverse Progressive Sword: progression

@@ -1,0 +1,298 @@
+Ramuh: progression
+Ifrit: progression
+Shiva: progression
+Siren: progression
+Terrato: progression
+Shoat: progression
+Maduin: progression
+Bismark: progression
+Stray: progression
+Palidor: progression
+Tritoch: progression
+Odin: progression
+Raiden: progression
+Bahamut: progression
+Alexandr: progression
+Crusader: progression
+Ragnarok: progression
+Esper: progression
+Kirin: progression
+ZoneSeek: progression
+Carbunkl: progression
+Phantom: progression
+Sraphim: progression
+Golem: progression
+Unicorn: progression
+Fenrir: progression
+Starlet: progression
+Phoenix: progression
+Terra: progression
+Locke: progression
+Cyan: progression
+Shadow: progression
+Edgar: progression
+Sabin: progression
+Celes: progression
+Strago: progression
+Relm: progression
+Setzer: progression
+Mog: progression
+Gau: progression
+Gogo: progression
+Umaro: progression
+Dirk: filler
+MithrilKnife: filler
+Guardian: filler
+Air Lancet: filler
+ThiefKnife: filler
+Assassin: filler
+Man Eater: filler
+SwordBreaker: filler
+Graedus: filler
+ValiantKnife: useful
+MithrilBlade: filler
+RegalCutlass: filler
+Rune Edge: filler
+Flame Sabre: filler
+Blizzard: filler
+ThunderBlade: filler
+Epee: filler
+Break Blade: filler
+Drainer: filler
+Enhancer: filler
+Crystal: filler
+Falchion: filler
+Soul Sabre: filler
+Ogre Nix: filler
+Excalibur: filler
+Scimitar: filler
+Illumina: useful
+Ragnarok Sword: useful
+Atma Weapon: filler
+Mithril Pike: filler
+Trident: filler
+Stout Spear: filler
+Partisan: filler
+Pearl Lance: useful
+Gold Lance: filler
+Aura Lance: useful
+Imp Halberd: filler
+Imperial: filler
+Kodachi: filler
+Blossom: filler
+Hardened: filler
+Striker: filler
+Stunner: filler
+Ashura: filler
+Kotetsu: filler
+Forged: filler
+Tempest: filler
+Murasame: filler
+Aura: filler
+Strato: filler
+Sky Render: filler
+Heal Rod: filler
+Mithril Rod: filler
+Fire Rod: filler
+Ice Rod: filler
+Thunder Rod: filler
+Poison Rod: filler
+Pearl Rod: filler
+Gravity Rod: filler
+Punisher: filler
+Magus Rod: useful
+Chocobo Brsh: filler
+DaVinci Brsh: filler
+Magical Brsh: filler
+Rainbow Brsh: filler
+Shuriken: filler
+Ninja Star: filler
+Tack Star: filler
+Flail: filler
+Full Moon: filler
+Morning Star: filler
+Boomerang: filler
+Rising Sun: filler
+Hawk Eye: filler
+Bone Club: filler
+Sniper: filler
+Wing Edge: filler
+Cards: filler
+Darts: filler
+Doom Darts: filler
+Trump: filler
+Dice: filler
+Fixed Dice: useful
+MetalKnuckle: filler
+Mithril Claw: filler
+Kaiser: filler
+Poison Claw: filler
+Fire Knuckle: filler
+Dragon Claw: filler
+Tiger Fangs: filler
+Buckler: filler
+Heavy Shld: filler
+Mithril Shld: filler
+Gold Shld: filler
+Aegis Shld: useful
+Diamond Shld: filler
+Flame Shld: useful
+Ice Shld: useful
+Thunder Shld: useful
+Crystal Shld: filler
+Genji Shld: useful
+TortoiseShld: filler
+Cursed Shld: filler
+Paladin Shld: useful
+Force Shld: useful
+Leather Hat: filler
+Hair Band: filler
+Plumed Hat: filler
+Beret: filler
+Magus Hat: filler
+Bandana: filler
+Iron Helmet: filler
+Coronet: filler
+Bard's Hat: filler
+Green Beret: filler
+Head Band: filler
+Mithril Helm: filler
+Tiara: filler
+Gold Helmet: filler
+Tiger Mask: filler
+Red Cap: useful
+Mystery Veil: filler
+Circlet: filler
+Regal Crown: filler
+Diamond Helm: filler
+Dark Hood: filler
+Crystal Helm: filler
+Oath Veil: filler
+Cat Hood: useful
+Genji Helmet: useful
+Thornlet: filler
+Titanium: filler
+LeatherArmor: filler
+Cotton Robe: filler
+Kung Fu Suit: filler
+Iron Armor: filler
+Silk Robe: filler
+Mithril Vest: filler
+Ninja Gear: filler
+White Dress: filler
+Mithril Mail: filler
+Gaia Gear: filler
+Mirage Vest: filler
+Gold Armor: filler
+Power Sash: filler
+Light Robe: filler
+Diamond Vest: filler
+Red Jacket: filler
+Force Armor: useful
+DiamondArmor: filler
+Dark Gear: filler
+Tao Robe: filler
+Crystal Mail: filler
+Czarina Gown: filler
+Genji Armor: useful
+Imp's Armor: filler
+Minerva: useful
+Tabby Suit: filler
+Chocobo Suit: filler
+Moogle Suit: filler
+Nutkin Suit: filler
+BehemothSuit: useful
+Snow Muffler: useful
+NoiseBlaster: filler
+Bio Blaster: filler
+Flash: filler
+Chain Saw: filler
+Debilitator: filler
+Drill: filler
+Air Anchor: filler
+AutoCrossbow: filler
+Fire Skean: filler
+Water Edge: filler
+Bolt Edge: filler
+Inviz Edge: filler
+Shadow Edge: filler
+Goggles: filler
+Star Pendant: filler
+Peace Ring: filler
+Amulet: filler
+White Cape: filler
+Jewel Ring: filler
+Fairy Ring: filler
+Barrier Ring: filler
+MithrilGlove: filler
+Guard Ring: filler
+RunningShoes: filler
+Wall Ring: filler
+Cherub Down: filler
+Cure Ring: filler
+True Knight: filler
+DragoonBoots: filler
+Zephyr Cape: filler
+Czarina Ring: filler
+Cursed Ring: filler
+Earrings: filler
+Atlas Armlet: filler
+Blizzard Orb: filler
+Rage Ring: filler
+Sneak Ring: filler
+Pod Bracelet: filler
+Hero Ring: filler
+Ribbon: filler
+Muscle Belt: filler
+Crystal Orb: filler
+Gold Hairpin: filler
+Economizer: useful
+Thief Glove: filler
+Gauntlet: filler
+Genji Glove: useful
+Hyper Wrist: filler
+Offering: useful
+Beads: filler
+Black Belt: filler
+Coin Toss: filler
+FakeMustache: filler
+Gem Box: useful
+Dragon Horn: useful
+Merit Award: filler
+Memento Ring: filler
+Safety Bit: filler
+Relic Ring: filler
+Moogle Charm: filler
+Charm Bangle: filler
+Marvel Shoes: useful
+Back Guard: filler
+Gale Hairpin: filler
+Sniper Sight: filler
+Exp. Egg: useful
+Tintinabar: filler
+Sprint Shoes: filler
+ArchplgoItem: filler
+Tonic: filler
+Potion: filler
+X-Potion: filler
+Tincture: filler
+Ether: filler
+X-Ether: filler
+Elixir: filler
+Megalixir: filler
+Fenix Down: filler
+Revivify: filler
+Antidote: filler
+Eyedrop: filler
+Soft: filler
+Remedy: filler
+Sleeping Bag: filler
+Tent: filler
+Green Cherry: filler
+Magicite: filler
+Super Ball: filler
+Echo Screen: filler
+Smoke Bomb: filler
+Warp Stone: filler
+Dried Meat: filler
+Empty: filler

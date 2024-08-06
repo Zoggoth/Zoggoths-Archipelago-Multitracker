@@ -1,0 +1,301 @@
+Secret Ansem's Report 1: filler
+Secret Ansem's Report 2: filler
+Secret Ansem's Report 3: filler
+Secret Ansem's Report 4: filler
+Secret Ansem's Report 5: filler
+Secret Ansem's Report 6: filler
+Secret Ansem's Report 7: filler
+Secret Ansem's Report 8: filler
+Secret Ansem's Report 9: filler
+Secret Ansem's Report 10: filler
+Secret Ansem's Report 11: filler
+Secret Ansem's Report 12: filler
+Secret Ansem's Report 13: filler
+Proof of Connection: progression
+Proof of Nonexistence: progression
+Proof of Peace: progression
+Promise Charm: progression
+Battlefields of War: progression
+Sword of the Ancestor: progression
+Beast's Claw: progression
+Bone Fist: progression
+Proud Fang: progression
+Skill and Crossbones: progression
+Scimitar: progression
+Membership Card: progression
+Ice Cream: progression
+Way to the Dawn: progression
+Identity Disk: progression
+Namine Sketches: progression
+Disney Castle Key: progression
+Torn Page: progression
+Valor Form: progression
+Wisdom Form: progression
+Limit Form: progression
+Master Form: progression
+Final Form: progression
+Anti Form: useful
+Fire Element: progression
+Blizzard Element: progression
+Thunder Element: progression
+Cure Element: useful
+Magnet Element: progression
+Reflect Element: progression
+Genie: progression
+Peter Pan: progression
+Stitch: progression
+Chicken Little: progression
+High Jump: progression
+Quick Run: progression
+Aerial Dodge: progression
+Glide: progression
+Dodge Roll: progression
+Oathkeeper: useful
+Oblivion: useful
+Star Seeker: useful
+Hidden Dragon: useful
+Hero's Crest: useful
+Monochrome: useful
+Follow the Wind: useful
+Circle of Life: useful
+Photon Debugger: useful
+Gull Wing: useful
+Rumbling Rose: useful
+Guardian Soul: useful
+Wishing Lamp: useful
+Decisive Pumpkin: useful
+Sleeping Lion: useful
+Sweet Memories: useful
+Mysterious Abyss: useful
+Two Become One: useful
+Fatal Crest: useful
+Bond of Flame: useful
+Fenrir: useful
+Ultima Weapon: useful
+Winner's Proof: useful
+Pureblood: useful
+Hammer Staff: useful
+Lord's Broom: useful
+Mages Staff: useful
+Meteor Staff: useful
+Comet Staff: useful
+Centurion+: useful
+Nobody Lance: useful
+Precious Mushroom: useful
+Precious Mushroom+: useful
+Premium Mushroom: useful
+Rising Dragon: useful
+Save The Queen+: useful
+Shaman's Relic: useful
+Victory Bell: useful
+Wisdom Wand: useful
+Akashic Record: useful
+Frozen Pride+: useful
+Genji Shield: useful
+Majestic Mushroom: useful
+Majestic Mushroom+: useful
+Nobody Guard: useful
+Ogre Shield: useful
+Save The King+: useful
+Ultimate Mushroom: useful
+Ability Ring: filler
+Engineer's Ring: filler
+Technician's Ring: filler
+Skill Ring: filler
+Skillful Ring: filler
+Expert's Ring: filler
+Master's Ring: filler
+Cosmic Ring: filler
+Executive's Ring: useful
+Sardonyx Ring: filler
+Tourmaline Ring: filler
+Aquamarine Ring: filler
+Garnet Ring: filler
+Diamond Ring: filler
+Silver Ring: filler
+Gold Ring: filler
+Platinum Ring: filler
+Mythril Ring: filler
+Orichalcum Ring: filler
+Soldier Earring: useful
+Fencer Earring: useful
+Mage Earring: useful
+Slayer Earring: useful
+Medal: filler
+Moon Amulet: useful
+Star Charm: useful
+Cosmic Arts: useful
+Shadow Archive: useful
+Shadow Archive+: useful
+Full Bloom: useful
+Full Bloom+: useful
+Draw Ring: useful
+Lucky Ring: filler
+Elven Bandana: filler
+Divine Bandana: filler
+Protect Belt: filler
+Gaia Belt: filler
+Power Band: filler
+Buster Band: filler
+Cosmic Belt: filler
+Fire Bangle: filler
+Fira Bangle: filler
+Firaga Bangle: filler
+Firagun Bangle: filler
+Blizzard Armlet: filler
+Blizzara Armlet: filler
+Blizzaga Armlet: filler
+Blizzagun Armlet: filler
+Thunder Trinket: filler
+Thundara Trinket: filler
+Thundaga Trinket: filler
+Thundagun Trinket: filler
+Shock Charm: filler
+Shock Charm+: useful
+Shadow Anklet: filler
+Dark Anklet: filler
+Midnight Anklet: filler
+Chaos Anklet: filler
+Champion Belt: filler
+Abas Chain: filler
+Aegis Chain: filler
+Acrisius: filler
+Acrisius+: filler
+Cosmic Chain: filler
+Petite Ribbon: useful
+Ribbon: useful
+Grand Ribbon: useful
+Mickey Munny Pouch: useful
+Olette Munny Pouch: useful
+Hades Cup Trophy: progression
+Unknown Disk: useful
+Olympus Stone: useful
+Max HP Up: useful
+Max MP Up: useful
+Drive Gauge Up: useful
+Armor Slot Up: useful
+Accessory Slot Up: useful
+Item Slot Up: useful
+Scan: useful
+Aerial Recovery: progression
+Combo Master: progression
+Combo Plus: progression
+Air Combo Plus: progression
+Combo Boost: useful
+Air Combo Boost: useful
+Reaction Boost: useful
+Finishing Plus: progression
+Negative Combo: progression
+Berserk Charge: progression
+Damage Drive: useful
+Drive Boost: useful
+Form Boost: progression
+Summon Boost: useful
+Experience Boost: useful
+Draw: useful
+Jackpot: useful
+Lucky Lucky: filler
+Drive Converter: useful
+Fire Boost: useful
+Blizzard Boost: useful
+Thunder Boost: useful
+Item Boost: useful
+MP Rage: useful
+MP Haste: useful
+MP Hastera: useful
+MP Hastega: useful
+Defender: filler
+Damage Control: filler
+No Experience: filler
+Light & Darkness: progression
+Magic Lock-On: filler
+Leaf Bracer: useful
+Combination Boost: filler
+Once More: progression
+Second Chance: progression
+Guard: progression
+Upper Slash: filler
+Horizontal Slash: progression
+Finishing Leap: progression
+Retaliating Slash: useful
+Slapshot: progression
+Dodge Slash: filler
+Flash Step: progression
+Slide Dash: progression
+Vicinity Break: useful
+Guard Break: progression
+Explosion: progression
+Aerial Sweep: useful
+Aerial Dive: progression
+Aerial Spiral: progression
+Aerial Finish: useful
+Magnet Burst: useful
+Counterguard: useful
+Auto Valor: progression
+Auto Wisdom: progression
+Auto Limit: progression
+Auto Master: progression
+Auto Final: progression
+Auto Summon: filler
+Trinity Limit: progression
+Potion: filler
+Hi-Potion: filler
+Ether: filler
+Elixir: useful
+Mega-Potion: filler
+Mega-Ether: filler
+Megalixir: useful
+Tent: filler
+Drive Recovery: useful
+High Drive Recovery: useful
+Power Boost: useful
+Magic Boost: useful
+Defense Boost: useful
+AP Boost: useful
+Donald Fire: filler
+Donald Blizzard: filler
+Donald Thunder: filler
+Donald Cure: useful
+Donald Fantasia: progression
+Donald Flare Force: progression
+Donald MP Rage: filler
+Donald Jackpot: filler
+Donald Lucky Lucky: filler
+Donald Fire Boost: filler
+Donald Blizzard Boost: filler
+Donald Thunder Boost: filler
+Donald MP Hastera: useful
+Donald Auto Limit: useful
+Donald Hyper Healing: filler
+Donald Auto Healing: filler
+Donald MP Hastega: useful
+Donald Item Boost: useful
+Donald Damage Control: filler
+Donald MP Haste: useful
+Donald Draw: filler
+Goofy Tornado: useful
+Goofy Turbo: filler
+Goofy Bash: filler
+Tornado Fusion: progression
+Teamwork: progression
+Goofy Draw: filler
+Goofy Jackpot: filler
+Goofy Lucky Lucky: filler
+Goofy Item Boost: useful
+Goofy MP Rage: filler
+Goofy Defender: filler
+Goofy Damage Control: filler
+Goofy Auto Limit: useful
+Goofy Second Chance: useful
+Goofy Once More: useful
+Goofy Auto Change: filler
+Goofy Hyper Healing: filler
+Goofy Auto Healing: filler
+Goofy MP Haste: filler
+Goofy MP Hastera: filler
+Goofy MP Hastega: filler
+Goofy Protect: filler
+Goofy Protera: filler
+Goofy Protega: filler
+Lucky Emblem: progression
+Bounty: progression

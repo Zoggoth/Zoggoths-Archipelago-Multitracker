@@ -1,0 +1,96 @@
+Lungfish Call: progression
+Gloria's Trophy: progression
+Straight Jacket: progression
+Loboto Painting: progression
+Birthday Cake: progression
+Lili's Bracelet: progression
+Stop Sign: progression
+Flowers: progression
+Plunger: progression
+Hedge Trimmers: progression
+Rolling Pin: progression
+Watering Can: progression
+Candle: progression
+Megaphone: progression
+Fred's Letter: progression
+Priceless Coin: progression
+Musket: progression
+Progressive Marksmanship: progression
+Progressive Pyrokinesis: progression
+Progressive Confusion: progression
+Progressive Levitation: progression
+Progressive Telekinesis: progression
+Progressive Invisibility: progression
+Progressive Clairvoyance: progression
+Progressive Shield: progression
+Max Ammo Up: useful
+Max Lives Up: useful
+Confusion Ammo Up: useful
+PsiChallengeMarker: useful
+Elton's Brain: progression
+Bobby's Brain: progression
+Dogen's Brain: progression
+Benny's Brain: progression
+Elka's Brain: progression
+Kitty's Brain: progression
+Chloe's Brain: progression
+Franke's Brain: progression
+JT's Brain: progression
+Quentin's Brain: progression
+Vernon's Brain: progression
+Milka's Brain: progression
+Crystal's Brain: progression
+Clem's Brain: progression
+Nils' Brain: progression
+Maloof's Brain: progression
+Mikhail's Brain: progression
+Phoebe's Brain: progression
+Chops' Brain: progression
+Gold Doubloon: useful
+Eagle Claw: useful
+Diver's Helmet: useful
+Psychonauts Comic Issue #1: useful
+Cherry Wood Pipe: useful
+Turkey Sandwich: useful
+Voodoo Doll: useful
+Miner's Skull: useful
+Pirate Scope: useful
+Golden Acorn: useful
+Glass Eye: useful
+Condor Egg: useful
+Fertility Idol: useful
+Dinosaur Bone: useful
+Fossil: useful
+Gold Watch: useful
+Suitcase Tag: useful
+Purse Tag: useful
+Hatbox Tag: useful
+Steamertrunk Tag: useful
+Dufflebag Tag: useful
+Suitcase: useful
+Purse: useful
+Hatbox: useful
+Steamertrunk: useful
+Dufflebag: useful
+Memory Vault: useful
+Small Arrowhead Bundle: filler
+Large Arrowhead Bundle: filler
+Adult Coach's Mind: progression
+Sasha's Mind: progression
+Milla's Mind: progression
+Linda's Mind: progression
+Boyd's Mind: progression
+Gloria's Mind: progression
+Fred's Mind: progression
+Edgar's Mind: progression
+Kid Coach's Mind: progression
+PsiCard: useful
+Oarsman's Badge: progression
+Sasha's Button: progression
+Crow Feather: progression
+Cobweb Duster: progression
+Squirrel Roast Dinner: progression
+Dowsing Rod: progression
+Super Palm Bomb: progression
+Victory: progression
+Filler: filler

@@ -1,0 +1,22 @@
+Bomb: progression
+Ice Beam: progression
+Hi-Jump Boots: progression
+Speed Booster: progression
+Varia Suit: progression
+Grappling Beam: progression
+Morph Ball: progression
+Gravity Suit: progression
+Space Jump: progression
+Charge Beam: useful
+Wave Beam: useful
+Spazer: useful
+Plasma Beam: useful
+Energy Tank: useful
+Reserve Tank: useful
+Spring Ball: useful
+X-Ray Scope: useful
+Screw Attack: useful
+Missile: filler
+Super Missile: filler
+Power Bomb: filler
+Nothing: filler

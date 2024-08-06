@@ -1,0 +1,51 @@
+Launch Codes: progression
+Spacesuit: progression
+Translator: progression
+Signalscope: progression
+Scout: progression
+Ghost Matter Wavelength: progression
+Imaging Rule: progression
+Nomai Warp Codes: progression
+Warp Core Installation Manual: progression
+Entanglement Rule: progression
+Shrine Door Codes: progression
+Tornado Aerodynamic Adjustments: progression
+Silent Running Mode: progression
+Electrical Insulation: progression
+Coordinates: progression
+Distress Beacon Frequency: progression
+Quantum Fluctuations Frequency: progression
+Hide & Seek Frequency: filler
+Chert's Signal: progression
+Esker's Signal: progression
+Riebeck's Signal: progression
+Gabbro's Signal: progression
+Feldspar's Signal: progression
+Museum Shard Signal: filler
+Grove Shard Signal: filler
+Cave Shard Signal: filler
+Tower Shard Signal: filler
+Island Shard Signal: filler
+Quantum Moon Signal: filler
+Escape Pod 1 Signal: progression
+Escape Pod 2 Signal: progression
+Escape Pod 3 Signal: progression
+Galena's Radio Signal: filler
+Tephra's Radio Signal: filler
+Nothing: filler
+Autopilot: useful
+Landing Camera: useful
+Eject Button: useful
+Velocity Matcher: useful
+Surface Integrity Scanner: useful
+Oxygen Capacity Upgrade: useful
+Fuel Capacity Upgrade: useful
+Boost Duration Upgrade: useful
+Oxygen Refill: filler
+Jetpack Fuel Refill: filler
+Marshmallow: filler
+Perfect Marshmallow: filler
+Burnt Marshmallow: filler
+Ship Damage Trap: trap
+Audio Trap: trap
+Nap Trap: trap

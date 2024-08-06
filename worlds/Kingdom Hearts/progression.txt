@@ -1,0 +1,361 @@
+Victory: progression
+Potion: filler
+Hi-Potion: filler
+Ether: filler
+Elixir: filler
+Mega-Potion: filler
+Mega-Ether: filler
+Megalixir: filler
+Protect Chain: useful
+Protera Chain: useful
+Protega Chain: useful
+Fire Ring: useful
+Fira Ring: useful
+Firaga Ring: useful
+Blizzard Ring: useful
+Blizzara Ring: useful
+Blizzaga Ring: useful
+Thunder Ring: useful
+Thundara Ring: useful
+Thundaga Ring: useful
+Ability Stud: useful
+Guard Earring: useful
+Master Earring: useful
+Chaos Ring: useful
+Dark Ring: useful
+Element Ring: useful
+Three Stars: useful
+Power Chain: useful
+Golem Chain: useful
+Titan Chain: useful
+Energy Bangle: useful
+Angel Bangle: useful
+Gaia Bangle: useful
+Magic Armlet: useful
+Rune Armlet: useful
+Atlas Armlet: useful
+Heartguard: useful
+Ribbon: useful
+Crystal Crown: useful
+Brave Warrior: useful
+Ifrit's Horn: useful
+Inferno Band: useful
+White Fang: useful
+Ray of Light: useful
+Holy Circlet: useful
+Raven's Claw: useful
+Omega Arts: useful
+EXP Earring: useful
+EXP Ring: useful
+EXP Bracelet: useful
+EXP Necklace: useful
+Firagun Band: useful
+Blizzagun Band: useful
+Thundagun Band: useful
+Ifrit Belt: useful
+Shiva Belt: useful
+Ramuh Belt: useful
+Moogle Badge: useful
+Cosmic Arts: useful
+Royal Crown: useful
+Prime Cap: useful
+Obsidian Ring: useful
+Wooden Sword: useful
+Jungle King: progression
+Three Wishes: progression
+Fairy Harp: progression
+Pumpkinhead: progression
+Crabclaw: useful
+Divine Rose: progression
+Spellbinder: useful
+Olympia: progression
+Lionheart: progression
+Metal Chocobo: useful
+Oathkeeper: progression
+Oblivion: progression
+Lady Luck: progression
+Wishing Star: progression
+Ultima Weapon: useful
+Diamond Dust: useful
+One-Winged Angel: useful
+Morning Star: useful
+Shooting Star: useful
+Magus Staff: useful
+Wisdom Staff: useful
+Warhammer: useful
+Silver Mallet: useful
+Grand Mallet: useful
+Lord Fortune: useful
+Violetta: useful
+Dream Rod (Donald): useful
+Save the Queen: useful
+Wizard's Relic: useful
+Meteor Strike: useful
+Fantasista: useful
+Mythril Shield: useful
+Onyx Shield: useful
+Stout Shield: useful
+Golem Shield: useful
+Adamant Shield: useful
+Smasher: useful
+Gigas Fist: useful
+Genji Shield: useful
+Herc's Shield: useful
+Dream Shield (Goofy): useful
+Save the King: useful
+Defender: useful
+Mighty Shield: useful
+Seven Elements: useful
+Tent: filler
+Camping Set: filler
+Cottage: filler
+Ansem's Report 11: progression
+Ansem's Report 12: progression
+Ansem's Report 13: progression
+Power Up: filler
+Defense Up: filler
+AP Up: filler
+Fire Arts: progression
+Blizzard Arts: progression
+Thunder Arts: progression
+Cure Arts: progression
+Gravity Arts: progression
+Stop Arts: progression
+Aero Arts: progression
+Ansem's Report 1: progression
+Ansem's Report 2: progression
+Ansem's Report 3: progression
+Ansem's Report 4: progression
+Ansem's Report 5: progression
+Ansem's Report 6: progression
+Ansem's Report 7: progression
+Ansem's Report 8: progression
+Ansem's Report 9: progression
+Ansem's Report 10: progression
+Theon Vol. 6: progression
+Empty Bottle: progression
+Emblem Piece (Flame): progression
+Emblem Piece (Chest): progression
+Emblem Piece (Statue): progression
+Emblem Piece (Fountain): progression
+Crystal Trident: progression
+Postcard: progression
+Torn Page 1: progression
+Torn Page 2: progression
+Torn Page 3: progression
+Torn Page 4: progression
+Torn Page 5: progression
+Slides: progression
+Footprints: progression
+Forget-Me-Not: progression
+Jack-In-The-Box: progression
+Entry Pass: progression
+High Jump: progression
+Mermaid Kick: progression
+Progressive Glide: progression
+Puppy 01: progression
+Puppy 02: progression
+Puppy 03: progression
+Puppy 04: progression
+Puppy 05: progression
+Puppy 06: progression
+Puppy 07: progression
+Puppy 08: progression
+Puppy 09: progression
+Puppy 10: progression
+Puppy 11: progression
+Puppy 12: progression
+Puppy 13: progression
+Puppy 14: progression
+Puppy 15: progression
+Puppy 16: progression
+Puppy 17: progression
+Puppy 18: progression
+Puppy 19: progression
+Puppy 20: progression
+Puppy 21: progression
+Puppy 22: progression
+Puppy 23: progression
+Puppy 24: progression
+Puppy 25: progression
+Puppy 26: progression
+Puppy 27: progression
+Puppy 28: progression
+Puppy 29: progression
+Puppy 30: progression
+Puppy 31: progression
+Puppy 32: progression
+Puppy 33: progression
+Puppy 34: progression
+Puppy 35: progression
+Puppy 36: progression
+Puppy 37: progression
+Puppy 38: progression
+Puppy 39: progression
+Puppy 40: progression
+Puppy 41: progression
+Puppy 42: progression
+Puppy 43: progression
+Puppy 44: progression
+Puppy 45: progression
+Puppy 46: progression
+Puppy 47: progression
+Puppy 48: progression
+Puppy 49: progression
+Puppy 50: progression
+Puppy 51: progression
+Puppy 52: progression
+Puppy 53: progression
+Puppy 54: progression
+Puppy 55: progression
+Puppy 56: progression
+Puppy 57: progression
+Puppy 58: progression
+Puppy 59: progression
+Puppy 60: progression
+Puppy 61: progression
+Puppy 62: progression
+Puppy 63: progression
+Puppy 64: progression
+Puppy 65: progression
+Puppy 66: progression
+Puppy 67: progression
+Puppy 68: progression
+Puppy 69: progression
+Puppy 70: progression
+Puppy 71: progression
+Puppy 72: progression
+Puppy 73: progression
+Puppy 74: progression
+Puppy 75: progression
+Puppy 76: progression
+Puppy 77: progression
+Puppy 78: progression
+Puppy 79: progression
+Puppy 80: progression
+Puppy 81: progression
+Puppy 82: progression
+Puppy 83: progression
+Puppy 84: progression
+Puppy 85: progression
+Puppy 86: progression
+Puppy 87: progression
+Puppy 88: progression
+Puppy 89: progression
+Puppy 90: progression
+Puppy 91: progression
+Puppy 92: progression
+Puppy 93: progression
+Puppy 94: progression
+Puppy 95: progression
+Puppy 96: progression
+Puppy 97: progression
+Puppy 98: progression
+Puppy 99: progression
+Puppies 01-03: progression
+Puppies 04-06: progression
+Puppies 07-09: progression
+Puppies 10-12: progression
+Puppies 13-15: progression
+Puppies 16-18: progression
+Puppies 19-21: progression
+Puppies 22-24: progression
+Puppies 25-27: progression
+Puppies 28-30: progression
+Puppies 31-33: progression
+Puppies 34-36: progression
+Puppies 37-39: progression
+Puppies 40-42: progression
+Puppies 43-45: progression
+Puppies 46-48: progression
+Puppies 49-51: progression
+Puppies 52-54: progression
+Puppies 55-57: progression
+Puppies 58-60: progression
+Puppies 61-63: progression
+Puppies 64-66: progression
+Puppies 67-69: progression
+Puppies 70-72: progression
+Puppies 73-75: progression
+Puppies 76-78: progression
+Puppies 79-81: progression
+Puppies 82-84: progression
+Puppies 85-87: progression
+Puppies 88-90: progression
+Puppies 91-93: progression
+Puppies 94-96: progression
+Puppies 97-99: progression
+All Puppies: progression
+Treasure Magnet: useful
+Combo Plus: useful
+Air Combo Plus: useful
+Critical Plus: useful
+Scan: useful
+Sonic Blade: useful
+Ars Arcanum: useful
+Strike Raid: useful
+Ragnarok: useful
+Trinity Limit: useful
+Cheer: useful
+Vortex: useful
+Aerial Sweep: useful
+Counterattack: useful
+Blitz: useful
+Guard: progression
+Dodge Roll: progression
+MP Haste: useful
+MP Rage: progression
+Second Chance: progression
+Berserk: useful
+Jackpot: useful
+Lucky Strike: useful
+Slapshot: useful
+Sliding Dash: useful
+Hurricane Blast: useful
+Ripple Drive: useful
+Stun Impact: useful
+Gravity Break: useful
+Zantetsuken: useful
+Tech Boost: useful
+Encounter Plus: useful
+Leaf Bracer: progression
+EXP Zero: useful
+Combo Master: progression
+Max HP Increase: useful
+Max MP Increase: useful
+Max AP Increase: useful
+Strength Increase: useful
+Defense Increase: useful
+Accessory Slot Increase: useful
+Item Slot Increase: useful
+Dumbo: progression
+Bambi: progression
+Genie: progression
+Tinker Bell: progression
+Mushu: progression
+Simba: progression
+Progressive Fire: progression
+Progressive Blizzard: progression
+Progressive Thunder: progression
+Progressive Cure: progression
+Progressive Gravity: progression
+Progressive Stop: progression
+Progressive Aero: progression
+Wonderland: progression
+Olympus Coliseum: progression
+Deep Jungle: progression
+Agrabah: progression
+Halloween Town: progression
+Atlantica: progression
+Neverland: progression
+Hollow Bastion: progression
+End of the World: progression
+Monstro: progression
+Blue Trinity: progression
+Red Trinity: progression
+Green Trinity: progression
+Yellow Trinity: progression
+White Trinity: progression
+Phil Cup: progression
+Pegasus Cup: progression
+Hercules Cup: progression
