@@ -15,20 +15,20 @@ Electrical Insulation: progression
 Coordinates: progression
 Distress Beacon Frequency: progression
 Quantum Fluctuations Frequency: progression
-Hide & Seek Frequency: filler
-Chert's Signal: progression
-Esker's Signal: progression
-Riebeck's Signal: progression
-Gabbro's Signal: progression
+Hide & Seek Frequency: progression
+Chert's Signal: filler
+Esker's Signal: filler
+Riebeck's Signal: filler
+Gabbro's Signal: filler
 Feldspar's Signal: progression
 Museum Shard Signal: filler
 Grove Shard Signal: filler
 Cave Shard Signal: filler
 Tower Shard Signal: filler
 Island Shard Signal: filler
-Quantum Moon Signal: filler
-Escape Pod 1 Signal: progression
-Escape Pod 2 Signal: progression
+Quantum Moon Signal: progression
+Escape Pod 1 Signal: filler
+Escape Pod 2 Signal: filler
 Escape Pod 3 Signal: progression
 Galena's Radio Signal: filler
 Tephra's Radio Signal: filler
