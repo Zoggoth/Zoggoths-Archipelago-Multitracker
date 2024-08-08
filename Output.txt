@@ -1,15 +1,3 @@
-Progression
-Psychonauts (8dA/0/871): Musket x1
-
-Unknown (Unknown games/items can be added to the worlds folder)
-Mega Man 2 (8dA/0/863): Weapon Energy (L) x1
-
-Useful
-Super Mario World (8dA/0/873): 1-Up Mushroom x4
-
 Filler
-A Short Hike (8dA/0/855): 15 Coins x1
-Pokemon Red and Blue (8dA/0/870): Poke Ball x4
-The Wind Waker (8dA/0/878): Silver Rupee x1
+Outer Wilds (8dA/0/867): Marshmallow x4
 
-Trap

@@ -1,0 +1,118 @@
+Progressive Power Bracelet: progression
+Progressive Shield: progression
+Bow: progression
+Hookshot: progression
+Magic Rod: progression
+Pegasus Boots: progression
+Ocarina: progression
+Feather: progression
+Shovel: progression
+Magic Powder: progression
+Bomb: progression
+Progressive Sword: progression
+Flippers: progression
+Magnifying Lens: progression
+Medicine: useful
+Tail Key: progression
+Angler Key: progression
+Face Key: progression
+Bird Key: progression
+Slime Key: progression
+Gold Leaf: progression
+20 Rupees: progression
+50 Rupees: progression
+100 Rupees: progression
+200 Rupees: progression
+500 Rupees: progression
+Seashell: progression
+Master Stalfos' Message: filler
+Gel: trap
+Boomerang: progression
+Heart Piece: filler
+BowWow: progression
+10 Arrows: filler
+Single Arrow: filler
+Rooster: progression
+Max Powder Upgrade: filler
+Max Bombs Upgrade: filler
+Max Arrows Upgrade: filler
+Red Tunic: useful
+Blue Tunic: useful
+Heart Container: useful
+Bad Heart Container: trap
+Toadstool: progression
+Key: progression
+Small Key (Tail Cave): progression
+Small Key (Bottle Grotto): progression
+Small Key (Key Cavern): progression
+Small Key (Angler's Tunnel): progression
+Small Key (Catfish's Maw): progression
+Small Key (Face Shrine): progression
+Small Key (Eagle's Tower): progression
+Small Key (Turtle Rock): progression
+Small Key (Color Dungeon): progression
+Nightmare Key: progression
+Nightmare Key (Tail Cave): progression
+Nightmare Key (Bottle Grotto): progression
+Nightmare Key (Key Cavern): progression
+Nightmare Key (Angler's Tunnel): progression
+Nightmare Key (Catfish's Maw): progression
+Nightmare Key (Face Shrine): progression
+Nightmare Key (Eagle's Tower): progression
+Nightmare Key (Turtle Rock): progression
+Nightmare Key (Color Dungeon): progression
+Map: filler
+Dungeon Map (Tail Cave): filler
+Dungeon Map (Bottle Grotto): filler
+Dungeon Map (Key Cavern): filler
+Dungeon Map (Angler's Tunnel): filler
+Dungeon Map (Catfish's Maw): filler
+Dungeon Map (Face Shrine): filler
+Dungeon Map (Eagle's Tower): filler
+Dungeon Map (Turtle Rock): filler
+Dungeon Map (Color Dungeon): filler
+Compass: filler
+Compass (Tail Cave): filler
+Compass (Bottle Grotto): filler
+Compass (Key Cavern): filler
+Compass (Angler's Tunnel): filler
+Compass (Catfish's Maw): filler
+Compass (Face Shrine): filler
+Compass (Eagle's Tower): filler
+Compass (Turtle Rock): filler
+Compass (Color Dungeon): filler
+Stone Beak: filler
+Stone Beak (Tail Cave): filler
+Stone Beak (Bottle Grotto): filler
+Stone Beak (Key Cavern): filler
+Stone Beak (Angler's Tunnel): filler
+Stone Beak (Catfish's Maw): filler
+Stone Beak (Face Shrine): filler
+Stone Beak (Eagle's Tower): filler
+Stone Beak (Turtle Rock): filler
+Stone Beak (Color Dungeon): filler
+Ballad of the Wind Fish: progression
+Manbo's Mambo: useful
+Frog's Song of Soul: progression
+Full Moon Cello: progression
+Conch Horn: progression
+Sea Lily's Bell: progression
+Surf Harp: progression
+Wind Marimba: progression
+Coral Triangle: progression
+Organ of Evening Calm: progression
+Thunder Drum: progression
+Yoshi Doll: progression
+Ribbon: progression
+Dog Food: progression
+Bananas: progression
+Stick: progression
+Honeycomb: progression
+Pineapple: progression
+Hibiscus: progression
+Letter: progression
+Broom: progression
+Fishing Hook: progression
+Necklace: progression
+Scale: progression
+Magnifying Glass: progression

@@ -108,53 +108,53 @@ HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 HM05 Flash: progression
-TM01 Mega Punch: useful
-TM02 Razor Wind: filler
-TM03 Swords Dance: useful
-TM04 Whirlwind: filler
-TM05 Mega Kick: useful
-TM06 Toxic: useful
-TM07 Horn Drill: useful
-TM08 Body Slam: useful
-TM09 Take Down: useful
-TM10 Double Edge: useful
-TM11 Bubble Beam: useful
-TM12 Water Gun: filler
-TM13 Ice Beam: useful
-TM14 Blizzard: useful
-TM15 Hyper Beam: useful
-TM16 Pay Day: useful
-TM17 Submission: useful
-TM18 Counter: filler
-TM19 Seismic Toss: useful
-TM20 Rage: useful
-TM21 Mega Drain: useful
-TM22 Solar Beam: useful
-TM23 Dragon Rage: useful
-TM24 Thunderbolt: useful
-TM25 Thunder: useful
-TM26 Earthquake: useful
-TM27 Fissure: useful
-TM28 Dig: useful
-TM29 Psychic: useful
-TM30 Teleport: filler
-TM31 Mimic: useful
-TM32 Double Team: useful
-TM33 Reflect: useful
-TM34 Bide: filler
-TM35 Metronome: useful
-TM36 Self-Destruct: useful
-TM37 Egg Bomb: useful
-TM38 Fire Blast: useful
-TM39 Swift: useful
-TM40 Skull Bash: filler
-TM41 Soft-Boiled: useful
-TM42 Dream Eater: useful
-TM43 Sky Attack: filler
-TM44 Rest: useful
-TM45 Thunder Wave: useful
-TM46 Psywave: filler
-TM47 Explosion: useful
-TM48 Rock Slide: useful
-TM49 Tri Attack: useful
-TM50 Substitute: useful
+TM01: useful
+TM02: filler
+TM03: useful
+TM04: filler
+TM05: useful
+TM06: useful
+TM07: useful
+TM08: useful
+TM09: useful
+TM10: useful
+TM11: useful
+TM12: filler
+TM13: useful
+TM14: useful
+TM15: useful
+TM16: useful
+TM17: useful
+TM18: filler
+TM19: useful
+TM20: useful
+TM21: useful
+TM22: useful
+TM23: useful
+TM24: useful
+TM25: useful
+TM26: useful
+TM27: useful
+TM28: useful
+TM29: useful
+TM30: filler
+TM31: useful
+TM32: useful
+TM33: useful
+TM34: filler
+TM35: useful
+TM36: useful
+TM37: useful
+TM38: useful
+TM39: useful
+TM40: filler
+TM41: useful
+TM42: useful
+TM43: filler
+TM44: useful
+TM45: useful
+TM46: filler
+TM47: useful
+TM48: useful
+TM49: useful
+TM50: useful

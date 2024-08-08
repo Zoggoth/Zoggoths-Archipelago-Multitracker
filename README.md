@@ -27,5 +27,5 @@ Split progression into Macguffins & progression.
 Macguffins are sometimes a large section of the item pool (120 stars in SM64, 180+ emblems in SA2B) & can distract from more important progression like level unlocks
 
 ADD MORE GAMES!  
-All game currently work, but if you want to split a new game into progression/useful/filler, then I'd be happy to help!  
-Ideally I progression info for all supported games + as many unsupported/manual as possible
+All games currently work, but if you want to split a new game into progression/useful/filler, then I'd be happy to help!  
+Ideally I want progression info for all supported games + as many unsupported/manual as possible
