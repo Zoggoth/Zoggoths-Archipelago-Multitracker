@@ -5,8 +5,9 @@ Intended for large asyncs, where a user might get multiple items across multiple
 
 ## Usage
 
-Put all trackers in "Tracker List.txt" with the format "GameName: TrackerLink"  
+Put all trackers in "Tracker List.txt" with the format "GameName: TrackerLink"*  
 Run main.exe  
+\*Also supports "GameName (SlotName): Trackerlink", "(SlotName): Trackerlink" & "Trackerlink"
 
 ### Troubleshooting
 
