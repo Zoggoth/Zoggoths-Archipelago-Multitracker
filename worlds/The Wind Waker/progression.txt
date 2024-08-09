@@ -1,11 +1,9 @@
 Telescope: filler
-Boat: progression
 Wind Waker: progression
 Grappling Hook: progression
 Spoils Bag: progression
 Boomerang: progression
 Deku Leaf: progression
-Tingle Tuner: progression
 Iron Boots: progression
 Magic Armor: progression
 Bait Bag: progression
@@ -14,18 +12,18 @@ Delivery Bag: progression
 Hookshot: progression
 Skull Hammer: progression
 Power Bracelets: progression
-Hero: filler
+Hero's Charm: filler
 Hurricane Spin: filler
 Dragon Tingle Statue: progression
 Forbidden Tingle Statue: progression
 Goddess Tingle Statue: progression
 Earth Tingle Statue: progression
 Wind Tingle Statue: progression
-Wind: progression
+Wind's Requiem: progression
 Ballad of Gales: progression
 Command Melody: progression
-Earth God: progression
-Wind God: progression
+Earth God's Lyric: progression
+Wind God's Aria: progression
 Song of Passing: progression
 Triforce Shard 1: progression
 Triforce Shard 2: progression
@@ -38,20 +36,20 @@ Triforce Shard 8: progression
 Skull Necklace: filler
 Boko Baba Seed: filler
 Golden Feather: filler
-Knight: filler
+Knight Crests: filler
 Red Chu Jelly: filler
 Green Chu Jelly: filler
 Joy Pendant: filler
 All-Purpose Bait: filler
 Hyoi Pear: filler
 Note to Mom: progression
-Maggie: progression
-Moblin: progression
+Maggie's Letter: progression
+Moblin's Letter: progression
 Cabana Deed: progression
 Fill-Up Coupon: filler
-Nayru: progression
-Din: progression
-Farore: progression
+Nayru's Pearl: progression
+Din's Pearl: progression
+Farore's Pearl: progression
 Progressive Sword: progression
 Progressive Shield: progression
 Progressive Picto Box: progression
@@ -110,14 +108,14 @@ Treasure Chart 38: progression
 Treasure Chart 39: progression
 Treasure Chart 40: progression
 Treasure Chart 41: progression
-Tingle: filler
+Tingle Tuner: filler
 Ghost Ship Chart: progression
 Octo Chart: filler
 Great Fairy Chart: filler
 Secret Cave Chart: filler
 Light Ring Chart: filler
 Platform Chart: filler
-Beedle: filler
+Beedle's Chart: filler
 Submarine Chart: filler
 Green Rupee: filler
 Blue Rupee: filler
@@ -151,4 +149,3 @@ ET Dungeon Map: filler
 ET Compass: filler
 WT Dungeon Map: filler
 WT Compass: filler
-Victory: progression
