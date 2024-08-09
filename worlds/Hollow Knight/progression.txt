@@ -18,3 +18,4 @@ Rightslash: unknown
 Upslash: unknown
 Downslash: unknown
 Lore_Tablet-King's_Pass_Exit: unknown
+Geo_Rock-Mine: unknown
