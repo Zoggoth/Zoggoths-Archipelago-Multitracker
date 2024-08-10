@@ -127,9 +127,15 @@ usefulPrint = usefulPrint+"\n" if hasUseful else ""
 fillerPrint = fillerPrint+"\n" if hasFiller else ""
 trapPrint = trapPrint+"\n" if hasTrap else ""
 unknownPrint = unknownPrint+"\n" if hasUnknown else ""
+consolePrint = "{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint)
+filePrint = "{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint)
 print()
-print("{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint))
-outputFile.write("{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint))
+if consolePrint == "":
+    print("No items received")
+    outputFile.write("No items received")
+else:
+    print(consolePrint)
+    outputFile.write(filePrint)
 outputFile.close()
 lastUpdateFile.close()
 print("Output also printed to Output.txt.")

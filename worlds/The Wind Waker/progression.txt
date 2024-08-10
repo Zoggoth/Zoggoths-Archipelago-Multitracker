@@ -1,9 +1,11 @@
 Telescope: filler
+Boat's Sail: progression
 Wind Waker: progression
 Grappling Hook: progression
 Spoils Bag: progression
 Boomerang: progression
 Deku Leaf: progression
+Tingle Tuner: progression
 Iron Boots: progression
 Magic Armor: progression
 Bait Bag: progression
@@ -36,7 +38,7 @@ Triforce Shard 8: progression
 Skull Necklace: filler
 Boko Baba Seed: filler
 Golden Feather: filler
-Knight Crests: filler
+Knight's Crest: filler
 Red Chu Jelly: filler
 Green Chu Jelly: filler
 Joy Pendant: filler
@@ -108,7 +110,7 @@ Treasure Chart 38: progression
 Treasure Chart 39: progression
 Treasure Chart 40: progression
 Treasure Chart 41: progression
-Tingle Tuner: filler
+Tingle's Chart: filler
 Ghost Ship Chart: progression
 Octo Chart: filler
 Great Fairy Chart: filler
