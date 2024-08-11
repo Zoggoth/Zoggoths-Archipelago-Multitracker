@@ -59,8 +59,8 @@ for (_, name, _, _) in gameList:
                     pass
         except FileNotFoundError:
             pass
-lastUpdateFile = open("Last Updated.txt", "w")
 outputFile = open("output.txt", "w")
+lastUpdatePrint = ""
 progressionPrint = "Progression\n"
 usefulPrint = "Useful\n"
 fillerPrint = "Filler\n"
@@ -119,9 +119,12 @@ for (worldID, gameName, url, slotName) in gameList:
                     progressionFile = open("worlds/{}/progression.txt".format(gameName), "a")
                     progressionFile.write("\n{}: unknown".format(itemName))
                     progressionFile.close()
-    lastUpdateFile.write("{} ({}): {}\n".format(gameName, worldID, newUpdate))
+    lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, newUpdate)
     if DDOSProtectionMode:
         time.sleep(1)  # Don't want to get in trouble for hammering the website
+lastUpdateFile = open("Last Updated.txt", "w")
+lastUpdateFile.write(lastUpdatePrint)
+lastUpdateFile.close()
 progressionPrint = progressionPrint+"\n" if hasProgression else ""
 usefulPrint = usefulPrint+"\n" if hasUseful else ""
 fillerPrint = fillerPrint+"\n" if hasFiller else ""
@@ -137,7 +140,6 @@ else:
     print(consolePrint)
     outputFile.write(filePrint)
 outputFile.close()
-lastUpdateFile.close()
 print("Output also printed to Output.txt.")
 print("Open Output.txt? (y/n)")
 userInput = input()
