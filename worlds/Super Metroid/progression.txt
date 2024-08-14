@@ -7,16 +7,16 @@ Grappling Beam: progression
 Morph Ball: progression
 Gravity Suit: progression
 Space Jump: progression
-Charge Beam: useful
-Wave Beam: useful
-Spazer: useful
-Plasma Beam: useful
-Energy Tank: useful
-Reserve Tank: useful
+Charge Beam: progression
+Wave Beam: progression
+Spazer: progression
+Plasma Beam: progression
+Energy Tank: progression
+Reserve Tank: progression
 Spring Ball: useful
 X-Ray Scope: useful
-Screw Attack: useful
-Missile: filler
-Super Missile: filler
-Power Bomb: filler
+Screw Attack: progression
+Missile: progression
+Super Missile: progression
+Power Bomb: progression	
 Nothing: filler
