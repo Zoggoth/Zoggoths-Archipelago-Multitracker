@@ -571,3 +571,13 @@ Great To Perfect (10 Pack): filler
 Miss To Great (5 Pack): filler
 Extra Life: filler
 Music Sheet: progression
+Bad Apple Trap: trap
+Pixelate Trap: trap
+Ripple Trap: trap
+Vignette Trap: trap
+Chromatic Aberration Trap: trap
+Background Freeze Trap: trap
+Gray Scale Trap: trap
+Nyaa SFX Trap: trap
+Error SFX Trap: trap
+Focus Line Trap: trap

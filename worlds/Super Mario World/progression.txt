@@ -2,7 +2,7 @@
 5 coins: filler
 10 coins: filler
 50 coins: filler
-1-Up Mushroom: useful
+1-Up Mushroom: filler
 yoshi egg: progression
 mario run: progression
 mario carry: progression
