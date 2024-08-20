@@ -1,0 +1,264 @@
+Blue Deck: progression
+Hand Trap: trap
+Sock and Buskin: progression
+Scary Face: progression
+Mega Spectral Pack: progression
+Bonus Starting Money: filler
+Seeing Double: progression
+Chicot: progression
+Blackboard: progression
+Bonus Max Interest: filler
+Satellite: progression
+Mystic Summit: progression
+Four Fingers: progression
+Spare Trousers: progression
+Bonus Hand Size: filler
+Bonus Discards: filler
+Throwback: progression
+Abstract Joker: progression
+Superposition: progression
+The Trio: progression
+Steel Joker: progression
+Lusty Joker: progression
+Obelisk: progression
+Flash Card: progression
+Droll Joker: progression
+Bonus Consumable Slot: filler
+Green Deck: progression
+8 Ball: progression
+Oops! All 6s: progression
+Egg: progression
+Blueprint: progression
+Burglar: progression
+Wasteful/Recyclomancy 2: progression
+Tarot Merchant/Tarot Tycoon 1: progression
+Burnt Joker: progression
+Campfire: progression
+Bonus Hands: filler
+Triboulet: progression
+Onyx Agate: progression
+Glass Joker: progression
+Black Deck: progression
+Arcana Pack: progression
+The Duo: progression
+Lucky Cat: progression
+Marble Joker: progression
+Bonus Joker Slot: filler
+Swashbuckler: progression
+Certificate: progression
+Jolly Joker: progression
+Planet Merchant/Planet Tycoon 2: progression
+Mime: progression
+Director's Cut/Retcon 2: progression
+Magic Deck: progression
+Showman: progression
+Mega Arcana Pack: progression
+Eternal Trap: trap
+To Do List: progression
+Troubadour: progression
+Astronomer: progression
+Blue Joker: progression
+Misprint: progression
+Rental Trap: trap
+Joker Stencil: progression
+The Order: progression
+Zany Joker: progression
+Mad Joker: progression
+Mega Celestial Pack: progression
+Greedy Joker: progression
+Baron: progression
+Vagabond: progression
+Bankruptcy Trap: trap
+Juggler: progression
+Clearance Sale/Liquidation 1: progression
+Gluttonous Joker: progression
+Red Card: progression
+Photograph: progression
+Crystal Ball/Omen Globe 1: progression
+Ice Cream: progression
+Wee Joker: progression
+Wrathful Joker: progression
+Hieroglyph/Petroglyph 1: progression
+Mega Standard Pack: progression
+Constellation: progression
+Blank/Antimatter 1: progression
+Madness: progression
+Walkie Talkie: progression
+Blank/Antimatter 2: progression
+Flower Pot: progression
+Seed Money/Money Tree 2: progression
+Golden Joker: progression
+Jumbo Celestial Pack: progression
+Seed Money/Money Tree 1: progression
+Celestial Pack: progression
+Seance: progression
+DNA: progression
+Invisible Joker: progression
+Matador: progression
+Zodiac Deck: progression
+Cavendish: progression
+Planet Bundle: progression
+Ghost Deck: progression
+Abandoned Deck: progression
+Trading Card: progression
+Business Card: progression
+Hone/Glow Up 1: progression
+Card Sharp: progression
+Bootstraps: progression
+Grabber/Nacho Tong 1: progression
+Faceless Joker: progression
+Telescope/Observatory 2: progression
+Rocket: progression
+Wily Joker: progression
+Plasma Deck: progression
+Wasteful/Recyclomancy 1: progression
+Seltzer: progression
+Merry Andy: progression
+Reroll Surplus/Reroll Glut 2: progression
+Cartomancer: progression
+Sly Joker: progression
+Chaos the Clown: progression
+Nebula Deck: progression
+Crafty Joker: progression
+Reserved Parking: progression
+Odd Todd: progression
+Magic Trick/Illusion 1: progression
+Even Steven: progression
+Green Joker: progression
+Erratic Deck: progression
+Spectral Bundle: progression
+Arrowhead: progression
+Joker: progression
+Perkeo: progression
+Shortcut: progression
+Yorick: progression
+Mega Buffoon Pack: progression
+Caino: progression
+Riff-raff: progression
+Jumbo Spectral Pack: progression
+Crazy Joker: progression
+Discard Trap: trap
+Half Joker: progression
+Diet Cola: progression
+Hologram: progression
+Jumbo Buffoon Pack: progression
+Bull: progression
+Delayed Gratification: progression
+Paint Brush/Palette 1: progression
+To the Moon: progression
+Acrobat: progression
+Stuntman: progression
+Supernova: progression
+Telescope/Observatory 1: progression
+Baseball Card: progression
+Clever Joker: progression
+Splash: progression
+Tarot Bundle: progression
+Hit the Road: progression
+Ceremonial Dagger: progression
+Grabber/Nacho Tong 2: progression
+Hanging Chad: progression
+The Tribe: progression
+Castle: progression
+Loyalty Card: progression
+The Family: progression
+Runner: progression
+Brainstorm: progression
+Director's Cut/Retcon 1: progression
+Hallucination: progression
+Clearance Sale/Liquidation 2: progression
+Hiker: progression
+Spectral Pack: progression
+Hieroglyph/Petroglyph 2: progression
+Stone Joker: progression
+Gros Michel: progression
+Dusk: progression
+Buffoon Pack: progression
+Fortune Teller: progression
+Vampire: progression
+Space Joker: progression
+Hone/Glow Up 2: progression
+Standard Pack: progression
+Overstock/Overstock Plus 1: progression
+Erosion: progression
+Red Deck: progression
+Turtle Bean: progression
+Jumbo Arcana Pack: progression
+Paint Brush/Palette 2: progression
+Cloud 9: progression
+Driver's License: progression
+Fibonacci: progression
+Midas Mask: progression
+Smeared Joker: progression
+Smiley Face: progression
+Mail-In Rebate: progression
+Mr. Bones: progression
+Anaglyph Deck: progression
+Raised Fist: progression
+Planet Merchant/Planet Tycoon 1: progression
+Bloodstone: progression
+Gift Card: progression
+Devious Joker: progression
+Shoot the Moon: progression
+Banner: progression
+Luchador: progression
+The Idol: progression
+Golden Ticket: progression
+Credit Card: progression
+Pareidolia: progression
+Painted Deck: progression
+Drunkard: progression
+Hack: progression
+Sixth Sense: progression
+Magic Trick/Illusion 2: progression
+Tarot Merchant/Tarot Tycoon 2: progression
+Crystal Ball/Omen Globe 2: progression
+Yellow Deck: progression
+Scholar: progression
+Ancient Joker: progression
+Rough Gem: progression
+Square Joker: progression
+Reroll Surplus/Reroll Glut 1: progression
+Jumbo Standard Pack: progression
+Ride the Bus: progression
+Popcorn: progression
+Overstock/Overstock Plus 2: progression
+Ramen: progression
+Checkered Deck: progression
+Perishable Trap: trap
+Receive Buffoon Pack: filler
+Receive Consumable Pack: filler
+Bonus Juggle Tag: filler
+Bonus D6 Tag: filler
+Bonus Uncommon Tag: filler
+Bonus Rare Tag: filler
+Bonus Negative Tag: filler
+Bonus Foil Tag: filler
+Bonus Holographic Tag: filler
+Bonus Double Tag: filler
+Joker Bundle 1: filler
+Joker Bundle 2: filler
+Joker Bundle 3: filler
+Joker Bundle 4: filler
+Joker Bundle 5: filler
+Joker Bundle 6: filler
+Joker Bundle 7: filler
+Joker Bundle 8: filler
+Joker Bundle 9: filler
+Joker Bundle 10: filler
+Joker Bundle 11: filler
+Joker Bundle 12: filler
+Joker Bundle 13: filler
+Joker Bundle 14: filler
+Joker Bundle 15: filler
+Tarot Bundle: filler
+Planet Bundle: filler
+Spectral Bundle: filler
+White Stake: filler
+Red Stake: filler
+Green Stake: filler
+Black Stake: filler
+Blue Stake: filler
+Purple Stake: filler
+Orange Stake: filler
+Gold Stake: filler

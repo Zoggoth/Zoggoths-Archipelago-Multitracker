@@ -1,0 +1,3 @@
+Map Height: progression
+Map Bombs: progression
+Map Width: progression
