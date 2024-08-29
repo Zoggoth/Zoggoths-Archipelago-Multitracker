@@ -1,0 +1,62 @@
+EkeEke: filler
+Magic Sword: useful
+Sword of Ice: useful
+Thunder Sword: useful
+Sword of Gaia: progression
+Fireproof: progression
+Iron Boots: progression
+Healing Boots: useful
+Snow Spikes: progression
+Steel Breast: useful
+Chrome Breast: useful
+Shell Breast: useful
+Hyper Breast: useful
+Mars Stone: useful
+Moon Stone: useful
+Saturn Stone: useful
+Venus Stone: useful
+Detox Grass: filler
+Statue of Gaia: filler
+Golden Statue: filler
+Mind Repair: filler
+Casino Ticket: progression
+Axe Magic: progression
+Blue Ribbon: filler
+Buyer Card: progression
+Lantern: progression
+Garlic: progression
+Anti Paralyze: filler
+Statue of Jypta: useful
+Sun Stone: progression
+Armlet: progression
+Einstein Whistle: progression
+Blue Jewel: progression
+Yellow Jewel: progression
+Lithograph: progression
+Red Jewel: progression
+Pawn Ticket: useful
+Purple Jewel: progression
+Gola's Eye: progression
+Death Statue: filler
+Dahl: filler
+Restoration: filler
+Logs: progression
+Oracle Stone: progression
+Idol Stone: progression
+Key: progression
+Safety Pass: progression
+Green Jewel: progression
+Bell: useful
+Short Cake: useful
+Gola's Nail: progression
+Gola's Horn: progression
+Gola's Fang: progression
+Life Stock: filler
+No Item: filler
+1 Gold: filler
+20 Golds: filler
+50 Golds: filler
+100 Golds: filler
+200 Golds: useful
+Progressive Armor: useful
+Kazalt Jewel: progression

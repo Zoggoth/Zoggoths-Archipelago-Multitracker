@@ -1,0 +1,23 @@
+Nothing: filler
+Reflect Shield upgrade: filler
+Circuit Charge upgrade: filler
+Circuit Refill upgrade: filler
+Map: useful
+Shield Boost: progression
+Crystal Efficiency: useful
+Circuit Booster: progression
+Metabolism: progression
+Dodge Enhancer: progression
+Ethereal Monocle: useful
+Crystal Gatherer: useful
+Portable Compass: useful
+PSI Key 1: filler
+PSI Key 2: filler
+PSI Key 3: filler
+Cursed Seal: filler
+Agate Knife: filler
+Evolution Trap: trap
+Crystals x500: filler
+Crystals x1000: filler
+Crystals x2000: filler
+Extra Life: filler

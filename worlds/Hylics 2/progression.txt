@@ -1,0 +1,71 @@
+DUBIOUS BERRY: filler
+BURRITO: filler
+COFFEE: filler
+SOUL SPONGE: filler
+MUSCLE APPLIQUE: useful
+POOLWINE: filler
+CUPCAKE: filler
+COOKIE: filler
+HOUSE KEY: progression
+MEAT: filler
+PNEUMATOPHORE: progression
+CAVE KEY: progression
+JUICE: filler
+DOCK KEY: progression
+BANANA: filler
+PAPER CUP: progression
+JAIL KEY: progression
+PADDLE: progression
+WORM ROOM KEY: progression
+BRIDGE KEY: progression
+STEM CELL: filler
+UPPER CHAMBER KEY: progression
+VESSEL ROOM KEY: progression
+CLOUD GERM: filler
+SKULL BOMB: progression
+TOWER KEY: progression
+DEEP KEY: progression
+MULTI-COFFEE: filler
+MULTI-JUICE: filler
+MULTI STEM CELL: filler
+MULTI SOUL SPONGE: filler
+ANTENNA: filler
+UPPER HOUSE KEY: progression
+BOTTOMLESS JUICE: useful
+SAGE TOKEN: progression
+CLICKER: progression
+CURSED GLOVES: useful
+LONG GLOVES: useful
+BRAIN DIGITS: useful
+MATERIEL MITTS: useful
+PLEATHER GAGE: useful
+PEPTIDE BODKINS: useful
+TELESCOPIC SLEEVE: useful
+TENDRIL HAND: useful
+PSYCHIC KNUCKLE: useful
+SINGLE GLOVE: useful
+FADED PONCHO: useful
+JUMPSUIT: useful
+BOOTS: useful
+CONVERTER WORM: useful
+COFFEE CHIP: useful
+RANCHER PONCHO: useful
+ORGAN FORT: useful
+LOOPED DOME: useful
+DUCTILE HABIT: useful
+TARP: useful
+100 Bones: filler
+50 Bones: filler
+POROMER BLEB: useful
+SOUL CRISPER: useful
+TIME SIGIL: useful
+CHARGE UP: progression
+FATE SANDBOX: useful
+TELEDENUDATE: useful
+LINK MOLLUSC: useful
+BOMBO - GENESIS: useful
+NEMATODE INTERFACE: useful
+Pongorma: progression
+Dedusmuln: progression
+Somsnosa: progression
+10 Bones: filler

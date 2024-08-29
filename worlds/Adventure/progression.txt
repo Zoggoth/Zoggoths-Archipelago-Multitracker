@@ -1,0 +1,15 @@
+Yellow Key: progression
+White Key: progression
+Black Key: progression
+Bridge: progression
+Magnet: progression
+Sword: progression
+Chalice: progression
+Left Difficulty Switch: filler
+Right Difficulty Switch: filler
+Freeincarnate: filler
+Slow Yorgle: filler
+Slow Grundle: filler
+Slow Rhindle: filler
+Revive Dragons: trap
+nothing: filler

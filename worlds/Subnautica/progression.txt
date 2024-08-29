@@ -1,0 +1,111 @@
+Compass: useful
+Lightweight High Capacity Tank: progression
+Vehicle Upgrade Console: progression
+Ultra Glide Fins: progression
+Cyclops Sonar Upgrade: useful
+Reinforced Dive Suit: useful
+Cyclops Thermal Reactor Module: useful
+Water Filtration Suit: filler
+Alien Containment: progression
+Creature Decoy: useful
+Cyclops Fire Suppression System: useful
+Swim Charge Fins: useful
+Repulsion Cannon: useful
+Cyclops Decoy Tube Upgrade: useful
+Cyclops Shield Generator: progression
+Cyclops Depth Module MK1: progression
+Cyclops Docking Bay Repair Module: useful
+Battery Charger fragment: useful
+Beacon Fragment: filler
+Bioreactor Fragment: useful
+Cyclops Bridge Fragment: progression
+Cyclops Engine Fragment: progression
+Cyclops Hull Fragment: progression
+Grav Trap Fragment: filler
+Laser Cutter Fragment: progression
+Light Stick Fragment: filler
+Mobile Vehicle Bay Fragment: progression
+Modification Station Fragment: progression
+Moonpool Fragment: progression
+Nuclear Reactor Fragment: useful
+Power Cell Charger Fragment: useful
+Power Transmitter Fragment: filler
+Prawn Suit Fragment: progression
+Prawn Suit Drill Arm Fragment: useful
+Prawn Suit Grappling Arm Fragment: useful
+Prawn Suit Propulsion Cannon Fragment: useful
+Prawn Suit Torpedo Arm Fragment: useful
+Scanner Room Fragment: useful
+Seamoth Fragment: progression
+Stasis Rifle Fragment: progression
+Thermal Plant Fragment: useful
+Seaglide Fragment: progression
+Radiation Suit: progression
+Propulsion Cannon Fragment: progression
+Neptune Launch Platform: progression
+Ion Power Cell: progression
+Exterior Growbed: filler
+Picture Frame: filler
+Bench: filler
+Basic Plant Pot: filler
+Interior Growbed: filler
+Plant Shelf: filler
+Observatory: filler
+Multipurpose Room: progression
+Bulkhead: useful
+Spotlight: filler
+Desk: filler
+Swivel Chair: filler
+Office Chair: filler
+Command Chair: filler
+Counter: filler
+Single Bed: filler
+Basic Double Bed: filler
+Quilted Double Bed: filler
+Coffee Vending Machine: filler
+Trash Can: filler
+Floodlight: filler
+Bar Table: filler
+Vending Machine: filler
+Single Wall Shelf: filler
+Wall Shelves: filler
+Round Plant Pot: filler
+Chic Plant Pot: filler
+Nuclear Waste Disposal: filler
+Wall Planter: filler
+Ion Battery: progression
+Neptune Gantry: progression
+Neptune Boosters: progression
+Neptune Fuel Reserve: progression
+Neptune Cockpit: progression
+Water Filtration Machine: filler
+Ultra High Capacity Tank: progression
+Large Room: progression
+Large Room Glass Dome: filler
+Multipurpose Room Glass Dome: filler
+Partition: filler
+Partition Door: filler
+Furniture: filler
+Farming: filler
+Resources Bundle: filler
+Titanium: filler
+Copper Ore: filler
+Copper: filler
+Silver Ore: filler
+Silver: filler
+Gold: filler
+Lead: filler
+Diamond: filler
+Lithium: filler
+Ruby: filler
+AluminumOxide: filler
+Nickel Ore: filler
+Nickel: filler
+Crystalline Sulfur: filler
+Sulphur: filler
+Salt Deposit: filler
+Salt: filler
+Kyanite: filler
+Magnetite: filler
+Reactor Rod: filler
+ReactorRod: filler

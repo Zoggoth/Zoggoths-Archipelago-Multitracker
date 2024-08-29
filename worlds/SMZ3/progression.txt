@@ -1,0 +1,187 @@
+Bow: progression
+Progressive Bow: progression
+Progressive Bow (Alt): progression
+Silver Arrows: progression
+Silver Bow: progression
+Book of Mudora: progression
+Hammer: progression
+Hookshot: progression
+Magic Mirror: progression
+Flute: progression
+Pegasus Boots: progression
+Power Glove: progression
+Cape: progression
+Mushroom: progression
+Shovel: progression
+Lamp: progression
+Magic Powder: progression
+Moon Pearl: progression
+Cane of Somaria: progression
+Fire Rod: progression
+Flippers: progression
+Ice Rod: progression
+Titans Mitts: progression
+Bombos: progression
+Ether: progression
+Quake: progression
+Bottle: progression
+Bottle (Red Potion): progression
+Bottle (Green Potion): progression
+Bottle (Blue Potion): progression
+Bottle (Fairy): progression
+Bottle (Bee): progression
+Bottle (Good Bee): progression
+Master Sword: progression
+Tempered Sword: progression
+Fighter Sword: progression
+Golden Sword: progression
+Progressive Sword: progression
+Progressive Glove: progression
+Green Pendant: progression
+Blue Pendant: progression
+Red Pendant: progression
+Triforce: progression
+Power Star: progression
+Triforce Piece: progression
+Crystal 1: progression
+Crystal 2: progression
+Crystal 3: progression
+Crystal 4: progression
+Crystal 5: progression
+Crystal 6: progression
+Crystal 7: progression
+Single Arrow: filler
+Arrows (10): filler
+Arrow Upgrade (+10): useful
+Arrow Upgrade (+5): useful
+Arrow Upgrade (70): useful
+Single Bomb: filler
+Bombs (3): filler
+Bombs (10): filler
+Bomb Upgrade (+10): progression
+Bomb Upgrade (+5): progression
+Bomb Upgrade (50): progression
+Blue Mail: useful
+Red Mail: useful
+Progressive Mail: useful
+Blue Boomerang: progression
+Red Boomerang: progression
+Blue Shield: filler
+Red Shield: filler
+Mirror Shield: progression
+Progressive Shield: progression
+Bug Catching Net: progression
+Cane of Byrna: progression
+Boss Heart Container: useful
+Sanctuary Heart Container: useful
+Piece of Heart: useful
+Rupee (1): filler
+Rupees (5): filler
+Rupees (20): filler
+Rupees (50): filler
+Rupees (100): filler
+Rupees (300): filler
+Rupoor: trap
+Red Clock: trap
+Blue Clock: filler
+Green Clock: useful
+Single RNG: filler
+Multi RNG: filler
+Magic Upgrade (1/2): progression
+Magic Upgrade (1/4): progression
+Small Key (Eastern Palace): progression
+Big Key (Eastern Palace): progression
+Compass (Eastern Palace): filler
+Map (Eastern Palace): filler
+Small Key (Desert Palace): progression
+Big Key (Desert Palace): progression
+Compass (Desert Palace): filler
+Map (Desert Palace): filler
+Small Key (Tower of Hera): progression
+Big Key (Tower of Hera): progression
+Compass (Tower of Hera): filler
+Map (Tower of Hera): filler
+Small Key (Hyrule Castle): progression
+Big Key (Hyrule Castle): progression
+Compass (Hyrule Castle): filler
+Map (Hyrule Castle): filler
+Small Key (Agahnims Tower): progression
+Big Key (Agahnims Tower): progression
+Compass (Agahnims Tower): filler
+Map (Agahnims Tower): filler
+Small Key (Palace of Darkness): progression
+Big Key (Palace of Darkness): progression
+Compass (Palace of Darkness): filler
+Map (Palace of Darkness): filler
+Small Key (Thieves Town): progression
+Big Key (Thieves Town): progression
+Compass (Thieves Town): filler
+Map (Thieves Town): filler
+Small Key (Skull Woods): progression
+Big Key (Skull Woods): progression
+Compass (Skull Woods): filler
+Map (Skull Woods): filler
+Small Key (Swamp Palace): progression
+Big Key (Swamp Palace): progression
+Compass (Swamp Palace): filler
+Map (Swamp Palace): filler
+Small Key (Ice Palace): progression
+Big Key (Ice Palace): progression
+Compass (Ice Palace): filler
+Map (Ice Palace): filler
+Small Key (Misery Mire): progression
+Big Key (Misery Mire): progression
+Compass (Misery Mire): filler
+Map (Misery Mire): filler
+Small Key (Turtle Rock): progression
+Big Key (Turtle Rock): progression
+Compass (Turtle Rock): filler
+Map (Turtle Rock): filler
+Small Key (Ganons Tower): progression
+Big Key (Ganons Tower): progression
+Compass (Ganons Tower): filler
+Map (Ganons Tower): filler
+Small Key (Universal): filler
+Nothing: trap
+Bee Trap: trap
+Faerie: filler
+Good Bee: filler
+Magic Jar: filler
+Apple: filler
+Hint: filler
+Bomb Trap: filler
+Red Potion: filler
+Green Potion: filler
+Blue Potion: filler
+Bee: trap
+Small Heart: filler
+Activated Flute: progression
+Beat Agahnim 1: progression
+Beat Agahnim 2: progression
+Get Frog: progression
+Return Smith: progression
+Pick Up Purple Chest: progression
+Open Floodgate: progression
+Capacity Upgrade Shop: progression
+Bomb: progression
+Ice Beam: progression
+Hi-Jump Boots: progression
+Speed Booster: progression
+Varia Suit: progression
+Grappling Beam: progression
+Morph Ball: progression
+Gravity Suit: progression
+Space Jump: progression
+Charge Beam: progression
+Wave Beam: progression
+Spazer: progression
+Plasma Beam: progression
+Energy Tank: progression
+Reserve Tank: progression
+Spring Ball: useful
+X-Ray Scope: useful
+Screw Attack: progression
+Missile: progression
+Super Missile: progression
+Power Bomb: progression	
+Nothing: filler

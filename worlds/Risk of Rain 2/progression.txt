@@ -1,0 +1,26 @@
+Common Item: filler
+Uncommon Item: filler
+Legendary Item: useful
+Boss Item: useful
+Equipment: filler
+Item Scrap, White: filler
+Item Scrap, Green: filler
+Item Scrap, Red: filler
+Item Scrap, Yellow: filler
+Void Item: filler
+Dio's Best Friend: progression
+Beads of Fealty: progression
+Radar Scanner: useful
+Money: filler
+Lunar Coin: filler
+1000 Exp: filler
+Lunar Item: trap
+Mountain Trap: trap
+Time Warp Trap: trap
+Combat Trap: trap
+Teleport Trap: trap
+Stage 1: progression
+Stage 2: progression
+Stage 3: progression
+Stage 4: progression
+Progressive Stage: progression

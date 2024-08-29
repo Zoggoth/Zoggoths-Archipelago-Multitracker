@@ -1,0 +1,45 @@
+Wood: progression
+Coal Bucket: progression
+Spare Plate: progression
+Fire Extinguisher: progression
+Bellows: progression
+Clean Dishes: progression
+Larger Tip Jar: progression
+Progressive Dash: progression
+Progressive Throw/Catch: progression
+Coin Purse: progression
+Control Stick Batteries: progression
+Wok Wheels: progression
+Dish Scrubber: progression
+Burn Leniency: progression
+Sharp Knife: progression
+Order Lookahead: progression
+Lightweight Backpack: progression
+Faster Respawn Time: progression
+Faster Condiment/Drink Switch: progression
+Guest Patience: progression
+Kevin-1: progression
+Kevin-2: progression
+Kevin-3: progression
+Kevin-4: progression
+Kevin-5: progression
+Kevin-6: progression
+Kevin-7: progression
+Kevin-8: progression
+Cooking Emote: filler
+Curse Emote: filler
+Serving Emote: filler
+Preparing Emote: filler
+Washing Up Emote: filler
+Ok Emote: filler
+Ramp Button: progression
+Bonus Star: progression
+Calmer Unbread: progression
+Green Ramp: progression
+Yellow Ramp: progression
+Blue Ramp: progression
+Pink Ramp: progression
+Dark Green Ramp: progression
+Red Ramp: progression
+Purple Ramp: progression
+Emote Wheel: progression
