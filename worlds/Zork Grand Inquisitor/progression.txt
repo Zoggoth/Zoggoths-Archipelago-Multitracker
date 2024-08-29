@@ -1,0 +1,123 @@
+Brog's Bickering Torch: filler
+Brog's Flickering Torch: progression
+Brog's Grue Egg: progression
+Brog's Plank: progression
+Frobozz Electric Gadget: filler
+Inquisition Propaganda Flyer: filler
+Magic Contraband: filler
+Nonsensical Inquisition Paperwork: filler
+Unreadable Spell Scroll: filler
+Flatheadia Fudge: progression
+Griff's Air Pump: progression
+Griff's Dragon Tooth: progression
+Griff's Inflatable Raft: progression
+Griff's Inflatable Sea Captain: progression
+Hammer: progression
+Hotspot: 666 Mailbox: progression
+Hotspot: Alpine's Quandry Card Slots: progression
+Hotspot: Blank Scroll Box: progression
+Hotspot: Blinds: progression
+Hotspot: Candy Machine Buttons: progression
+Hotspot: Candy Machine Coin Slot: progression
+Hotspot: Candy Machine Vacuum Slot: progression
+Hotspot: Change Machine Slot: progression
+Hotspot: Closet Door: progression
+Hotspot: Closing the Time Tunnels Hammer Slot: progression
+Hotspot: Closing the Time Tunnels Lever: progression
+Hotspot: Cooking Pot: progression
+Hotspot: Dented Locker: progression
+Hotspot: Dirt Mound: progression
+Hotspot: Dock Winch: progression
+Hotspot: Dragon Claw: progression
+Hotspot: Dragon Nostrils: progression
+Hotspot: Dungeon Master's Lair Entrance: progression
+Hotspot: Flood Control Buttons: progression
+Hotspot: Flood Control Doors: progression
+Hotspot: Frozen Treat Machine Coin Slot: progression
+Hotspot: Frozen Treat Machine Doors: progression
+Hotspot: Glass Case: progression
+Hotspot: Grand Inquisitor Doll: progression
+Hotspot: GUE Tech Door: progression
+Hotspot: GUE Tech Grass: progression
+Hotspot: Hades Phone Buttons: progression
+Hotspot: Hades Phone Receiver: progression
+Hotspot: Harry: progression
+Hotspot: Harry's Ashtray: progression
+Hotspot: Harry's Bird Bath: progression
+Hotspot: In Magic We Trust Door: progression
+Hotspot: Jack's Door: progression
+Hotspot: Loudspeaker Volume Buttons: progression
+Hotspot: Mailbox Door: progression
+Hotspot: Mailbox Flag: progression
+Hotspot: Mirror: progression
+Hotspot: Monastery Vent: progression
+Hotspot: Mossy Grate: progression
+Hotspot: Port Foozle Past Tavern Door: progression
+Hotspot: Purple Words: progression
+Hotspot: Quelbee Hive: progression
+Hotspot: Rope Bridge: progression
+Hotspot: Skull Cage: progression
+Hotspot: Snapdragon: progression
+Hotspot: Soda Machine Buttons: progression
+Hotspot: Soda Machine Coin Slot: progression
+Hotspot: Souvenir Coin Slot: progression
+Hotspot: Spell Checker: progression
+Hotspot: Spell Lab Chasm: progression
+Hotspot: Spring Mushroom: progression
+Hotspot: Student ID Machine: progression
+Hotspot: Subway Token Slot: progression
+Hotspot: Tavern Fly: progression
+Hotspot: Totemizer Switch: progression
+Hotspot: Totemizer Wheels: progression
+Hotspot: Well: progression
+Hungus Lard: progression
+Jar of Hotbugs: progression
+Lantern: progression
+Large Telegraph Hammer: progression
+Lucy's Playing Card: 1 Pip: progression
+Lucy's Playing Card: 2 Pips: progression
+Lucy's Playing Card: 3 Pips: progression
+Lucy's Playing Card: 4 Pips: progression
+Map: progression
+Mead Light: progression
+Moss of Mareilon: progression
+Mug: progression
+Old Scratch Card: progression
+Perma-Suck Machine: progression
+Plastic Six-Pack Holder: progression
+Pouch of Zorkmids: progression
+Prozork Tablet: progression
+Quelbee Honeycomb: progression
+Rope: progression
+Scroll Fragment: ANS: progression
+Scroll Fragment: GIV: progression
+Shovel: progression
+Snapdragon: progression
+Spell: GLORF: progression
+Spell: GOLGATEM: progression
+Spell: IGRAM: progression
+Spell: KENDALL: progression
+Spell: NARWILE: progression
+Spell: REZROV: progression
+Spell: THROCK: progression
+Spell: VOXAM: useful
+Student ID: progression
+Subway Destination: Flood Control Dam #3: progression
+Subway Destination: Hades: progression
+Subway Destination: Monastery: progression
+Subway Token: progression
+Sword: progression
+Teleporter Destination: Dungeon Master's Lair: progression
+Teleporter Destination: GUE Tech: progression
+Teleporter Destination: Hades: progression
+Teleporter Destination: Monastery Station: progression
+Teleporter Destination: Spell Lab: progression
+Totem: Brog: progression
+Totem: Griff: progression
+Totem: Lucy: progression
+Totemizer Destination: Hall of Inquisition: progression
+Totemizer Destination: Infinity: filler
+Totemizer Destination: Straight to Hell: progression
+Totemizer Destination: Surface of Merz: filler
+ZIMDOR Scroll: progression
+Zork Rocks: progression
