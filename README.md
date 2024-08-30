@@ -32,4 +32,4 @@ All games display received items, but they need progression/useful/filler info t
 Some progression info can be extracted from the Archipelago logic files, but edge cases might need someone familiar with the game to help  
 If you have experience in a game that isn't tracked yet, or have corrections for a game that's already tracked, please let me know  
 Ideally I want progression info for all supported games + as many unsupported/manual as possible  
-All 0.5.1 supported are done except: Factorio, Stardew Valley, Terraria, Yu-Gi-Oh! 2006, Zillion
+All 0.5.1 supported are done except: Factorio, The Messenger, Stardew Valley, Terraria, Yu-Gi-Oh! 2006, Zillion
