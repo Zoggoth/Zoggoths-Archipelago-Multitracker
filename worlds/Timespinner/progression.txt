@@ -9,7 +9,7 @@ Buckle Hat: filler
 Advisor Hat: filler
 Librarian Hat: filler
 Combat Helmet: filler
-Captain\'s Cap: filler
+Captain's Cap: filler
 Lab Glasses: filler
 Empire Crown: filler
 Viletian Crown: filler
@@ -19,13 +19,13 @@ Trendy Jacket: filler
 Security Vest: filler
 Leather Jerkin: filler
 Copper Breastplate: filler
-Traveler\'s Cloak: filler
+Traveler's Cloak: filler
 Dragoon Armor: filler
 Midnight Cloak: filler
 Advisor Robe: filler
 Librarian Robe: filler
 Military Armor: filler
-Captain\'s Uniform: filler
+Captain's Uniform: filler
 Lab Coat: filler
 Empress Robe: filler
 Princess Dress: filler
@@ -34,7 +34,7 @@ Synthetic Plume: filler
 Cheveur Plume: filler
 Metal Wristband: filler
 Nymph Hairband: filler
-Mother o\' Pearl: filler
+Mother o' Pearl: filler
 Bird Statue: useful
 Chaos Stole: filler
 Pendulum: useful
@@ -44,7 +44,7 @@ Azure Stole: filler
 Ancient Coin: filler
 Shiny Rock: filler
 Galaxy Earrings: useful
-Selen\'s Bangle: useful
+Selen's Bangle: useful
 Glass Pumpkin: useful
 Gilded Egg: useful
 Meyef: filler

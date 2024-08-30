@@ -1,8 +1,8 @@
-1-Up Mushroom: filler
 1 coin: filler
 5 coins: filler
 10 coins: filler
 50 coins: filler
+1-Up Mushroom: filler
 Yoshi Egg: progression
 Run: progression
 Carry: progression
@@ -11,18 +11,19 @@ Spin Jump: progression
 Climb: progression
 Yoshi: progression
 P-Switch: progression
-P-Balloon: progression
 Progressive Powerup: progression
+P-Balloon: progression
 Super Star Activate: progression
+Special Zone Clear: progression
 Yellow Switch Palace: progression
 Green Switch Palace: progression
 Red Switch Palace: progression
 Blue Switch Palace: progression
-Special Zone Clear: progression
 Ice Trap: trap
 Stun Trap: trap
 Literature Trap: trap
 Timer Trap: trap
 Reverse Trap: trap
 Thwimp Trap: trap
+The Princess: progression
 Boss Token: progression

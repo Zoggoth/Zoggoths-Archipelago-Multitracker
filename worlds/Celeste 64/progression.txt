@@ -1,14 +1,14 @@
-strawberry: progression
-raspberry: filler
-dash_refill: progression
-double_dash_refill: progression
-feather: progression
-coin: progression
-cassette: progression
-traffic_block: progression
-spring: progression
-breakables: progression
-ground_dash: progression
-air_dash: progression
-skid_jump: progression
-climb: progression
+Air Dash: progression
+Breakable Blocks: progression
+Cassettes: progression
+Climb: progression
+Coins: progression
+Dash Refills: progression
+Double Dash Refills: progression
+Feathers: progression
+Ground Dash: progression
+Raspberry: filler
+Skid Jump: progression
+Springs: progression
+Strawberry: progression
+Traffic Blocks: progression

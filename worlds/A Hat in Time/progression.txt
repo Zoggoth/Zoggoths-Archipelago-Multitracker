@@ -53,3 +53,6 @@ Zipline Unlock - The Birdhouse Path: progression
 Zipline Unlock - The Lava Cake Path: progression
 Zipline Unlock - The Windmill Path: progression
 Zipline Unlock - The Twilight Bell Path: progression
+Baby Trap: trap
+Laser Trap: trap
+Parade Trap: trap

@@ -20,3 +20,5 @@ Missile: progression
 Super Missile: progression
 Power Bomb: progression	
 Nothing: filler
+No Energy: filler
+Generic: filler

@@ -128,7 +128,6 @@ Heavy Bolt: filler
 Sniper Bolt: filler
 Wood Bolt: filler
 Lightning Bolt: filler
-Lightning Bolt: filler
 Splintering Bolt: filler
 Exploding Bolt: filler
 Dagger: filler
@@ -150,7 +149,7 @@ Rotten Ghru Curved Sword: filler
 Irithyll Straight Sword: filler
 Cleric's Candlestick: filler
 Morion Blade: filler
-Astora Straight Sword: filler
+Astora's Straight Sword: filler
 Barbed Straight Sword: filler
 Executioner's Greatsword: filler
 Anri's Straight Sword: filler
@@ -209,7 +208,7 @@ Battle Axe: filler
 Deep Battle Axe: filler
 Brigand Axe: filler
 Crescent Axe: filler
-Greataxe: filler
+Great Axe: filler
 Butcher Knife: filler
 Dragonslayer's Axe: filler
 Thrall Axe: filler
@@ -516,7 +515,7 @@ Dragonscale Waistcloth: filler
 Wolnir's Crown: filler
 Undead Legion Helm: filler
 Undead Legion Armor: filler
-Undead Legion Gauntlet: filler
+Undead Legion Gauntlets: filler
 Undead Legion Leggings: filler
 Fire Witch Helm: filler
 Fire Witch Armor: filler
@@ -795,6 +794,7 @@ Roster of Knights: filler
 Cracked Red Eye Orb: filler
 Divine Blessing: filler
 Hidden Blessing: filler
+Silver Pendant: filler
 Green Blossom: filler
 Budding Green Blossom: filler
 Bloodred Moss Clump: filler
@@ -1010,7 +1010,7 @@ Gael's Greatsword: filler
 Follower Sabre: filler
 Demon's Scar: filler
 Frayed Blade: filler
-Harald Curved Greatsword: filler
+Herald Curved Greatsword: filler
 Millwood Battle Axe: filler
 Earth Seeker: filler
 Quakestone Hammer: filler
@@ -1081,10 +1081,10 @@ Iron Dragonslayer Armor: filler
 Iron Dragonslayer Gauntlets: filler
 Iron Dragonslayer Leggings: filler
 White Preacher Head: filler
-Ruin Helm: filler
-Ruin Armor: filler
-Ruin Gauntlets: filler
-Ruin Leggings: filler
+Ruin Sentinel Helm: filler
+Ruin Sentinel Armor: filler
+Ruin Sentinel Gauntlets: filler
+Ruin Sentinel Leggings: filler
 Desert Pyromancer Hood: filler
 Desert Pyromancer Garb: filler
 Desert Pyromancer Gloves: filler

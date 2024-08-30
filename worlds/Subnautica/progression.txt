@@ -90,22 +90,15 @@ Farming: filler
 Resources Bundle: filler
 Titanium: filler
 Copper Ore: filler
-Copper: filler
 Silver Ore: filler
-Silver: filler
 Gold: filler
 Lead: filler
 Diamond: filler
 Lithium: filler
 Ruby: filler
-AluminumOxide: filler
 Nickel Ore: filler
-Nickel: filler
 Crystalline Sulfur: filler
-Sulphur: filler
 Salt Deposit: filler
-Salt: filler
 Kyanite: filler
 Magnetite: filler
 Reactor Rod: filler
-ReactorRod: filler

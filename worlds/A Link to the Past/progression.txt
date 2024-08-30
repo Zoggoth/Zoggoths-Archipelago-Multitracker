@@ -149,7 +149,7 @@ Good Bee: filler
 Magic Jar: filler
 Apple: filler
 Hint: filler
-Bomb Trap: filler
+Bomb Trap: trap
 Red Potion: filler
 Green Potion: filler
 Blue Potion: filler

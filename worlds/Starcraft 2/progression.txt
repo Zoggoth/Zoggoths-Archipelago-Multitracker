@@ -473,7 +473,6 @@ Tempest: progression
 Mothership: progression
 Arbiter: progression
 Oracle: progression
-Progressive Protoss Air: useful
 Progressive Protoss Ground Weapon: useful
 Progressive Protoss Ground Armor: useful
 Progressive Protoss Shields: useful

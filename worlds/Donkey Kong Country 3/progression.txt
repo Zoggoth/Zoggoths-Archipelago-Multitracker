@@ -5,6 +5,7 @@ DK Coin: progression
 Banana Bird: progression
 Krematoa Cog: progression
 Progressive Boat Upgrade: progression
+Donkey Kong: progression
 Present: progression
 Bowling Ball: progression
 Shell: progression
