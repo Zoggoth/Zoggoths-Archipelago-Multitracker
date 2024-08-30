@@ -1,28 +1,28 @@
+1-Up Mushroom: filler
 1 coin: filler
 5 coins: filler
 10 coins: filler
 50 coins: filler
-1-Up Mushroom: filler
-yoshi egg: progression
-mario run: progression
-mario carry: progression
-mario swim: progression
-mario spin jump: progression
-mario climb: progression
-yoshi activate: progression
-p switch: progression
-progressive powerup: progression
-p balloon: progression
-super star active: progression
-special world clear: progression
-yellow switch palace: progression
-green switch palace: progression
-red switch palace: progression
-blue switch palace: progression
-ice trap: trap
-stun trap: trap
-literature trap: trap
-timer trap: trap
-reverse controls trap: trap
-thwimp trap: trap
+Yoshi Egg: progression
+Run: progression
+Carry: progression
+Swim: progression
+Spin Jump: progression
+Climb: progression
+Yoshi: progression
+P-Switch: progression
+P-Balloon: progression
+Progressive Powerup: progression
+Super Star Activate: progression
+Yellow Switch Palace: progression
+Green Switch Palace: progression
+Red Switch Palace: progression
+Blue Switch Palace: progression
+Special Zone Clear: progression
+Ice Trap: trap
+Stun Trap: trap
+Literature Trap: trap
+Timer Trap: trap
+Reverse Trap: trap
+Thwimp Trap: trap
 Boss Token: progression

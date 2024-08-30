@@ -1,0 +1,32 @@
+Trap: trap
+Extra Max HP: useful
+Spell Refresher: filler
+Potion: filler
+Gold (200): filler
+Gold (1000): filler
+Wand (Tier 1): useful
+Wand (Tier 2): useful
+Wand (Tier 3): useful
+Wand (Tier 4): useful
+Wand (Tier 5): useful
+Wand (Tier 6): useful
+Kantele: useful
+Fire Immunity Perk: progression
+Toxic Immunity Perk: progression
+Explosion Immunity Perk: progression
+Melee Immunity Perk: progression
+Electricity Immunity Perk: progression
+Tinker with Wands Everywhere Perk: progression
+All-Seeing Eye Perk: progression
+Spatial Awareness Perk: progression
+Extra Life Perk: useful
+Orb: progression
+Random Potion: filler
+Secret Potion: filler
+Powder Pouch: filler
+Chaos Die: filler
+Greed Die: filler
+Kammi: filler
+Refreshing Gourd: filler
+Sädekivi: filler
+Broken Wand: filler

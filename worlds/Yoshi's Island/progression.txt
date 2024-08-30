@@ -1,0 +1,74 @@
+! Switch: progression
+Dashed Platform: progression
+Dashed Stairs: progression
+Beanstalk: progression
+Helicopter Morph: progression
+Spring Ball: progression
+Large Spring Ball: progression
+Arrow Wheel: progression
+Vanishing Arrow Wheel: progression
+Mole Tank Morph: progression
+Watermelon: progression
+Ice Melon: progression
+Fire Melon: progression
+Super Star: progression
+Car Morph: progression
+Flashing Eggs: progression
+Giant Eggs: progression
+Egg Launcher: progression
+Egg Plant: progression
+Submarine Morph: progression
+Chomp Rock: progression
+Poochy: progression
+Platform Ghost: progression
+Skis: progression
+Train Morph: progression
+Key: progression
+Middle Ring: progression
+Bucket: progression
+Tulip: progression
+Egg Capacity Upgrade: progression
+Secret Lens: progression
+World 1 Gate: progression
+World 2 Gate: progression
+World 3 Gate: progression
+World 4 Gate: progression
+World 5 Gate: progression
+World 6 Gate: progression
+Extra 1: progression
+Extra 2: progression
+Extra 3: progression
+Extra 4: progression
+Extra 5: progression
+Extra 6: progression
+Extra Panels: progression
+Bonus 1: progression
+Bonus 2: progression
+Bonus 3: progression
+Bonus 4: progression
+Bonus 5: progression
+Bonus 6: progression
+Bonus Panels: progression
+Anytime Egg: useful
+Anywhere Pow: filler
+Winged Cloud Maker: filler
+Pocket Melon: filler
+Pocket Fire Melon: filler
+Pocket Ice Melon: filler
+Magnifying Glass: filler
++10 Stars: useful
++20 Stars: useful
+1-Up: filler
+2-Up: filler
+3-Up: filler
+10-Up: useful
+Bonus Consumables: progression
+Bandit Consumables: progression
+Bandit Watermelons: progression
+Fuzzy Trap: trap
+Reversal Trap: trap
+Darkness Trap: trap
+Freeze Trap: trap
+Boss Clear: progression
+Piece of Luigi: progression
+Saved Baby Luigi: progression

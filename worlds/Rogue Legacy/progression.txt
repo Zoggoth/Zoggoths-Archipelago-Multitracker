@@ -1,0 +1,69 @@
+Blacksmith: progression
+Enchantress: progression
+Architect: useful
+Progressive Knights: useful
+Progressive Mages: useful
+Progressive Barbarians: useful
+Progressive Knaves: useful
+Progressive Shinobis: useful
+Progressive Miners: useful
+Progressive Liches: useful
+Progressive Spellthieves: useful
+Dragons: progression
+Traitors: useful
+Health Up: progression
+Mana Up: progression
+Attack Up: progression
+Magic Damage Up: progression
+Armor Up: useful
+Equip Up: useful
+Crit Chance Up: useful
+Crit Damage Up: useful
+Down Strike Up: filler
+Gold Gain Up: filler
+Potion Efficiency Up: filler
+Invulnerability Time Up: filler
+Mana Cost Down: filler
+Death Defiance: useful
+Haggling: useful
+Randomize Children: useful
+Progressive Blueprints: useful
+Squire Blueprints: useful
+Silver Blueprints: useful
+Guardian Blueprints: useful
+Imperial Blueprints: useful
+Royal Blueprints: useful
+Knight Blueprints: useful
+Ranger Blueprints: useful
+Sky Blueprints: useful
+Dragon Blueprints: useful
+Slayer Blueprints: useful
+Blood Blueprints: useful
+Sage Blueprints: useful
+Retribution Blueprints: useful
+Holy Blueprints: useful
+Dark Blueprints: useful
+Vault Runes: progression
+Sprint Runes: progression
+Vampire Runes: useful
+Sky Runes: progression
+Siphon Runes: useful
+Retaliation Runes: filler
+Bounty Runes: filler
+Haste Runes: filler
+Curse Runes: filler
+Grace Runes: filler
+Balance Runes: useful
+Triple Stat Increase: filler
+1000 Gold: filler
+3000 Gold: filler
+5000 Gold: filler
+Defeat Khidr: progression
+Defeat Alexander: progression
+Defeat Ponce de Leon: progression
+Defeat Herodotus: progression
+Defeat Neo Khidr: progression
+Defeat Alexander IV: progression
+Defeat Ponce de Freon: progression
+Defeat Astrodotus: progression
+Defeat The Fountain: progression

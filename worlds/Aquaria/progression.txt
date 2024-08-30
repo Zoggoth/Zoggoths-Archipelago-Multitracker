@@ -1,0 +1,134 @@
+Anemone: filler
+Arnassi Statue: filler
+Big Seed: filler
+Glowing Seed: filler
+Black Pearl: filler
+Baby Blaster: useful
+Crab Armor: useful
+Baby Dumbo: progression
+Tooth: filler
+Energy Statue: filler
+Krotite Armor: filler
+Golden Starfish: filler
+Golden Gear: filler
+Jelly Beacon: filler
+Jelly Costume: useful
+Jelly Plant: filler
+Mithalas Doll: filler
+Mithalan Dress: filler
+Mithalas Banner: filler
+Mithalas Pot: filler
+Mutant Costume: filler
+Baby Nautilus: useful
+Baby Piranha: useful
+Arnassi Armor: progression
+Seed Bag: filler
+King's Skull: filler
+Song Plant Spore: filler
+Stone Head: filler
+Sun Key: useful
+Girl Costume: filler
+Odd Container: filler
+Trident: filler
+Turtle Egg: filler
+Jelly Egg: filler
+Urchin Costume: filler
+Baby Walker: filler
+Vedha's Cure-All-All: useful
+Zuuna's perogi: useful
+Arcane poultice: useful
+Berry ice cream: useful
+Buttery sea loaf: useful
+Cold borscht: useful
+Cold soup: useful
+Crab cake: useful
+Divine soup: useful
+Dumbo ice cream: useful
+Fish oil: useful
+Glowing egg: useful
+Hand roll: useful
+Healing poultice: useful
+Hearty soup: useful
+Hot borscht: useful
+Hot soup: progression
+Ice cream: useful
+Leadership roll: useful
+Leaf poultice: progression
+Leeching poultice: useful
+Legendary cake: useful
+Loaf of life: useful
+Long life soup: useful
+Magic soup: useful
+Mushroom x 2: useful
+Perogi: useful
+Plant leaf: useful
+Plump perogi: useful
+Poison loaf: filler
+Poison soup: filler
+Rainbow mushroom: useful
+Rainbow soup: useful
+Red berry: useful
+Red bulb x 2: useful
+Rotten cake: filler
+Rotten loaf x 8: filler
+Rotten meat: filler
+Royal soup: useful
+Sea cake: useful
+Sea loaf: filler
+Shark fin soup: useful
+Sight poultice: useful
+Small bone x 2: useful
+Small egg: useful
+Small tentacle x 2: useful
+Special bulb: useful
+Special cake: useful
+Spicy meat x 2: useful
+Spicy roll: useful
+Spicy soup: useful
+Spider roll: useful
+Swamp cake: useful
+Tasty cake: useful
+Tasty roll: useful
+Tough cake: useful
+Turtle soup: useful
+Vedha sea crisp: useful
+Veggie cake: useful
+Veggie ice cream: useful
+Veggie soup: useful
+Volcano roll: useful
+Health upgrade: useful
+Wok: useful
+Eel oil x 2: useful
+Fish meat x 2: useful
+Fish oil x 3: useful
+Glowing egg x 2: useful
+Healing poultice x 2: useful
+Hot soup x 2: progression
+Leadership roll x 2: useful
+Leaf poultice x 3: progression
+Plant leaf x 2: useful
+Plant leaf x 3: useful
+Rotten meat x 2: filler
+Rotten meat x 8: filler
+Sea loaf x 2: filler
+Small bone x 3: useful
+Small egg x 2: useful
+Li and Li song: progression
+Shield song: useful
+Beast form: progression
+Sun form: progression
+Nature form: progression
+Energy form: progression
+Bind song: progression
+Fish form: progression
+Spirit form: progression
+Dual form: progression
+Transturtle Veil top left: progression
+Transturtle Veil top right: progression
+Transturtle Open Water top right: progression
+Transturtle Forest bottom left: progression
+Transturtle Home Water: useful
+Transturtle Abyss right: progression
+Transturtle Final Boss: progression
+Transturtle Simon Says: progression
+Transturtle Arnassi Ruins: progression

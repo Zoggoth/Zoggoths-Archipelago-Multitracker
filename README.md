@@ -28,5 +28,8 @@ Split progression into Macguffins & progression.
 Macguffins are sometimes a large section of the item pool (120 stars in SM64, 180+ emblems in SA2B) & can distract from more important progression like level unlocks
 
 ADD MORE GAMES!  
-All games currently work, but if you want to split a new game into progression/useful/filler, then I'd be happy to help!  
-Ideally I want progression info for all supported games + as many unsupported/manual as possible
+All games display received items, but they need progression/useful/filler info to work fully  
+Some progression info can be extracted from the Archipelago logic files, but edge cases might need someone familiar with the game to help  
+If you have experience in a game that isn't tracked yet, or have corrections for a game that's already tracked, please let me know  
+Ideally I want progression info for all supported games + as many unsupported/manual as possible  
+All 0.5.1 supported are done except: Factorio, Secret of Evermore, Stardew Valley, Terraria, Yu-Gi-Oh! 2006, Zillion

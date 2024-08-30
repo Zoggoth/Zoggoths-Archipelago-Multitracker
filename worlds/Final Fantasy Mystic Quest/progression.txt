@@ -1,0 +1,163 @@
+Elixir: progression
+Tree Wither: progression
+Wakewater: progression
+Venus Key: progression
+Multi Key: progression
+Mask: progression
+Magic Mirror: progression
+Thunder Rock: progression
+Captain's Cap: progression
+Libra Crest: progression
+Gemini Crest: progression
+Mobius Crest: progression
+Sand Coin: progression
+River Coin: progression
+Sun Coin: progression
+Sky Coin: progression
+Sky Fragment: progression
+Cure Potion: filler
+Heal Potion: filler
+Seed: filler
+Refresher: filler
+Exit Book: useful
+Cure Book: useful
+Heal Book: useful
+Life Book: useful
+Quake Book: useful
+Blizzard Book: useful
+Fire Book: useful
+Aero Book: useful
+Thunder Seal: useful
+White Seal: useful
+Meteor Seal: useful
+Flare Seal: useful
+Progressive Sword: progression
+Steel Sword: progression
+Knight Sword: progression
+Excalibur: progression
+Progressive Axe: progression
+Axe: progression
+Battle Axe: progression
+Giant's Axe: progression
+Progressive Claw: progression
+Cat Claw: progression
+Charm Claw: progression
+Dragon Claw: progression
+Progressive Bomb: progression
+Bomb: progression
+Jumbo Bomb: progression
+Mega Grenade: progression
+Morning Star: progression
+Bow Of Grace: progression
+Ninja Star: progression
+Progressive Helm: useful
+Steel Helm: useful
+Moon Helm: useful
+Apollo Helm: useful
+Progressive Armor: useful
+Steel Armor: useful
+Noble Armor: useful
+Gaia's Armor: useful
+Replica Armor: progression
+Mystic Robes: progression
+Flame Armor: progression
+Black Robe: progression
+Progressive Shield: useful
+Steel Shield: useful
+Venus Shield: useful
+Aegis Shield: useful
+Ether Shield: progression
+Progressive Accessory: useful
+Charm: useful
+Magic Ring: useful
+Cupid Locket: useful
+54 XP: filler
+99 XP: filler
+540 XP: filler
+744 XP: filler
+816 XP: filler
+1068 XP: filler
+1200 XP: filler
+2700 XP: filler
+2808 XP: filler
+150 Gp: filler
+300 Gp: filler
+600 Gp: filler
+900 Gp: filler
+1200 Gp: filler
+Bomb Refill: filler
+Projectile Refill: filler
+None: progression
+Kaeli 1: progression
+Kaeli 2: progression
+Tristam: progression
+Phoebe 1: progression
+Reuben 1: progression
+Reuben Dad Saved: progression
+Otto: progression
+Captain Mac: progression
+Ship Steering Wheel: progression
+Minotaur: progression
+Flamerus Rex: progression
+Phanquid: progression
+Freezer Crab: progression
+Ice Golem: progression
+Jinn: progression
+Medusa: progression
+Dualhead Hydra: progression
+Gidrah: progression
+Dullahan: progression
+Pazuzu: progression
+Aquaria Plaza: progression
+Summer Aquaria: progression
+Reuben Mine: progression
+Alive Forest: progression
+Rainbow Bridge: progression
+Collapse Spencer's Cave: progression
+Ship Liberated: progression
+Ship Loaned: progression
+Ship Dock Access: progression
+Stone Golem: progression
+Twinhead Wyvern: progression
+Zuh: progression
+Libra Temple Crest Tile: progression
+Life Temple Crest Tile: progression
+Aquaria Vendor Crest Tile: progression
+Fireburg Vendor Crest Tile: progression
+Fireburg Grenademan Crest Tile: progression
+Sealed Temple Crest Tile: progression
+Wintry Temple Crest Tile: progression
+Kaidge Temple Crest Tile: progression
+Light Temple Crest Tile: progression
+Windia Kids Crest Tile: progression
+Windia Dock Crest Tile: progression
+Ship Dock Crest Tile: progression
+Alive Forest Libra Crest Tile: progression
+Alive Forest Gemini Crest Tile: progression
+Alive Forest Mobius Crest Tile: progression
+Wood House Libra Crest Tile: progression
+Wood House Gemini Crest Tile: progression
+Wood House Mobius Crest Tile: progression
+Barrel Pushed: progression
+Long Spine Bombed: progression
+Short Spine Bombed: progression
+Skull 1 Bombed: progression
+Skull 2 Bombed: progression
+Ice Pyramid 1F Statue: progression
+Ice Pyramid 3F Statue: progression
+Ice Pyramid 4F Statue: progression
+Ice Pyramid 5F Statue: progression
+Spencer Cave Libra Block Bombed: progression
+Lava Dome Plate: progression
+Pazuzu 2F Lock: progression
+Pazuzu 4F Lock: progression
+Pazuzu 6F Lock: progression
+Pazuzu 1F: progression
+Pazuzu 2F: progression
+Pazuzu 3F: progression
+Pazuzu 4F: progression
+Pazuzu 5F: progression
+Pazuzu 6F: progression
+Dark King: progression
+Tristam Bone Item Given: progression
+Barred: progression

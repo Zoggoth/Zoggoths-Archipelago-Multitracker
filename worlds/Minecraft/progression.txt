@@ -19,9 +19,12 @@ Brewing: progression
 Piercing IV Book: progression
 Structure Compass (Nether Fortress): progression
 Fishing Rod: progression
+500 XP: filler
+100 XP: filler
 50 XP: filler
 8 Gold Ore: filler
 Structure Compass (Bastion Remnant): progression
+8 Emeralds: filler
 4 Emeralds: filler
 Looting III Book: useful
 Structure Compass (End City): progression
@@ -38,3 +41,7 @@ Infinity Book: useful
 Silk Touch Book: progression
 16 Porkchops: filler
 Rotten Flesh: filler
+Resource Blocks: progression
+4 Lapis Lazuli: filler
+Single Arrow: filler
+Shulker Box: filler

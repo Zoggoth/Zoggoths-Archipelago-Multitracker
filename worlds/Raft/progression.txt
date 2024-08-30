@@ -1,0 +1,93 @@
+Backpack: filler
+Big backpack: filler
+Leather helmet: filler
+Leather body armor: filler
+Leather greaves: filler
+Flippers: filler
+Head light: filler
+Advanced head light: filler
+Oxygen bottle: filler
+Zipline tool: progression
+Electric zipline tool: filler
+Empty bottle: progression
+Empty canteen: filler
+Bucket: filler
+Clay bowl: filler
+Drinking glass: filler
+Healing salve: filler
+Good healing salve: filler
+Cookingpot: filler
+Juicer: filler
+Advanced grill: filler
+Electric grill: filler
+Advanced purifier: filler
+Electric purifier: filler
+Advanced small crop plot: filler
+Advanced medium crop plot: filler
+Advanced large crop plot: filler
+Grass plot: progression
+Medium crop plot: filler
+Large crop plot: filler
+Scarecrow: filler
+Advanced Scarecrow: filler
+Sprinkler: filler
+Honey: filler
+Battery: progression
+Advanced Battery: filler
+Bolt: progression
+Circuit board: progression
+Hinge: progression
+Stationary anchor: filler
+Advanced stationary anchor: filler
+Engine controls: filler
+Engine: progression
+Receiver: progression
+Antenna: progression
+Steering Wheel: progression
+Battery charger: filler
+Wind turbine: filler
+Hammock: filler
+Beehive: filler
+Biofuel refiner: filler
+Advanced biofuel refiner: filler
+Birds nest: progression
+Simple collection net: filler
+Advanced collection net: filler
+Smelter: progression
+Electric Smelter: filler
+Fuel tank: filler
+Water tank: filler
+Fuel pipe: filler
+Water pipe: filler
+Recycler: filler
+Storage: filler
+Large Storage: filler
+Trashcan: filler
+Zipline: filler
+Firework: filler
+Metal axe: filler
+Titanium axe: filler
+Binoculars: filler
+Metal fishing rod: filler
+Scrap hook: filler
+Titanium hook: filler
+Metal detector: progression
+Shear: progression
+Shovel: progression
+Sweep net: filler
+Basic bow: filler
+Stone arrow: filler
+Metal arrow: filler
+Titanium arrow: filler
+Metal spear: progression
+Machete: progression
+Titanium sword: filler
+Net launcher: progression
+Net canister: progression
+Vasagatan Frequency: progression
+Balboa Island Frequency: progression
+Tangaroa Frequency: progression
+Varuna Point Frequency: progression
+Temperance Frequency: progression
+Utopia Frequency: progression
+Caravan Island Frequency: progression

@@ -1,0 +1,145 @@
+5 Coins: filler
+Mushroom: filler
+Super Mushroom: filler
+Ultra Mushroom: filler
+Max Mushroom: filler
+Nuts: filler
+Super Nuts: filler
+Ultra Nuts: useful
+Max Nuts: useful
+Syrup: filler
+Super Syrup: filler
+Ultra Syrup: useful
+Max Syrup: useful
+1-UP Mushroom: useful
+1-UP Super: useful
+Golden Mushroom: useful
+Refreshing Herb: filler
+Red Pepper: useful
+Green Pepper: useful
+Hoo Bean: filler
+Chuckle Bean: filler
+Woohoo Blend: useful
+Hoohoo Blend: useful
+Chuckle Blend: useful
+Teehee Blend: useful
+Hoolumbian: useful
+Chuckoccino: useful
+Teeheespresso: useful
+Peasley's Rose: progression
+Beanbean Brooch: progression
+Red Goblet: progression
+Green Goblet: progression
+Red Chuckola Fruit: progression
+White Chuckola Fruit: progression
+Purple Chuckola Fruit: progression
+Hammers: progression
+Firebrand: progression
+Thunderhand: progression
+Membership Card: progression
+Winkle Card: progression
+Peach's Extra Dress: progression
+Fake Beanstar: progression
+Red Pearl Bean: progression
+Green Pearl Bean: progression
+Bean Fruit 1: progression
+Bean Fruit 2: progression
+Bean Fruit 3: progression
+Bean Fruit 4: progression
+Bean Fruit 5: progression
+Bean Fruit 6: progression
+Bean Fruit 7: progression
+Blue Neon Egg: progression
+Red Neon Egg: progression
+Green Neon Egg: progression
+Yellow Neon Egg: progression
+Purple Neon Egg: progression
+Orange Neon Egg: progression
+Azure Neon Egg: progression
+Beanstar Piece 1: progression
+Beanstar Piece 2: progression
+Beanstar Piece 3: progression
+Beanstar Piece 4: progression
+Spangle: progression
+Beanlet 1: filler
+Beanlet 2: filler
+Beanlet 3: filler
+Beanlet 4: filler
+Beanlet 5: filler
+Beanstone 1: filler
+Beanstone 2: filler
+Beanstone 3: filler
+Beanstone 4: filler
+Beanstone 5: filler
+Beanstone 6: filler
+Beanstone 7: filler
+Beanstone 8: filler
+Beanstone 9: filler
+Beanstone 10: filler
+Secret Scroll 1: useful
+Secret Scroll 2: useful
+Castle Badge: useful
+Pea Badge: useful
+Bean B. Badge: useful
+Counter Badge: useful
+Charity Badge: useful
+Bros. Badge: useful
+Miracle Badge: useful
+Ohoracle Badge: useful
+Mush Badge: useful
+Mari-Lui Badge: useful
+Muscle Badge: useful
+Spiny Badge AA: useful
+Mush Badge A: useful
+Grab Badge: useful
+Mush Badge AA: useful
+Power Badge: useful
+Wonder Badge: useful
+Beauty Badge: useful
+Salvage Badge: useful
+Oh-Pah Badge: useful
+Brilliant Badge: useful
+Sarge Badge: useful
+General Badge: useful
+Tank Badge: useful
+Bros. Rock: useful
+Soulful Bros.: useful
+High-End Badge: useful
+Bean Pants: useful
+Bean Trousers: useful
+Blue Jeans: useful
+Parasol Pants: useful
+Hard Pants: useful
+Heart Jeans: useful
+Plaid Trousers: useful
+#1 Trousers: useful
+Safety Slacks: useful
+Shroom Pants: useful
+Shroom Bells: useful
+Shroom Slacks: useful
+Peachy Jeans: useful
+Mushwin Pants: useful
+Mushluck Pants: useful
+Scandal Jeans: useful
+Street Jeans: useful
+Tropic Slacks: useful
+Hermetic Pants: useful
+Beanstar Pants: useful
+Peasley Slacks: useful
+Queen B. Jeans: useful
+B. Brand Jeans: useful
+Heart Slacks: useful
+Casual Slacks: useful
+Casual Coral: useful
+Harhall's Pants: useful
+Wool Trousers: useful
+Iron Pants: useful
+Greed Wallet: useful
+Bonus Ring: useful
+Excite Spring: useful
+Great Force: useful
+Power Grip: useful
+Cobalt Necktie: useful
+Game Boy Horror SP: useful
+Woo Bean: filler
+Hee Bean: filler

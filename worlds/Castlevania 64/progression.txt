@@ -1,0 +1,38 @@
+Archives Key: progression
+Axe: filler
+Chamber Key: progression
+Clocktower Key1: progression
+Clocktower Key2: progression
+Clocktower Key3: progression
+Copper Key: progression
+Cross: filler
+Crystal: progression
+Cure ampoule: filler
+Execution Key: progression
+500 GOLD: filler
+Garden Key: progression
+Healing kit: useful
+Holy water: filler
+Ice Trap: trap
+Knife: filler
+Left Tower Key: progression
+Magical Nitro: progression
+Mandragora: progression
+Moon card: filler
+100 GOLD: filler
+PermaUp: useful
+PowerUp: filler
+Purifying: filler
+Red jewel(L): filler
+Red jewel(S): filler
+Roast beef: filler
+Roast chicken: filler
+Science Key1: progression
+Science Key2: progression
+Science Key3: progression
+Special1: progression
+Special2: progression
+Storeroom Key: progression
+Sun card: filler
+300 GOLD: filler
+Trophy: progression
