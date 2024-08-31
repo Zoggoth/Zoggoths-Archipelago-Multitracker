@@ -1,0 +1,94 @@
+Airborne Egg Aiming: progress
+Sub-Aqua Egg Aiming: progress
+Breegull Bash: progress
+Beak Bayonet: progress
+Breegull Blaster: progress
+Bill Drill: progress
+Black Jinjo: progress
+Blue Jinjo: progress
+Blue Mystery Egg: progress
+Brown Jinjo: progress
+Cloud Cuckooland: progress
+Clockwork Kazooie Eggs: progress
+Chuffy: progress
+Cauldron Keep: progress
+Claw Clamber Boots: progress
+Climb: progress
+Double Air: progress
+Dive: progress
+Doubloon: progress
+Egg Aim: progress
+Egg Shoot: progress
+Fire Eggs: progress
+Flap Flip: progress
+Flutter: progress
+Flight Pad: progress
+Fast Swimming: progress
+Grenade Eggs: progress
+Glitter Gulch Mine: progress
+Grip Grab: progress
+Grunty's Industries: progress
+Green Jinjo: progress
+Glide: progress
+Hatch: progress
+Hailfire Peaks: progress
+Homing Eggs Toggle: useful
+Empty Honeycomb: useful
+Humba: Bee: progress
+Humba: Washing Machine: progress
+Humba: Detonator: progress
+Humba: Snowball: progress
+Humba: Dragon: progress
+Humba: Sub: progress
+Humba: Stony: progress
+Humba: T-Rex: progress
+Humba: Money Van: progress
+Ice Eggs: progress
+Ice Key: progress
+Jiggy: progress
+Jinjo Multiplayer Character (Nothing): filler
+Jolly Roger's Lagoon: progress
+Leg Spring: progress
+Mayahem Temple: progress
+Mumbo: Rain Dance: progress
+Mumbo: EMP: progress
+Mumbo: Levitate: progress
+Mumbo: Life Force: progress
+Mumbo: Heal: progress
+Mumbo: Oxygenate: progress
+Mumbo: Golden Goliath: progress
+Mumbo: Enlarge: progress
+Mumbo Token: progress
+Mumbo: Power: progress
+Big-O Pants: filler
+5 Notes: progress
+Orange Jinjo: progress
+Pack Whack: progress
+Cheato Page: useful
+Purple Jinjo: progress
+Pink Mystery Egg: progress
+Red Jinjo: progress
+Roll: progress
+Sack Pack: progress
+Shack Pack: progress
+Snooze Pack: progress
+Split Up: progress
+Springy Step Shoes: progress
+Taxi Pack: progress
+Terrydactyland: progress
+Tall jump: progress
+GI: Train Station: progress
+HFP: Lava Side Train Station: progress
+HFP: Icy Side Train Station: progress
+IoH: Train Station: progress
+TDL: Train Station: progress
+WW: Train Station: progress
+Treble Clef: progress
+Talon Torpedo: progress
+Talon Trot: progress
+Grunty Warp Spell: trap
+White Jinjo: progress
+Witchyworld: progress
+Wing Whack: progress
+Wonderwing: progress
+Yellow Jinjo: progress

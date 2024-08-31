@@ -1,0 +1,963 @@
+Heat: progression
+Cold: progression
+Shock: progression
+Wave: progression
+SP Upgrade: progression
+Progressive Area Unlock: progression
+Progressive Overworld Area Unlock: progression
+Progressive Dungeon Unlock: progression
+Progressive All-Purpose Heads: progression
+Progressive Defensive Heads: progression
+Progressive Offensive Heads: progression
+Progressive Heads: progression
+Progressive All-Purpose Arms: progression
+Progressive Defensive Arms: progression
+Progressive Melee Arms: progression
+Progressive Ranged Arms: progression
+Progressive Special Arms: progression
+Progressive Class-Based Arms: progression
+Progressive Arms: progression
+Progressive All-Purpose Torsos: progression
+Progressive Defensive Torsos: progression
+Progressive Mixed Torsos: progression
+Progressive Offensive Torsos: progression
+Progressive Torsos: progression
+Progressive Class-Based Torsos: progression
+Progressive All-Purpose Legs: progression
+Progressive Defensive Legs: progression
+Progressive Offensive Legs: progression
+Progressive Legs: progression
+Golden Triangle: filler
+Shop Unlock: Harbor Items: progression
+Slot Unlock: Sandwich (Harbor Items): progression
+Global Slot Unlock: Sandwich: progression
+Slot Unlock: Hi-Sandwich (Harbor Items): progression
+Global Slot Unlock: Hi-Sandwich: progression
+Slot Unlock: Green Leaf Tea (Harbor Items): progression
+Global Slot Unlock: Green Leaf Tea: progression
+Slot Unlock: Just Water (Harbor Items): progression
+Global Slot Unlock: Just Water: progression
+Slot Unlock: Spicy Bun (Harbor Items): progression
+Global Slot Unlock: Spicy Bun: progression
+Slot Unlock: Fruit Drink (Harbor Items): progression
+Global Slot Unlock: Fruit Drink: progression
+Slot Unlock: Rice Cracker (Harbor Items): progression
+Global Slot Unlock: Rice Cracker: progression
+Slot Unlock: Veggie Sticks (Harbor Items): progression
+Global Slot Unlock: Veggie Sticks: progression
+Slot Unlock: Kebab Roll (Harbor Items + Blue Ice): progression
+Global Slot Unlock: Kebab Roll: progression
+Slot Unlock: Meaty Risotto (Harbor Items + Blue Ice): progression
+Global Slot Unlock: Meaty Risotto: progression
+Slot Unlock: Bergen Ice Cream (Harbor Items + Red Flame): progression
+Global Slot Unlock: Bergen Ice Cream: progression
+Slot Unlock: Sweet Lemonjuice (Harbor Items + Red Flame): progression
+Global Slot Unlock: Sweet Lemonjuice: progression
+Slot Unlock: Salted Peanuts (Harbor Items + Green Seed): progression
+Global Slot Unlock: Salted Peanuts: progression
+Slot Unlock: Cup o' Coffee (Harbor Items + Green Seed): progression
+Global Slot Unlock: Cup o' Coffee: progression
+Slot Unlock: Snack Mix (Harbor Items + Green Seed): progression
+Global Slot Unlock: Snack Mix: progression
+Shop Unlock: Harbor Weapons: progression
+Slot Unlock: Bronze Goggles (Harbor Weapons): progression
+Global Slot Unlock: Bronze Goggles: progression
+Slot Unlock: Bronze Edge (Harbor Weapons): progression
+Global Slot Unlock: Bronze Edge: progression
+Slot Unlock: Bronze Mail (Harbor Weapons): progression
+Global Slot Unlock: Bronze Mail: progression
+Slot Unlock: Bronze Boots (Harbor Weapons): progression
+Global Slot Unlock: Bronze Boots: progression
+Slot Unlock: Iron Goggles (Harbor Weapons): progression
+Global Slot Unlock: Iron Goggles: progression
+Slot Unlock: Iron Edge (Harbor Weapons): progression
+Global Slot Unlock: Iron Edge: progression
+Slot Unlock: Iron Mail (Harbor Weapons): progression
+Global Slot Unlock: Iron Mail: progression
+Slot Unlock: Iron Boots (Harbor Weapons): progression
+Global Slot Unlock: Iron Boots: progression
+Slot Unlock: Silver Goggles (Harbor Weapons + Red Flame): progression
+Global Slot Unlock: Silver Goggles: progression
+Slot Unlock: Silver Edge (Harbor Weapons + Red Flame): progression
+Global Slot Unlock: Silver Edge: progression
+Slot Unlock: Silver Mail (Harbor Weapons + Red Flame): progression
+Global Slot Unlock: Silver Mail: progression
+Slot Unlock: Silver Boots (Harbor Weapons + Red Flame): progression
+Global Slot Unlock: Silver Boots: progression
+Shop Unlock: Harbor North Weapons: progression
+Slot Unlock: Steel Goggles (Harbor North Weapons): progression
+Global Slot Unlock: Steel Goggles: progression
+Slot Unlock: Steel Edge (Harbor North Weapons): progression
+Global Slot Unlock: Steel Edge: progression
+Slot Unlock: Steel Mail (Harbor North Weapons): progression
+Global Slot Unlock: Steel Mail: progression
+Slot Unlock: Steel Boots (Harbor North Weapons): progression
+Global Slot Unlock: Steel Boots: progression
+Slot Unlock: Silver Goggles (Harbor North Weapons): progression
+Slot Unlock: Silver Edge (Harbor North Weapons): progression
+Slot Unlock: Silver Mail (Harbor North Weapons): progression
+Slot Unlock: Silver Boots (Harbor North Weapons): progression
+Shop Unlock: Tara's Shop: progression
+Slot Unlock: Sandwich (Tara's Shop): progression
+Shop Unlock: Harbor Backer Items: progression
+Slot Unlock: Rising Super Star (Harbor Backer Items): progression
+Global Slot Unlock: Rising Super Star: progression
+Slot Unlock: Dk Pepper (Harbor Backer Items): progression
+Global Slot Unlock: Dk Pepper: progression
+Slot Unlock: Cheese Spaetzle (Harbor Backer Items): progression
+Global Slot Unlock: Cheese Spaetzle: progression
+Slot Unlock: Maultasche (Harbor Backer Items): progression
+Global Slot Unlock: Maultasche: progression
+Slot Unlock: Durian (Harbor Backer Items): progression
+Global Slot Unlock: Durian: progression
+Slot Unlock: PengoPop (Harbor Backer Items): progression
+Global Slot Unlock: PengoPop: progression
+Slot Unlock: Spicy Beat-0-Type (Harbor Backer Items): progression
+Global Slot Unlock: Spicy Beat-0-Type: progression
+Slot Unlock: Werewolf Stick (Harbor Backer Items): progression
+Global Slot Unlock: Werewolf Stick: progression
+Slot Unlock: Mooncake (Harbor Backer Items): progression
+Global Slot Unlock: Mooncake: progression
+Slot Unlock: Guacamole Toast (Harbor Backer Items): progression
+Global Slot Unlock: Guacamole Toast: progression
+Slot Unlock: Willis Waldmahl (Harbor Backer Items): progression
+Global Slot Unlock: Willis Waldmahl: progression
+Slot Unlock: Pumpkin Spice Cof. (Harbor Backer Items): progression
+Global Slot Unlock: Pumpkin Spice Cof.: progression
+Shop Unlock: Bergen Items: progression
+Slot Unlock: Sandwich (Bergen Items): progression
+Slot Unlock: Hi-Sandwich (Bergen Items): progression
+Slot Unlock: Green Leaf Tea (Bergen Items): progression
+Slot Unlock: Just Water (Bergen Items): progression
+Slot Unlock: Spicy Bun (Bergen Items): progression
+Slot Unlock: Fruit Drink (Bergen Items): progression
+Slot Unlock: Rice Cracker (Bergen Items): progression
+Slot Unlock: Veggie Sticks (Bergen Items): progression
+Slot Unlock: Kebab Roll (Bergen Items + Blue Ice): progression
+Slot Unlock: Meaty Risotto (Bergen Items + Blue Ice): progression
+Slot Unlock: Bergen Ice Cream (Bergen Items + Red Flame): progression
+Slot Unlock: Sweet Lemonjuice (Bergen Items + Red Flame): progression
+Slot Unlock: Salted Peanuts (Bergen Items + Green Seed): progression
+Slot Unlock: Cup o' Coffee (Bergen Items + Green Seed): progression
+Slot Unlock: Snack Mix (Bergen Items + Green Seed): progression
+Shop Unlock: Bergen Weapons: progression
+Slot Unlock: Iron Goggles (Bergen Weapons): progression
+Slot Unlock: Iron Edge (Bergen Weapons): progression
+Slot Unlock: Iron Mail (Bergen Weapons): progression
+Slot Unlock: Iron Boots (Bergen Weapons): progression
+Shop Unlock: Hermit's Hut: progression
+Slot Unlock: Chili Con Carne (Hermit's Hut): progression
+Global Slot Unlock: Chili Con Carne: progression
+Slot Unlock: Sweet Lemonjuice (Hermit's Hut): progression
+Slot Unlock: Sweet Berry Tea (Hermit's Hut): progression
+Global Slot Unlock: Sweet Berry Tea: progression
+Shop Unlock: Ba'kii Items: progression
+Slot Unlock: Sandwich (Ba'kii Items): progression
+Slot Unlock: Hi-Sandwich (Ba'kii Items): progression
+Slot Unlock: Green Leaf Tea (Ba'kii Items): progression
+Slot Unlock: Just Water (Ba'kii Items): progression
+Slot Unlock: Spicy Bun (Ba'kii Items): progression
+Slot Unlock: Fruit Drink (Ba'kii Items): progression
+Slot Unlock: Rice Cracker (Ba'kii Items): progression
+Slot Unlock: Veggie Sticks (Ba'kii Items): progression
+Slot Unlock: Bergen Ice Cream (Ba'kii Items): progression
+Slot Unlock: Sweet Lemonjuice (Ba'kii Items): progression
+Slot Unlock: Kebab Roll (Ba'kii Items + Blue Ice): progression
+Slot Unlock: Meaty Risotto (Ba'kii Items + Blue Ice): progression
+Slot Unlock: Salted Peanuts (Ba'kii Items + Green Seed): progression
+Slot Unlock: Cup o' Coffee (Ba'kii Items + Green Seed): progression
+Slot Unlock: Snack Mix (Ba'kii Items + Green Seed): progression
+Shop Unlock: Ba'kii Weapons: progression
+Slot Unlock: Iron Goggles (Ba'kii Weapons): progression
+Slot Unlock: Iron Edge (Ba'kii Weapons): progression
+Slot Unlock: Iron Mail (Ba'kii Weapons): progression
+Slot Unlock: Iron Boots (Ba'kii Weapons): progression
+Slot Unlock: Steel Goggles (Ba'kii Weapons): progression
+Slot Unlock: Steel Edge (Ba'kii Weapons): progression
+Slot Unlock: Steel Mail (Ba'kii Weapons): progression
+Slot Unlock: Steel Boots (Ba'kii Weapons): progression
+Shop Unlock: Basin Vending Machine: progression
+Slot Unlock: Sandwich (Basin Vending Machine): progression
+Slot Unlock: Hi-Sandwich (Basin Vending Machine): progression
+Slot Unlock: Green Leaf Tea (Basin Vending Machine): progression
+Slot Unlock: Just Water (Basin Vending Machine): progression
+Slot Unlock: Spicy Bun (Basin Vending Machine): progression
+Slot Unlock: Fruit Drink (Basin Vending Machine): progression
+Slot Unlock: Rice Cracker (Basin Vending Machine): progression
+Slot Unlock: Veggie Sticks (Basin Vending Machine): progression
+Slot Unlock: Bergen Ice Cream (Basin Vending Machine): progression
+Slot Unlock: Sweet Lemonjuice (Basin Vending Machine): progression
+Slot Unlock: Salted Peanuts (Basin Vending Machine): progression
+Slot Unlock: Cup o' Coffee (Basin Vending Machine): progression
+Slot Unlock: Snack Mix (Basin Vending Machine): progression
+Slot Unlock: Kebab Roll (Basin Vending Machine): progression
+Slot Unlock: Meaty Risotto (Basin Vending Machine): progression
+Shop Unlock: Basin Items: progression
+Slot Unlock: Sandwich (Basin Items): progression
+Slot Unlock: Hi-Sandwich (Basin Items): progression
+Slot Unlock: Green Leaf Tea (Basin Items): progression
+Slot Unlock: Just Water (Basin Items): progression
+Slot Unlock: Kebab Roll (Basin Items): progression
+Slot Unlock: Meaty Risotto (Basin Items): progression
+Slot Unlock: Spicy Bun (Basin Items): progression
+Slot Unlock: Fruit Drink (Basin Items): progression
+Slot Unlock: Rice Cracker (Basin Items): progression
+Slot Unlock: Veggie Sticks (Basin Items): progression
+Slot Unlock: Bergen Ice Cream (Basin Items): progression
+Slot Unlock: Sweet Lemonjuice (Basin Items): progression
+Slot Unlock: Salted Peanuts (Basin Items): progression
+Slot Unlock: Cup o' Coffee (Basin Items): progression
+Slot Unlock: Snack Mix (Basin Items): progression
+Shop Unlock: Basin Weapons: progression
+Slot Unlock: Silver Goggles (Basin Weapons): progression
+Slot Unlock: Silver Edge (Basin Weapons): progression
+Slot Unlock: Silver Mail (Basin Weapons): progression
+Slot Unlock: Silver Boots (Basin Weapons): progression
+Slot Unlock: Titan Goggles (Basin Weapons): progression
+Global Slot Unlock: Titan Goggles: progression
+Slot Unlock: Titan Edge (Basin Weapons): progression
+Global Slot Unlock: Titan Edge: progression
+Slot Unlock: Titan Mail (Basin Weapons): progression
+Global Slot Unlock: Titan Mail: progression
+Slot Unlock: Titan Boots (Basin Weapons): progression
+Global Slot Unlock: Titan Boots: progression
+Shop Unlock: Calzone Shop: progression
+Slot Unlock: One Up (Calzone Shop): progression
+Global Slot Unlock: One Up: progression
+Shop Unlock: Ridge Weapons: progression
+Slot Unlock: Titan Goggles (Ridge Weapons): progression
+Slot Unlock: Titan Edge (Ridge Weapons): progression
+Slot Unlock: Titan Mail (Ridge Weapons): progression
+Slot Unlock: Titan Boots (Ridge Weapons): progression
+Slot Unlock: Cobalt Goggles (Ridge Weapons): progression
+Global Slot Unlock: Cobalt Goggles: progression
+Slot Unlock: Cobalt Edge (Ridge Weapons): progression
+Global Slot Unlock: Cobalt Edge: progression
+Slot Unlock: Cobalt Mail (Ridge Weapons): progression
+Global Slot Unlock: Cobalt Mail: progression
+Slot Unlock: Cobalt Boots (Ridge Weapons): progression
+Global Slot Unlock: Cobalt Boots: progression
+Shop Unlock: Ridge Items: progression
+Slot Unlock: Sandwich (Ridge Items): progression
+Slot Unlock: Hi-Sandwich (Ridge Items): progression
+Slot Unlock: Green Leaf Tea (Ridge Items): progression
+Slot Unlock: Just Water (Ridge Items): progression
+Slot Unlock: Kebab Roll (Ridge Items): progression
+Slot Unlock: Meaty Risotto (Ridge Items): progression
+Slot Unlock: Spicy Bun (Ridge Items): progression
+Slot Unlock: Fruit Drink (Ridge Items): progression
+Slot Unlock: Rice Cracker (Ridge Items): progression
+Slot Unlock: Veggie Sticks (Ridge Items): progression
+Slot Unlock: Bergen Ice Cream (Ridge Items): progression
+Slot Unlock: Sweet Lemonjuice (Ridge Items): progression
+Slot Unlock: Salted Peanuts (Ridge Items): progression
+Slot Unlock: Cup o' Coffee (Ridge Items): progression
+Slot Unlock: Snack Mix (Ridge Items): progression
+Shop Unlock: Rhombus Weapons: progression
+Slot Unlock: Laser Goggles (Rhombus Weapons): progression
+Global Slot Unlock: Laser Goggles: progression
+Slot Unlock: Laser Edge (Rhombus Weapons): progression
+Global Slot Unlock: Laser Edge: progression
+Slot Unlock: Laser Mail (Rhombus Weapons): progression
+Global Slot Unlock: Laser Mail: progression
+Slot Unlock: Laser Boots (Rhombus Weapons): progression
+Global Slot Unlock: Laser Boots: progression
+Shop Unlock: Rhombus Items: progression
+Slot Unlock: Sandwich (Rhombus Items): progression
+Slot Unlock: Hi-Sandwich (Rhombus Items): progression
+Slot Unlock: Green Leaf Tea (Rhombus Items): progression
+Slot Unlock: Just Water (Rhombus Items): progression
+Slot Unlock: Kebab Roll (Rhombus Items): progression
+Slot Unlock: Meaty Risotto (Rhombus Items): progression
+Slot Unlock: Spicy Bun (Rhombus Items): progression
+Slot Unlock: Fruit Drink (Rhombus Items): progression
+Slot Unlock: Rice Cracker (Rhombus Items): progression
+Slot Unlock: Veggie Sticks (Rhombus Items): progression
+Slot Unlock: Bergen Ice Cream (Rhombus Items): progression
+Slot Unlock: Sweet Lemonjuice (Rhombus Items): progression
+Slot Unlock: Salted Peanuts (Rhombus Items): progression
+Slot Unlock: Cup o' Coffee (Rhombus Items): progression
+Slot Unlock: Snack Mix (Rhombus Items): progression
+Shop Unlock: Rhombus Curios: progression
+Slot Unlock: Chest Detector (Rhombus Curios): progression
+Global Slot Unlock: Chest Detector: progression
+Shop Unlock: Rhombus Backer Items: progression
+Slot Unlock: Rising Super Star (Rhombus Backer Items): progression
+Slot Unlock: Dk Pepper (Rhombus Backer Items): progression
+Slot Unlock: Cheese Spaetzle (Rhombus Backer Items): progression
+Slot Unlock: Maultasche (Rhombus Backer Items): progression
+Slot Unlock: Durian (Rhombus Backer Items): progression
+Slot Unlock: PengoPop (Rhombus Backer Items): progression
+Slot Unlock: Spicy Beat-0-Type (Rhombus Backer Items): progression
+Slot Unlock: Werewolf Stick (Rhombus Backer Items): progression
+Slot Unlock: Mooncake (Rhombus Backer Items): progression
+Slot Unlock: Guacamole Toast (Rhombus Backer Items): progression
+Slot Unlock: Willis Waldmahl (Rhombus Backer Items): progression
+Slot Unlock: Pumpkin Spice Cof. (Rhombus Backer Items): progression
+Shop Unlock: Vermillion Weapons: progression
+Slot Unlock: Steel Goggles (Vermillion Weapons): progression
+Slot Unlock: Steel Edge (Vermillion Weapons): progression
+Slot Unlock: Steel Mail (Vermillion Weapons): progression
+Slot Unlock: Steel Boots (Vermillion Weapons): progression
+Slot Unlock: Silver Goggles (Vermillion Weapons): progression
+Slot Unlock: Silver Edge (Vermillion Weapons): progression
+Slot Unlock: Silver Mail (Vermillion Weapons): progression
+Slot Unlock: Silver Boots (Vermillion Weapons): progression
+Shop Unlock: Vermillion Items: progression
+Slot Unlock: Sandwich (Vermillion Items): progression
+Slot Unlock: Hi-Sandwich (Vermillion Items): progression
+Slot Unlock: Green Leaf Tea (Vermillion Items): progression
+Slot Unlock: Just Water (Vermillion Items): progression
+Slot Unlock: Spicy Bun (Vermillion Items): progression
+Slot Unlock: Fruit Drink (Vermillion Items): progression
+Slot Unlock: Rice Cracker (Vermillion Items): progression
+Slot Unlock: Veggie Sticks (Vermillion Items): progression
+Sandwich: filler
+Green Leaf Tea: filler
+Sweet Berry Tea: filler
+Masterball: filler
+Blue Shell: filler
+Hardwood Stave: progression
+Miner's Helmet: progression
+Lunatic Paws: progression
+Timeworn Belt: progression
+Humming Razor: progression
+Scarecrown: progression
+Holiday Boots: filler
+Dungeon Heart: filler
+Rookiehat: progression
+Rookieblade: progression
+Rookieboots: progression
+Rookiebelt: progression
+Hi-Sandwich: filler
+Chef Sandwich: filler
+Bronze Edge: progression
+Bronze Mail: progression
+Bronze Goggles: progression
+Bronze Boots: progression
+Grasswalkers: progression
+Explorer's Cap: progression
+Edge o' All: progression
+Second Hide: progression
+Civilian Trigger: progression
+Winterclaw: progression
+Winner's Pride: progression
+Mega-Sandwich: filler
+Bovine Armor: progression
+Swiftspike: progression
+Weird Skates: progression
+Rusty Anchors: progression
+Fleety Sandals: progression
+Feline Paws: progression
+Leaf Cape: progression
+Assault Vest: progression
+Recruit's Scope: progression
+Shady Monocle: progression
+Key Piece: progression
+Winner's Proof: progression
+Dented Crown: progression
+Student's Bandana: progression
+Mugger's Blade: progression
+Daikon: progression
+Hydra Fang: progression
+Scrappy Plate: progression
+Bull Stompers: progression
+Perfect Karrot: filler
+Precursor Shard: progression
+Cross Sandwich: filler
+Spicy Bun: filler
+Flaming Bun: filler
+Blazing Bun: filler
+Veggie Sticks: filler
+Veggie Wraps: filler
+Veggie Burger: filler
+Fruit Drink: filler
+Fruit Salad: filler
+Fruit Pie: filler
+Rice Cracker: filler
+Tofu Cracker: filler
+Cheese Cracker: filler
+Salty Ice Cream: filler
+Chili Con Carne: filler
+Ginger Tom. Salad: filler
+Pepper Night Tea: filler
+Headphone Scraps: filler
+Metal Needles: filler
+Bovine Skin: filler
+Edgy Headphones: progression
+Climbing Pick: progression
+Boom Walkers: progression
+Golden Ring: filler
+Chili Dog: filler
+Raw Meat: filler
+Core Drill: progression
+Giga Spiral Drill: progression
+Autumn Leaves: filler
+Season Apples: filler
+Gold Beetle: filler
+Twilight Dew: filler
+Bear Cicada: filler
+Azure Dragonfly: filler
+Veggie Set: filler
+Fruit Set: filler
+Junk Metal: filler
+Spiral Gem: filler
+Sparkly Boots: filler
+Gunner's Trigger: progression
+Feather Leaf: filler
+Rusty Bits: filler
+Frozen Tear: filler
+Pike Wood: filler
+Purple Ore Lump: filler
+Winter Thorn: filler
+Bergen Ice: filler
+Bergen Ice Cream: filler
+Battered Fist: progression
+Copper Gull: progression
+Iron Edge: progression
+Rocksplitter: progression
+Silver Hawk: progression
+Cooling Veil: progression
+Longears: progression
+Iron Goggles: progression
+Furry Cap: progression
+Icewalkers: progression
+Iron Boots: progression
+Iron Mail: progression
+Hardrock Plate: progression
+Spiky Jacket: progression
+Bubblebelt: progression
+Fluffy Fur: filler
+Rock Beak: filler
+Solid Bubble: filler
+Dropped Mic: filler
+Spice Set: filler
+The End: progression
+Echo Roll: filler
+Broken Gauntlet: progression
+Disc of Insight: progression
+Disc of Treasure: progression
+Broken Shield: progression
+Autumn Ingredients: progression
+Frosted Carrot: filler
+Perforated Tophat: filler
+Diabolic Horns: filler
+Captured Bunny: progression
+Disciple Gloves: progression
+Capture Device: progression
+Green Leaf Shade: progression
+Faj'ro Key: progression
+Faj'ro Master Key: progression
+Yellow Sand Shade: progression
+Mine Pass: progression
+Neutral Stone: progression
+Hermit Repairkit: progression
+Mine Key: progression
+Mine Master Key: progression
+Thief's Key: progression
+White Key: progression
+Radiant Key: progression
+Ye dirty 'ol cheater: progression
+Stone of Valor: progression
+Bug Shell: filler
+Blue Orb: filler
+Proper Tophat: progression
+Metal Gears: filler
+Ancient Sandals: progression
+Sweet Lemonjuice: filler
+Hotsauce: filler
+Vanilla Ice Cream: filler
+Holiday Hat: filler
+Holiday Present: progression
+Guild Pass: progression
+Pure Autumn Cider: progression
+Geo-Data #3469: progression
+Autumn Probe: progression
+Tough Sand: filler
+Glaring Rock: filler
+Rainbow Gem: filler
+Vivid Water: filler
+Palmapple Seed: filler
+Cactone Fruit: filler
+Old Bones: filler
+Helix Relic: filler
+Lucid Shard: filler
+Everlasting Amber: filler
+Weird Hillkat Tech: progression
+Crystal Leek: filler
+Arid Lumber: filler
+Ancient Earth: filler
+Maroon Chestnut: filler
+Autumn Salve: progression
+Refined Metal: filler
+Precious Metal: filler
+Epic Metal: filler
+Gourmet Steak: filler
+Poison Stinger: filler
+Drill Stone: filler
+Dry Fin: filler
+Squishy Teeth: filler
+Hardened Liver: filler
+Phoenix Feather: filler
+Butter Silk: filler
+Jelly Extract: filler
+Magma Residue: filler
+Laser Eyes: filler
+Steel Goggles: progression
+Steel Edge: progression
+Steel Mail: progression
+Steel Boots: progression
+Fin Cap: progression
+Rapier Carrot: progression
+Dessert Vest: progression
+Desert Sandals: progression
+Nomadic Turban: progression
+Chilling Veil: progression
+Shiny Glasses: progression
+Magic Robe: progression
+Assassin Garb: progression
+Crystal Plate: progression
+Curly Slippers: progression
+Lavish Anchors: progression
+Carpet Runners: progression
+Hidden Blade: progression
+Maverick Edge: progression
+Western Starfist: progression
+Bergen Probe: progression
+Blue Ice Shade: progression
+Steak, rare: filler
+Stone of Space: progression
+Thief's Band: progression
+Mighty Strand: progression
+Red Flame Shade: progression
+Purple Bolt Shade: progression
+Meister Gloves: progression
+Aspiration Proof: progression
+Wooly Socks: progression
+Maroon Cave Pass: progression
+Shiny Orb: progression
+Laser Pickaxe: progression
+Laser TNT: progression
+Mining Docs: progression
+Parched Leaves: filler
+Ripe Apples: filler
+White Grain: filler
+Sunset Dew: filler
+Wolf Cicada: filler
+Crimson Dragonfly: filler
+Flintzer Excretions: progression
+Curly Fern: filler
+Steel Comb: filler
+Elder Wood: filler
+Venom Shroom: filler
+Glowing Sphere: filler
+Virus Root: filler
+Blue Mango: filler
+Exotic Resin: filler
+Star Fruit: filler
+Common Planter: filler
+Spiky Nut: filler
+Moon Fruit: filler
+Galaxy Berry: filler
+Royal Hive: filler
+Progression Proof: progression
+Silver Goggles: progression
+Titan Goggles: progression
+Silver Edge: progression
+Titan Edge: progression
+Silver Mail: progression
+Titan Mail: progression
+Silver Boots: progression
+Titan Boots: progression
+Zir'vitar Key: progression
+GIT: progression
+Static Furball: filler
+Slime Drop: filler
+Palette Blossom: filler
+Huge Nut: filler
+Lazy Claw: filler
+Stout Backplate: filler
+Power Spinach: filler
+Living Bolt: filler
+Metal Down: filler
+Plain Cube: filler
+Glow Pear: filler
+Disc of Flora: progression
+Azure Drop Shade: progression
+Strawhat: progression
+Gaia Temple Pass: progression
+Prime Pistachios: filler
+Salted Peanuts: filler
+Cup o' Coffee: filler
+Energy Espresso: filler
+Nifty Grey Shades: progression
+Red Bandana: progression
+Electrician's Cap: progression
+Faedora: progression
+Mystic Mohawk: progression
+Hunter's Bolt: progression
+Lawkeeper's Fist: progression
+Aehre: progression
+Twitching Slicer: progression
+Sunset Claw: progression
+Sneaky Shiv: progression
+Ramming Shell: progression
+Survival Plate: progression
+Rootweave: progression
+Petal Cloak: progression
+Loose Trenchcoat: progression
+Stable Footguard: progression
+Hydraulic Anchors: progression
+Shinkickers: progression
+Urban Sneakers: progression
+Pathfinders: progression
+Sea Disc: filler
+Maultasche: filler
+Werewolf Stick: filler
+Food Temp #3: progression
+Food Temp #4: progression
+So'najiz Key: progression
+Jack's Flame: progression
+Aged Travelguide: progression
+Galaxy Spiral Drill: progression
+Infinity Spiral Drill: progression
+Stone of Truth: progression
+Creation Gem: filler
+King's Ring: filler
+Golden Revolver: progression
+Bandit's Scarf: progression
+Burglar's Rope: progression
+Excalibro: progression
+Snack Mix: filler
+Rough Branch: progression
+Bigger Stick: progression
+Goddess Plume: filler
+Cold Platter: filler
+Full Course: filler
+Bronze Chest Plate: progression
+Silver Chest Plate: progression
+Golden Chest Plate: progression
+Hungry Salmon: filler
+Plate of Chests: progression
+Billston's Com: progression
+Smokaway: progression
+Tracker Chip: progression
+Pond Slums Pass: progression
+One Up: filler
+Maroon Probe: progression
+Polished Mic: filler
+Krys'kajo Key: progression
+Kajo Master Key: progression
+Warkeeper: progression
+Ambiguous Rod: filler
+Kebab Roll: filler
+Wrap Roll: filler
+Meaty Risotto: filler
+Shrimp Risotto: filler
+Green Risotto: filler
+Final Dinner: filler
+Tattered Satchel: progression
+Prism Pouch: progression
+Infinite Bag: progression
+Ti'im Residue: progression
+Adept Gloves: progression
+Storage Unit #1: progression
+Scouting Visor: progression
+Just Water: filler
+Bear Beer: filler
+Crab Mead: filler
+Fox Sake: filler
+Whale Wine: filler
+Brewing Kit: progression
+Brewing Kit: Bear: filler
+Brewing Kit: Crab: filler
+Brewing Kit: Fox: filler
+Brewing Kit: Whale: filler
+Green Seed Shade: progression
+Gaia Probe: progression
+Old Man's Book: progression
+Crystal Water: filler
+Mysterious Box: filler
+Tremor Engine: filler
+Rising Super Star: filler
+Blue Grass: filler
+Pink Petal: filler
+Mystery Grape: filler
+Green Arbor: filler
+Catalop Pellet: filler
+Steel Bamboo: filler
+Dirty Rubble: filler
+Spark Tin: filler
+Cobalt Crystal: filler
+Dream Globe: filler
+Cobalt Goggles: progression
+Cobalt Edge: progression
+Cobalt Mail: progression
+Cobalt Boots: progression
+Laser Goggles: progression
+Laser Edge: progression
+Laser Mail: progression
+Laser Boots: progression
+Infected Cell: filler
+Elemental DNA: filler
+Cursed Coin: progression
+Broken Sword: progression
+Ronin Shell: filler
+Samurai Shell: filler
+Sharp Splitter: filler
+Hoverpad: filler
+Sticky Web: filler
+Star Shade: progression
+Hardhead Hat: progression
+Survivor's Blade: progression
+Marksmen Trigger: progression
+Panzer Fist: progression
+Shadowy Cloak: progression
+Plated Plate: progression
+Bamboots: progression
+Brave Anchors: progression
+Shuddering Cleaver: progression
+Tengu Mask: progression
+Sonic Spike: progression
+Lead Boots: progression
+Omni Lock: filler
+Shining Bracer: progression
+Bluefiber Robe: progression
+Toggle Test: filler
+Stone Key: progression
+Circuit Override: progression
+F.A.I.R. Device: progression
+Smelter Parts: progression
+Marinated Meat: filler
+Bright Bracer: progression
+Prickly Bracer: progression
+Meteor Shade: progression
+Golden Bug: progression
+Sparkling Bracer: progression
+Brostick of Force: progression
+Old Dojo Key: progression
+Twilight Shard: filler
+Old Geta: progression
+Broken Deck: progression
+Stone of Spirit: progression
+Infinity Gem: filler
+Stone of Ages: progression
+Heaven's Seed: filler
+Rise Booster: progression
+Fall Booster: progression
+Trail Booster: progression
+Valley Booster: progression
+Garden Booster: progression
+Ridge Booster: progression
+Halcyon Droplet: filler
+Portrait of Ruin: filler
+Very Large Ember: progression
+Ruby: filler
+Garnet: filler
+Diamond: filler
+Moonstone: filler
+Citrine: filler
+Topaz: filler
+Amethyst: filler
+Emerald: filler
+Lapis Lazuli: filler
+Mine Detector: filler
+Dried Grass Hat: progression
+Strawberry Hat: progression
+The Last Strawhat: progression
+Climate Cowl: progression
+Serene Bubble: progression
+Furious Hothead: progression
+Trackwalker Visor: progression
+Skirmisher: progression
+Unbreaking Fist: progression
+Golden Falcon: progression
+Zealous Lamellar: progression
+Pioneer Vest: progression
+Reactive Plate: progression
+Vermillion Mantle: progression
+Deadly Dancers: progression
+Praetorian Anchors: progression
+Mistwalkers: progression
+Geta Wood: filler
+Geta Straps: filler
+Geta Glue: filler
+Golden Satchel: filler
+Golden Bars: filler
+Golden Ticket: filler
+Dk Pepper: filler
+Cheese Spaetzle: filler
+Durian: filler
+PengoPop: filler
+Spicy Beat-0-Type: filler
+Guacamole Toast: filler
+Old Blueprint: progression
+Kunoichi: filler
+Antique Token: filler
+Radiant Bracer: progression
+Chest Detector: filler
+Moistured Line: filler
+Trash: filler
+Thrashing Ripper: progression
+Rusty Hook: filler
+Gorgon Veil: progression
+Centaur Vest: progression
+Unicorn Greaves: progression
+Chestlink: filler
+Lifefiber Uniform: progression
+Infinity+1 Bag: progression
+Mantis Whip: progression
+Nanopoint Needle: progression
+Roundhousers: progression
+Broken Chakrams: progression
+Mooncake: filler
+Turret Tokens: filler
+Trench Boots: progression
+Element Aura: filler
+Menacing Aura: filler
+Chunky: filler
+Paedalos: progression
+Killing Dress: progression
+Pendulum Striker: progression
+Knocking One: progression
+Dragon's Bandana: progression
+Orange Twister: filler
+Baby Peng: filler
+FDNI Fox: filler
+Eternal Salami: progression
+Assault Harness: progression
+Tranquil Earmuffs: progression
+Combat Skates: progression
+Good Boy: filler
+Coarse Powerring: progression
+Artillery Boots: progression
+S-Rex: filler
+Lil' Reap: filler
+Red Liz: filler
+Encrypted Key: progression
+Facility X Key: progression
+Supercrown: progression
+Snowtank Datachip: progression
+Fishy Documents: progression
+Hightech Valve: progression
+Shy Fly: filler
+T.A.N.K.: filler
+Micro Crawler: filler
+Cool Bar: filler
+Ascension Proof: progression
+Willis Waldmahl: filler
+Batboy: filler
+Butterfliege: filler
+Piggybank: filler
+Seedling: filler
+Turbo: filler
+I Rob-0T: filler
+Baby of the East: filler
+Goose: filler
+Ku'lero Key: progression
+Strange Shard: filler
+Cone Seed: filler
+Antique Ore: filler
+Rose Cone: filler
+Salty Grass: filler
+Coral Piece: filler
+Cross Edge: progression
+Cross Goggles: progression
+Cross Mail: progression
+Cross Boots: progression
+Serene Bubble+: progression
+Furious Hothead+: progression
+Trackwalker Visor+: progression
+Medusa Veil: progression
+Dragon's Bandana+: progression
+Tranquil Earmuffs+: progression
+Skirmisher+: progression
+Unbreaking Fist+: progression
+Mantis Whip+: progression
+Golden Falcon+: progression
+Brostick of Force+: progression
+Cerberus Fang: progression
+Zealous Lamellar+: progression
+Pioneer Vest+: progression
+Reactive Plate+: progression
+Chiron Vest: progression
+Killing Dress+: progression
+Assault Harness+: progression
+Pendulum Striker+: progression
+Knocking One+: progression
+Deadly Dancers+: progression
+Praetorian Anchors+: progression
+Mistwalkers+: progression
+Pegasus Greaves: progression
+Combat Skates+: progression
+Paedalos+: progression
+Very Last Strawhat: progression
+Sunshine Bracer: progression
+Highmeister Gloves: progression
+Body Armoire: progression
+Artillery Boots+: progression
+Lifefiber Dress: progression
+Eternal Salami+: progression
+Light Gem: filler
+Shuriken Shooter: progression
+Barrel Beak: filler
+Rumble Hive: filler
+Burned Ash: filler
+Speedy Boom Boots: progression
+Unruly Emeralds: filler
+Booster Booster: progression
+Yellow Sponge: filler
+Mellow Water: filler
+Shell Nut: filler
+MacGuffin's Coin: progression
+Gold Surprise Egg: filler
+Ku'lero Master Key: progression
+Ancient Cups: progression
+Full Rhombus Pass: progression
+Ancient Shade: progression
+Nuclear Roach: filler
+Core Stone: filler
+Worm Band: filler
+Ember Sack: filler
+Razor Tip: filler
+Focus Shard: filler
+Singularity Drill: progression
+Rift Spore: filler
+Pumpkin Spice Cof.: filler
+Tremor Core: progression
+Tremor Mirage: progression
+Champion's Towel: filler
+Dragon Sphere: filler
+Tranquility Sphere: filler
+Pendulum Sphere: filler
+Knocking Sphere: filler
+Salami Sphere: filler
+Killing Sphere: filler
+Assault Sphere: filler
+Roller Sphere: filler
+Skate Sphere: filler
+Symbol of Neutral: progression
+Symbol of Heat: progression
+Symbol of Cold: progression
+Symbol of Shock: progression
+Symbol of Wave: progression
+Tremor Lab Key: progression
+Ultra Secret Note: filler
+Sunglass Visor: progression
+Lunatic Paws UwU: progression
+Meteor Trigger: progression
+Asteroid Belt: progression
+Asteroid Chunk: filler
+Meteor Chunk: filler
+Infinity+2 Bag: progression
+Lis'mita Cap: progression
+Enlightened Halo: progression
+Moonwalkers: progression
+Moon Chunk: filler
+The Last Straw: filler
+Goat Cheese: filler
+Goat Milk: filler
+Manlea: filler
+Bearserker Claw: progression
+Headset TYPE>:3: progression
+Nightfeather Coat: progression
