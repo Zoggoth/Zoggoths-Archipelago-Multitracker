@@ -16,7 +16,7 @@ Tracker List.txt supports various formats:
 
 All 4 will show new items, but the game name is needed to sort items into progression/useful/filler
 
-### Troubleshooting
+## Troubleshooting
 
 The first run will print all items (since it doesn't know when you last checked each world).  
 All subsequent runs will remember when you last checked & only print new items
