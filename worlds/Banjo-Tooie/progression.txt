@@ -1,94 +1,94 @@
-Airborne Egg Aiming: progress
-Sub-Aqua Egg Aiming: progress
-Breegull Bash: progress
-Beak Bayonet: progress
-Breegull Blaster: progress
-Bill Drill: progress
-Black Jinjo: progress
-Blue Jinjo: progress
-Blue Mystery Egg: progress
-Brown Jinjo: progress
-Cloud Cuckooland: progress
-Clockwork Kazooie Eggs: progress
-Chuffy: progress
-Cauldron Keep: progress
-Claw Clamber Boots: progress
-Climb: progress
-Double Air: progress
-Dive: progress
-Doubloon: progress
-Egg Aim: progress
-Egg Shoot: progress
-Fire Eggs: progress
-Flap Flip: progress
-Flutter: progress
-Flight Pad: progress
-Fast Swimming: progress
-Grenade Eggs: progress
-Glitter Gulch Mine: progress
-Grip Grab: progress
-Grunty's Industries: progress
-Green Jinjo: progress
-Glide: progress
-Hatch: progress
-Hailfire Peaks: progress
+Airborne Egg Aiming: progression
+Sub-Aqua Egg Aiming: progression
+Breegull Bash: progression
+Beak Bayonet: progression
+Breegull Blaster: progression
+Bill Drill: progression
+Black Jinjo: progression
+Blue Jinjo: progression
+Blue Mystery Egg: progression
+Brown Jinjo: progression
+Cloud Cuckooland: progression
+Clockwork Kazooie Eggs: progression
+Chuffy: progression
+Cauldron Keep: progression
+Claw Clamber Boots: progression
+Climb: progression
+Double Air: progression
+Dive: progression
+Doubloon: progression
+Egg Aim: progression
+Egg Shoot: progression
+Fire Eggs: progression
+Flap Flip: progression
+Flutter: progression
+Flight Pad: progression
+Fast Swimming: progression
+Grenade Eggs: progression
+Glitter Gulch Mine: progression
+Grip Grab: progression
+Grunty's Industries: progression
+Green Jinjo: progression
+Glide: progression
+Hatch: progression
+Hailfire Peaks: progression
 Homing Eggs Toggle: useful
 Empty Honeycomb: useful
-Humba: Bee: progress
-Humba: Washing Machine: progress
-Humba: Detonator: progress
-Humba: Snowball: progress
-Humba: Dragon: progress
-Humba: Sub: progress
-Humba: Stony: progress
-Humba: T-Rex: progress
-Humba: Money Van: progress
-Ice Eggs: progress
-Ice Key: progress
-Jiggy: progress
+Humba: Bee: progression
+Humba: Washing Machine: progression
+Humba: Detonator: progression
+Humba: Snowball: progression
+Humba: Dragon: progression
+Humba: Sub: progression
+Humba: Stony: progression
+Humba: T-Rex: progression
+Humba: Money Van: progression
+Ice Eggs: progression
+Ice Key: progression
+Jiggy: progression
 Jinjo Multiplayer Character (Nothing): filler
-Jolly Roger's Lagoon: progress
-Leg Spring: progress
-Mayahem Temple: progress
-Mumbo: Rain Dance: progress
-Mumbo: EMP: progress
-Mumbo: Levitate: progress
-Mumbo: Life Force: progress
-Mumbo: Heal: progress
-Mumbo: Oxygenate: progress
-Mumbo: Golden Goliath: progress
-Mumbo: Enlarge: progress
-Mumbo Token: progress
-Mumbo: Power: progress
+Jolly Roger's Lagoon: progression
+Leg Spring: progression
+Mayahem Temple: progression
+Mumbo: Rain Dance: progression
+Mumbo: EMP: progression
+Mumbo: Levitate: progression
+Mumbo: Life Force: progression
+Mumbo: Heal: progression
+Mumbo: Oxygenate: progression
+Mumbo: Golden Goliath: progression
+Mumbo: Enlarge: progression
+Mumbo Token: progression
+Mumbo: Power: progression
 Big-O Pants: filler
-5 Notes: progress
-Orange Jinjo: progress
-Pack Whack: progress
+5 Notes: progression
+Orange Jinjo: progression
+Pack Whack: progression
 Cheato Page: useful
-Purple Jinjo: progress
-Pink Mystery Egg: progress
-Red Jinjo: progress
-Roll: progress
-Sack Pack: progress
-Shack Pack: progress
-Snooze Pack: progress
-Split Up: progress
-Springy Step Shoes: progress
-Taxi Pack: progress
-Terrydactyland: progress
-Tall jump: progress
-GI: Train Station: progress
-HFP: Lava Side Train Station: progress
-HFP: Icy Side Train Station: progress
-IoH: Train Station: progress
-TDL: Train Station: progress
-WW: Train Station: progress
-Treble Clef: progress
-Talon Torpedo: progress
-Talon Trot: progress
+Purple Jinjo: progression
+Pink Mystery Egg: progression
+Red Jinjo: progression
+Roll: progression
+Sack Pack: progression
+Shack Pack: progression
+Snooze Pack: progression
+Split Up: progression
+Springy Step Shoes: progression
+Taxi Pack: progression
+Terrydactyland: progression
+Tall jump: progression
+GI: Train Station: progression
+HFP: Lava Side Train Station: progression
+HFP: Icy Side Train Station: progression
+IoH: Train Station: progression
+TDL: Train Station: progression
+WW: Train Station: progression
+Treble Clef: progression
+Talon Torpedo: progression
+Talon Trot: progression
 Grunty Warp Spell: trap
-White Jinjo: progress
-Witchyworld: progress
-Wing Whack: progress
-Wonderwing: progress
-Yellow Jinjo: progress
+White Jinjo: progression
+Witchyworld: progression
+Wing Whack: progression
+Wonderwing: progression
+Yellow Jinjo: progression
