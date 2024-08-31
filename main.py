@@ -11,11 +11,14 @@ trackerListFile.close()
 gameList = []
 for x in text.splitlines():
     regex = re.match(r"(.*?) ?(?:\((.*)\))?(?:: )?(http.*)", x)
-    gameName = regex[1]
-    slotName = "" if regex[2] is None else regex[2]
-    trackerLink = regex[3]
-    worldID = re.search(r".../\d/\d+", trackerLink)[0]
-    gameList.append((worldID, gameName, trackerLink, slotName))
+    try:
+        gameName = regex[1]
+        slotName = "" if regex[2] is None else regex[2]
+        trackerLink = regex[3]
+        worldID = re.search(r".../\d/\d+", trackerLink)[0]
+        gameList.append((worldID, gameName, trackerLink, slotName))
+    except TypeError:
+        pass
 lastUpdated = {}
 try:
     lastUpdateFile = open("Last Updated.txt", "r")
