@@ -73,7 +73,8 @@ hasUseful = False
 hasFiller = False
 hasTrap = False
 hasUnknown = False
-DDOSProtectionMode = (len(gameList) > 5)
+DDOSProtectionMode = (len(gameList) > 5)  # Don't want to get in trouble for hammering the website
+lastWebsiteCheck = 0
 for (worldID, gameName, url, slotName) in gameList:
     if slotName != "":
         print("Checking {}".format(slotName))
@@ -84,6 +85,11 @@ for (worldID, gameName, url, slotName) in gameList:
     printID = worldID if slotName == "" else slotName
     lastUpdate = lastUpdated.get(worldID, -1)
     newUpdate = lastUpdate
+    if DDOSProtectionMode:  # If checking large numbers of trackers, limit to 1 per second
+        timeToSleep = lastWebsiteCheck - time.time() + 1
+        if timeToSleep > 0:
+            time.sleep(timeToSleep)
+        lastWebsiteCheck = time.time()
     page = urlopen(url)
     html_bytes = page.read()
     html = unescape(html_bytes.decode("utf-8"))
@@ -122,8 +128,6 @@ for (worldID, gameName, url, slotName) in gameList:
                     progressionFile.write("\n{}: unknown".format(itemName))
                     progressionFile.close()
     lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, newUpdate)
-    if DDOSProtectionMode:
-        time.sleep(1)  # Don't want to get in trouble for hammering the website
 progressionPrint = progressionPrint+"\n" if hasProgression else ""
 usefulPrint = usefulPrint+"\n" if hasUseful else ""
 fillerPrint = fillerPrint+"\n" if hasFiller else ""
