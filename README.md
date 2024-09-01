@@ -5,8 +5,9 @@ Intended for large asyncs, where a user might get multiple items across multiple
 
 ## Usage
 
-Put all trackers in "Tracker List.txt" with the format "GameName: TrackerLink" (see [Tracker List.txt](https://github.com/Zoggoth/Zoggoths-Archipelago-Multitracker/blob/main/Tracker%20List.txt) for an example)  
+Put game names & tracker links into "Tracker List.txt" (see [Tracker List.txt](https://github.com/Zoggoth/Zoggoths-Archipelago-Multitracker/blob/main/Tracker%20List.txt) for an example)  
 Run main.exe  
+If tracking large numbers of slots, "generate tracker list.exe" can be used to extract multiple tracking links from an archipelago room
 
 Tracker List.txt supports various formats:  
 * "Pokemon Emerald: https..."  
@@ -14,7 +15,7 @@ Tracker List.txt supports various formats:
 * "(Zoggoth_Emerald): https..."  
 * "https..."
 
-All 4 will show new items, but the game name is needed to sort items into progression/useful/filler
+All 4 will show new items, but the game name is needed to sort items into progression/useful/filler  
 
 ## Troubleshooting
 
