@@ -35,7 +35,14 @@ for x in fullMatches:
     html_bytes = page.read()
     html = unescape(html_bytes.decode("utf-8"))
     for y in numberlist:
-        trackerMatch = re.search("<tr>\n.*{}.*\n.*>(.*)</a.*\n.*>(.*)<.*(\n.*?)*tracker([^\"]*)".format(y), html)
-        file.write("{} ({}): https://archipelago.gg/generic_tracker{}\n".format(trackerMatch[2], trackerMatch[1], trackerMatch[4]))
+        trackerMatch = re.search("<tr>\n.*>{}<.*\n.*>(.*)</a.*\n.*>(.*)<.*(\n.*?)*tracker([^\"]*)".format(y), html)
+        try:
+            file.write("{} ({}): https://archipelago.gg/generic_tracker{}\n".format(trackerMatch[2], trackerMatch[1], trackerMatch[4]))
+        except:
+            print("Couldn't find slot {} in multiworld {}\nPlease check that the slot number is correct.".format(y, x[1]))
+            print("If this problem occurs for multiple slots, it's likely a temporary connection problem.")
+            print()
     file.write("\n")
 file.close()
+userInput = input("Done. Press enter to close")
+exit()
