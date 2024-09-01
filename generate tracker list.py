@@ -39,10 +39,10 @@ for x in fullMatches:
         try:
             file.write("{} ({}): https://archipelago.gg/generic_tracker{}\n".format(trackerMatch[2], trackerMatch[1], trackerMatch[4]))
         except:
-            print("Couldn't find slot {} in multiworld {}\nPlease check that the slot number is correct.".format(y, x[1]))
+            print("Couldn't find slot {} in multiworld at {}\nPlease check that the slot number is correct.".format(y, x[1]))
             print("If this problem occurs for multiple slots, it's likely a temporary connection problem.")
             print()
     file.write("\n")
 file.close()
-userInput = input("Done. Press enter to close")
+userInput = input("Tracker List.txt updated. Press enter to close")
 exit()
