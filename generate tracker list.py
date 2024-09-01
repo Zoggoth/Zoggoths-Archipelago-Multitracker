@@ -1,9 +1,6 @@
-import os
 from urllib.request import urlopen
 import re
-import time
 from html import unescape
-import webbrowser
 
 file = open("generate tracker list.txt", "r")
 text = file.read()
