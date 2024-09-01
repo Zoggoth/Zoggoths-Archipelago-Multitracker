@@ -5,7 +5,7 @@ import time
 from html import unescape
 import webbrowser
 
-trackerListFile = open("Tracker List.txt", "r")
+trackerListFile = open("Tracker List.txt", "r", encoding="utf-8")
 text = trackerListFile.read()
 trackerListFile.close()
 gameList = []
@@ -21,7 +21,7 @@ for x in text.splitlines():
         pass
 lastUpdated = {}
 try:
-    lastUpdateFile = open("Last Updated.txt", "r")
+    lastUpdateFile = open("Last Updated.txt", "r", encoding="utf-8")
     text = lastUpdateFile.read()
     lastUpdateFile.close()
     for x in text.splitlines():
@@ -44,7 +44,7 @@ for (_, name, _, _) in gameList:
         except FileExistsError:
             pass
         try:
-            progressionFile = open("worlds/{}/progression.txt".format(name), "r")
+            progressionFile = open("worlds/{}/progression.txt".format(name), "r", encoding="utf-8")
             text = progressionFile.read()
             progressionFile.close()
             for x in text.splitlines():
@@ -124,7 +124,7 @@ for (worldID, gameName, url, slotName) in gameList:
                 unknownPrint += "{} ({}): {} x{}\n".format(gameName, printID, itemName, itemNumber)
                 unknownSet.add((gameName, itemName.lower()))
                 if gameName != "":
-                    progressionFile = open("worlds/{}/progression.txt".format(gameName), "a")
+                    progressionFile = open("worlds/{}/progression.txt".format(gameName), "a", encoding="utf-8")
                     progressionFile.write("\n{}: unknown".format(itemName))
                     progressionFile.close()
     lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, newUpdate)
@@ -136,8 +136,8 @@ unknownPrint = unknownPrint+"\n" if hasUnknown else ""
 consolePrint = "{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint)
 filePrint = "{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint)
 print()
-outputFile = open("output.txt", "w")
-outputFile2 = open("old output/{}.txt".format(time.strftime("%Y-%m-%d %H-%M-%S")), "w")
+outputFile = open("output.txt", "w", encoding="utf-8")
+outputFile2 = open("old output/{}.txt".format(time.strftime("%Y-%m-%d %H-%M-%S")), "w", encoding="utf-8")
 if consolePrint == "":
     print("No items received")
     outputFile.write("No items received")
@@ -148,7 +148,7 @@ else:
     outputFile2.write(filePrint)
 outputFile.close()
 outputFile2.close()
-lastUpdateFile = open("Last Updated.txt", "w")
+lastUpdateFile = open("Last Updated.txt", "w", encoding="utf-8")
 lastUpdateFile.write(lastUpdatePrint)
 lastUpdateFile.close()
 print("Output also printed to Output.txt.")
