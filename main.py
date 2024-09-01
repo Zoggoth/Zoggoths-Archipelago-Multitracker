@@ -62,7 +62,6 @@ for (_, name, _, _) in gameList:
                     pass
         except FileNotFoundError:
             pass
-outputFile = open("output.txt", "w")
 lastUpdatePrint = ""
 progressionPrint = "Progression\n"
 usefulPrint = "Useful\n"
@@ -136,13 +135,18 @@ unknownPrint = unknownPrint+"\n" if hasUnknown else ""
 consolePrint = "{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint)
 filePrint = "{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint)
 print()
+outputFile = open("output.txt", "w")
+outputFile2 = open("old output/{}.txt".format(time.strftime("%Y-%m-%d %H-%M-%S")), "w")
 if consolePrint == "":
     print("No items received")
     outputFile.write("No items received")
+    outputFile2.write("No items received")
 else:
     print(consolePrint)
     outputFile.write(filePrint)
+    outputFile2.write(filePrint)
 outputFile.close()
+outputFile2.close()
 print("Output also printed to Output.txt.")
 print("Open Output.txt? (y/n)")
 userInput = input()
