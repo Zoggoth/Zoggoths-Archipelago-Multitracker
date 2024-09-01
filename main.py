@@ -124,9 +124,6 @@ for (worldID, gameName, url, slotName) in gameList:
     lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, newUpdate)
     if DDOSProtectionMode:
         time.sleep(1)  # Don't want to get in trouble for hammering the website
-lastUpdateFile = open("Last Updated.txt", "w")
-lastUpdateFile.write(lastUpdatePrint)
-lastUpdateFile.close()
 progressionPrint = progressionPrint+"\n" if hasProgression else ""
 usefulPrint = usefulPrint+"\n" if hasUseful else ""
 fillerPrint = fillerPrint+"\n" if hasFiller else ""
@@ -147,6 +144,9 @@ else:
     outputFile2.write(filePrint)
 outputFile.close()
 outputFile2.close()
+lastUpdateFile = open("Last Updated.txt", "w")
+lastUpdateFile.write(lastUpdatePrint)
+lastUpdateFile.close()
 print("Output also printed to Output.txt.")
 print("Open Output.txt? (y/n)")
 userInput = input()
