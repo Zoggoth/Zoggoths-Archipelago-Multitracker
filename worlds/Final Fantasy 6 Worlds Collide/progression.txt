@@ -14,8 +14,7 @@ Raiden: progression
 Bahamut: progression
 Alexandr: progression
 Crusader: progression
-Ragnarok: progression
-Esper: progression
+Ragnarok Esper: progression
 Kirin: progression
 ZoneSeek: progression
 Carbunkl: progression
