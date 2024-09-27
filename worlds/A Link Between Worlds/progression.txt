@@ -1,38 +1,37 @@
-
-Progressive Bracelet: progression
-Small Key (Eastern Palace): progression
-Pouch: useful
-Maiamai: filler
-Boomerang: progression
-Charm: filler
-Blue Rupee: filler
-Premium Milk: progression
-Ice Rod: progression
-Monster Horn: filler
-Sand Rod: progression
-Pegasus Boots: progression
-Hint Glasses: filler
-Lamp: progression
-Silver Rupee: filler
-Tornado Rod: progression
-Heart Container: filler
-Small Key (Hyrule Sanctuary): progression
-Piece of Heart: filler
-Red Rupee: filler
-Monster Guts: filler
-Progressive Mail: useful
-Hookshot: progression
-Master Ore: progression
-Gold Rupee: filler
-Big Key (Eastern Palace): progression
-Bow of Light: progression
 Bell: progression
-Progressive Sword: progression
-Smooth Gem: progression
+Big Key (Eastern Palace): progression
+Blue Rupee: filler
+Boomerang: progression
+Bottle: progression
+Bow of Light: progression
 Bow: progression
 Bug Net: useful
-Purple Rupee: filler
-Hammer: progression
+Charm: filler
+Gold Rupee: filler
 Green Rupee: filler
+Hammer: progression
+Heart Container: filler
+Hint Glasses: filler
+Hookshot: progression
+Ice Rod: progression
+Lamp: progression
+Maiamai: filler
+Master Ore: progression
+Monster Guts: filler
+Monster Horn: filler
 Monster Tail: filler
-Bottle: progression
+Pegasus Boots: progression
+Piece of Heart: filler
+Pouch: useful
+Premium Milk: progression
+Progressive Bracelet: progression
+Progressive Mail: useful
+Progressive Sword: progression
+Purple Rupee: filler
+Red Rupee: filler
+Sand Rod: progression
+Silver Rupee: filler
+Small Key (Eastern Palace): progression
+Small Key (Hyrule Sanctuary): progression
+Smooth Gem: progression
+Tornado Rod: progression

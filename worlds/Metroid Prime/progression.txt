@@ -1,21 +1,20 @@
-
-Artifact of World: progression
-Artifact of Sun: progression
+Artifact of Chozo: progression
+Artifact of Lifegiver: progression
 Artifact of Nature: progression
-Morph Ball: progression
+Artifact of Newborn: progression
+Artifact of Sun: progression
 Artifact of Warrior: progression
+Artifact of Wild: progression
+Artifact of World: progression
+Energy Tank: useful
+Grapple Beam: progression
+Gravity Suit: progression
+Missile Expansion: filler
+Morph Ball Bomb: progression
+Morph Ball: progression
+Phazon Suit: progression
 Power Bomb Expansion: useful
 Progressive Ice Beam: progression
-Artifact of Wild: progression
-Energy Tank: useful
-Artifact of Lifegiver: progression
-Missile Expansion: filler
-Artifact of Chozo: progression
 Progressive Power Beam: progression
-Varia Suit: progression
-Morph Ball Bomb: progression
 Progressive Wave Beam: progression
-Grapple Beam: progression
-Phazon Suit: progression
-Gravity Suit: progression
-Artifact of Newborn: progression
+Varia Suit: progression
