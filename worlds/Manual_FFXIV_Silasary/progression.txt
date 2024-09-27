@@ -1,0 +1,44 @@
+/pet: filler
+5 ALC Levels: filler
+5 ARM Levels: filler
+5 BLM Levels: progression
+5 BLU Levels: progression
+5 BSM Levels: filler
+5 BTN Levels: filler
+5 CRP Levels: filler
+5 DNC Levels: progression
+5 DRG Levels: progression
+5 DRK Levels: progression
+5 FSH Levels: progression
+5 GNB Levels: progression
+5 GSM Levels: filler
+5 LTW Levels: filler
+5 MCH Levels: progression
+5 MIN Levels: filler
+5 NIN Levels: progression
+5 RDM Levels: progression
+5 RPR Levels: progression
+5 SMN Levels: progression
+5 WVR Levels: filler
+Blue Bobbit: progression
+Chimera Worm: progression
+Crow Fly: progression
+East Shroud Access: progression
+Eden Key: progression
+Goblin Jig: progression
+Marble Nymph: progression
+Memory of a Distant World: progression
+Midge Basket: progression
+Moth Pupa: progression
+Omega Key: progression
+Pandaemonium Key: progression
+Sand Gecko: progression
+South Shroud Access: progression
+Southern Thanalan Access: progression
+Spoon Worm: progression
+Stonefly Nymph: progression
+Suspending Minnow: progression
+The Dravanian Forelands Access: progression
+The Dravanian Hinterlands and Idyllshire Access: progression
+The Ruby Sea Access: progression
+Wildfowl Fly: progression
