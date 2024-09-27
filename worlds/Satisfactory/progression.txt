@@ -1,0 +1,49 @@
+
+Bundle: Quantum Computer: filler
+Recipe: Versatile Framework: progression
+Bundle: Superposition Oscillator: filler
+Recipe: Insulated Crystal Oscillator: progression
+Building: AWESOME Sink: progression
+Bundle: Iron Plate: filler
+Building: Manufacturer: progression
+Building: Blueprint Designer: useful
+Recipe: Recycled Rubber: progression
+Building: Nuclear Power Plant: useful
+Bundle: Copper Ingot: filler
+Building: Jump Pad: useful
+Building: Personal Storage Box: useful
+Recipe: Quickwire: progression
+Recipe: Plutonium Fuel Rod: progression
+Building: Ladder: useful
+Building: Power Storage: useful
+Bundle: Wire: filler
+Bundle: Object Scanner: filler
+Recipe: Iron Wire: progression
+Recipe: Heat Exchanger: progression
+Recipe: Adaptive Control Unit: progression
+Expanded Toolbelt: useful
+Bundle: Factory Cart: filler
+Recipe: Packaged Alumina Solution: progression
+Recipe: Adhered Iron Plate: progression
+Building: Conveyor Lift Mk.1: progression
+Bundle: Reinforced Iron Plate: filler
+Recipe: Quickwire Cable: progression
+Recipe: Packaged Heavy Oil Residue: progression
+Bundle: Portable Miner: filler
+Recipe: Instant Scrap: progression
+Recipe: Fabric: progression
+Bundle: Steel Beam: filler
+Recipe: Beacon: useful
+Recipe: Electromagnetic Control Rod: progression
+Recipe: Fuel: progression
+Building: Walls Orange: useful
+Building: Water Extractor: progression
+Recipe: Radio Control Unit: progression
+Recipe: Turbo Blend Fuel: progression
+Bundle: Cable: filler
+Inflated Pocket Dimension: useful
+Recipe: Packaged Nitrogen Gas: progression
+Bundle: Iron Ingot: filler
+Bundle: Iron Rod: filler
+Recipe: Alclad Casing: progression
+Bundle: Concrete: filler
