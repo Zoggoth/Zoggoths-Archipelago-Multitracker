@@ -85,10 +85,10 @@ Plant Key: progression
 Mansion Key: progression
 Hideout Key: progression
 Safari Pass: progression
-Poison Trap: filler
-Paralyze Trap: filler
-Ice Trap: filler
-Fire Trap: filler
+Poison Trap: trap
+Paralyze Trap: trap
+Ice Trap: trap
+Fire Trap: trap
 20 Coins: filler
 100 Coins: filler
 Card Key 2F: progression
@@ -102,7 +102,7 @@ Card Key 9F: progression
 Card Key 10F: progression
 Card Key 11F: progression
 Progressive Card Key: progression
-Sleep Trap: filler
+Sleep Trap: trap
 HM01 Cut: progression
 HM02 Fly: progression
 HM03 Surf: progression
