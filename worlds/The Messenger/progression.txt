@@ -32,3 +32,4 @@ Time Shard (500): filler
 Teleport Trap: trap
 Prophecy Trap: trap
 Power Seal: filler
+Path of Resilience: useful
