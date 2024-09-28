@@ -124,3 +124,6 @@ Mango Sapling: progression
 Gravel Path Recipe: progression
 Magnifying Glass: progression
 Meow Trap: trap
+Resource Pack: 1500 Money: filler
+Resource Pack: 10 Qi Seasoning: filler
+Pepper Poppers Recipe: progression
