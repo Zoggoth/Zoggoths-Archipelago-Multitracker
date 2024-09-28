@@ -116,3 +116,11 @@ Winter: progression
 Wizard <3: progression
 Wood Fence Recipe: progression
 Woods Obelisk: progression
+Pancakes Recipe: progression
+Island Obelisk: progression
+Aquatic Sanctuary: filler
+Bomb Trap: trap
+Mango Sapling: progression
+Gravel Path Recipe: progression
+Magnifying Glass: progression
+Meow Trap: trap
