@@ -134,3 +134,6 @@ Winter: progression
 Wizard <3: progression
 Wood Fence Recipe: progression
 Woods Obelisk: progression
+Mushroom Boxes: progression
+15 Qi Gems: progression
+Traveling Merchant Metal Detector: progression

@@ -46,3 +46,6 @@ Recipe: Radio Control Unit: progression
 Recipe: Recycled Rubber: progression
 Recipe: Turbo Blend Fuel: progression
 Recipe: Versatile Framework: progression
+Recipe: Radio Control System: progression
+Recipe: Power Shard (1): progression
+Bundle: Smokeless Powder: filler

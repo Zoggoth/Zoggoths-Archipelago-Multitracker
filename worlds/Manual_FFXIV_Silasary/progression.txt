@@ -51,3 +51,4 @@ Fruit Worm: progression
 Mythril Spoon Lure: progression
 Il Mheg Access: progression
 Amh Araeng Access: progression
+Lugworm: progression

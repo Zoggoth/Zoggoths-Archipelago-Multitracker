@@ -10,3 +10,8 @@ Guardian Siegrid: useful
 Furious Blight x10: useful
 Guardian Silva: progression
 Furious Blight x100: useful
+Stagnant Blight x100: useful
+Stagnant Blight x30: useful
+Heretic's Mask: progression
+Hamlet Scrawl: useful
+Amulet Fragment: useful
