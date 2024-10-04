@@ -1,17 +1,26 @@
-Fallen Sentinel: filler
-Lover's Letter: filler
+Adherent's Letter: filler
+Amulet Fragment: useful
+Aura's Ring: useful
 Blightwreathed Blade: useful
-Stone Tablet Fragment: progression
-Stagnant Blight x10: useful
-Ulv, the Mad Knight: progression
+Bloodied Note 2: filler
+Chain of Sorcery: useful
 Eleine's Diary 2: filler
-Verboten Champion: progression
-Guardian Siegrid: useful
+Fallen Sentinel: filler
 Furious Blight x10: useful
-Guardian Silva: progression
 Furious Blight x100: useful
+Guardian Siegrid: useful
+Guardian Silva: progression
+Hamlet Scrawl: useful
+Heretic's Mask: progression
+Julius' Book: filler
+Lover's Letter: filler
+Restoring the Aegis Curio: filler
+Stagnant Blight x10: useful
 Stagnant Blight x100: useful
 Stagnant Blight x30: useful
-Heretic's Mask: progression
-Hamlet Scrawl: useful
-Amulet Fragment: useful
+Stone Tablet Fragment: progression
+The Parish Way 3: filler
+Ulv, the Mad Knight: progression
+Unused Relic 3: useful
+Verboten Champion: progression
+Vibrant Plume: useful
