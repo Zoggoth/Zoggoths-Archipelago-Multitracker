@@ -990,3 +990,4 @@ Exotic Resin x3: filler
 Green Arbor x4: filler
 Rough Branch x2: filler
 Arid Lumber x4: filler
+Sandwich x3: filler
