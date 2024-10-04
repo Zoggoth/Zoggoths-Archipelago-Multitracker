@@ -8,3 +8,6 @@ Monkey Knowledge: useful
 FourCircles-MUnlock: progression
 Medal: progression
 Cargo-MUnlock: progression
+Chutes-MUnlock: progression
+WaterPark-MUnlock: progression
+Druid-TUnlock: progression
