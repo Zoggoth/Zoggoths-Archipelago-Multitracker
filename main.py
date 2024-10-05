@@ -32,6 +32,7 @@ try:
             pass
 except FileNotFoundError:
     pass
+mcguffinSet = set()
 progressionSet = set()
 usefulSet = set()
 fillerSet = set()
@@ -48,9 +49,10 @@ for (_, name, _, _) in gameList:
             text = progressionFile.read()
             progressionFile.close()
             for x in text.splitlines():
-                match = re.match("(.*): (.*)", x)
+                match = re.match(r"(.*): (.*)", x)
                 try:
                     match match[2].lower():
+                        case "mcguffin": mcguffinSet.add((name, match[1].lower()))
                         case "progression": progressionSet.add((name, match[1].lower()))
                         case "useful": usefulSet.add((name, match[1].lower()))
                         case "filler": fillerSet.add((name, match[1].lower()))
@@ -63,11 +65,13 @@ for (_, name, _, _) in gameList:
         except FileNotFoundError:
             pass
 lastUpdatePrint = ""
+mcguffinPrint = "McGuffin\n"
 progressionPrint = "Progression\n"
 usefulPrint = "Useful\n"
 fillerPrint = "Filler\n"
 trapPrint = "Trap\n"
 unknownPrint = "Unknown"
+hasMcguffin = False
 hasProgression = False
 hasUseful = False
 hasFiller = False
@@ -96,9 +100,14 @@ for (worldID, gameName, url, slotName) in gameList:
     matches = re.findall("<tr>\n *<td>(.*)</td>\n *<td>(.*)</td>\n *<td>(.*)</td>\n *</tr>", html)
     # You can't parse [X]HTML with regex. Because HTML can't be parsed by regex.
     # TO DO: try using an XML parser instead?
+    # silasary: I'd recommend using BeautifulSoup, it's much better for parsing HTML
     for (itemName, itemNumber, itemTime) in matches:
         newUpdate = max(newUpdate, int(itemTime))
         if int(itemTime) > lastUpdate:
+            if (gameName, itemName.lower()) in mcguffinSet:
+                mcguffinPrint += "{} ({}): {} x{}\n".format(gameName, printID, itemName, itemNumber)
+                hasMcguffin = True
+                continue
             if (gameName, itemName.lower()) in progressionSet:
                 progressionPrint += "{} ({}): {} x{}\n".format(gameName, printID, itemName, itemNumber)
                 hasProgression = True
@@ -128,13 +137,14 @@ for (worldID, gameName, url, slotName) in gameList:
                     progressionFile.write("\n{}: unknown".format(itemName))
                     progressionFile.close()
     lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, newUpdate)
+mcguffinPrint = mcguffinPrint+"\n" if hasMcguffin else ""
 progressionPrint = progressionPrint+"\n" if hasProgression else ""
 usefulPrint = usefulPrint+"\n" if hasUseful else ""
 fillerPrint = fillerPrint+"\n" if hasFiller else ""
 trapPrint = trapPrint+"\n" if hasTrap else ""
 unknownPrint = unknownPrint+"\n" if hasUnknown else ""
-consolePrint = "{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint)
-filePrint = "{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint)
+consolePrint = "{}{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint, mcguffinPrint)
+filePrint = "{}{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint, mcguffinPrint)
 print()
 outputFile = open("output.txt", "w", encoding="utf-8")
 outputFile2 = open("old output/{}.txt".format(time.strftime("%Y-%m-%d %H-%M-%S")), "w", encoding="utf-8")
