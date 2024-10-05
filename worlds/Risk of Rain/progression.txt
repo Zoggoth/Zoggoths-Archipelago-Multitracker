@@ -1,0 +1,11 @@
+Equipment: filler
+Legendary Item: useful
+Stage 1: progression
+Money: filler
+Uncommon Item: useful
+Stage 4: progression
+Risk of Rain: progression
+Common Item: useful
+1000 Exp: filler
+Dried Lake: progression
+Teleporter Fragment: progression

@@ -183,3 +183,4 @@ Progressive Orange Tower: progression
 Progressive Colorful: progression
 Progressive Hallway Room: progression
 Progressive Art Gallery: progression
+Outside The Agreeable - Lookout Entrance: progression

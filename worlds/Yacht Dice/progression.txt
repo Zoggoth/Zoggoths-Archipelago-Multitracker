@@ -45,3 +45,4 @@ Bonus Point: useful
 1 Point: progression
 10 Points: progression
 100 Points: progression
+Victory: progression

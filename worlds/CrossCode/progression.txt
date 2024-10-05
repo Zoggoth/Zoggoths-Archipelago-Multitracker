@@ -961,3 +961,33 @@ Manlea: filler
 Bearserker Claw: progression
 Headset TYPE>:3: progression
 Nightfeather Coat: progression
+Rainbow Gem x3: filler
+Parched Leaves x4: filler
+Catalop Pellet x4: filler
+Chef Sandwich x3: filler
+Blue Orb x2: filler
+Purple Ore Lump x6: filler
+Elder Wood x3: filler
+Fruit Pie x3: filler
+Spiky Nut x4: filler
+Winter Thorn x2: filler
+Mega-Sandwich x2: filler
+Fruit Salad x3: filler
+Cobalt Crystal x4: filler
+Lucid Shard x3: filler
+Maroon Chestnut x4: filler
+Cactone Fruit x4: filler
+Venom Shroom x4: filler
+Whale Wine x3: filler
+Gold Beetle x4: filler
+Common Planter x4: filler
+Cross Sandwich x2: filler
+Season Apples x5: filler
+Sunset Dew x5: filler
+Twilight Dew x5: filler
+Bergen Ice x5: filler
+Exotic Resin x3: filler
+Green Arbor x4: filler
+Rough Branch x2: filler
+Arid Lumber x4: filler
+Sandwich x3: filler

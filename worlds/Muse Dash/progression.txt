@@ -657,3 +657,4 @@ Gray Scale Trap: trap
 Nyaa SFX Trap: trap
 Error SFX Trap: trap
 Focus Line Trap: trap
+Territory Battles: progression

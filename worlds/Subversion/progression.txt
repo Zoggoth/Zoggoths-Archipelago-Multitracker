@@ -1,0 +1,24 @@
+Accel Charge: useful
+Bombs: progression
+Charge Beam: progression
+Damage Amp: useful
+Dark Visor: progression
+Energy Tank: filler
+Grapple Beam: progression
+Gravity Boots: progression
+Hypercharge: progression
+Large Ammo: filler
+Metroid Suit: progression
+Missile: progression
+Morph Ball: progression
+Plasma Beam: progression
+Power Bomb: progression
+Refuel Tank: filler
+Screw Attack: progression
+Small Ammo: filler
+Space Jump Boost: useful
+Speed Ball: progression
+Speed Booster: progression
+Super Missile: progression
+Varia Suit: progression
+X-Ray Scope: progression

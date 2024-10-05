@@ -1,0 +1,13 @@
+DartMonkey-TUnlock: progression
+Downstream-MUnlock: progression
+Underground-MUnlock: progression
+TownCentre-MUnlock: progression
+Alchemist-TUnlock: progression
+ParkPath-MUnlock: progression
+Monkey Knowledge: useful
+FourCircles-MUnlock: progression
+Medal: progression
+Cargo-MUnlock: progression
+Chutes-MUnlock: progression
+WaterPark-MUnlock: progression
+Druid-TUnlock: progression
