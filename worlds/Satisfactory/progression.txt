@@ -49,3 +49,34 @@ Recipe: Versatile Framework: progression
 Recipe: Radio Control System: progression
 Recipe: Power Shard (1): progression
 Bundle: Smokeless Powder: filler
+Recipe: Gas Nobelisk: useful
+Recipe: Liquid Biofuel: useful
+Recipe: Empty Canister: filler
+Building: Pipeline Pump Mk.1: progression
+Recipe: Motor: useful
+Building: Packager: useful
+Building: Foundation: useful
+Bundle: Coal: filler
+Bundle: Paleberry: filler
+Transport: Hypertube Wall Hole: useful
+Recipe: Plastic Smart Plating: useful
+Recipe: Steel Pipe: useful
+Recipe: Battery: useful
+Recipe: Supercomputer: useful
+Bundle: Parachute: filler
+Recipe: Cast Screw: useful
+Recipe: Copper Powder: useful
+Recipe: Fused Modular Frame: useful
+Building: Geothermal Generator: useful
+Recipe: Steel Screw: useful
+Recipe: Wet Concrete: useful
+Small Inflated Pocket Dimension: useful
+Building: Resource Well Pressurizer: useful
+Recipe: Electric Motor: progression
+Building: Particle Accelerator: useful
+Recipe: Caterium Computer: progression
+Recipe: Fused Wire: useful
+Recipe: Polymer Resin: useful
+Recipe: Uranium Fuel Unit: useful
+Recipe: Diluted Fuel (refinery): useful
+Bundle: Xeno-Zapper: useful
