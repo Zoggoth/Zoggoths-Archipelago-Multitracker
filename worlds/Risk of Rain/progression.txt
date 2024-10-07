@@ -9,3 +9,8 @@ Common Item: useful
 1000 Exp: filler
 Dried Lake: progression
 Teleporter Fragment: progression
+Boss Item: filler
+Magma Barracks: progression
+Stage 5: progression
+Damp Caverns: progression
+Desolate Forest: progression
