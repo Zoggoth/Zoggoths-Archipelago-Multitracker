@@ -14,3 +14,7 @@ Magma Barracks: progression
 Stage 5: progression
 Damp Caverns: progression
 Desolate Forest: progression
+Ancient Valley: progression
+Progressive Stage: progression
+Temple of the Elders: progression
+Hive Cluster: progression

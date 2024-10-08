@@ -991,3 +991,7 @@ Green Arbor x4: filler
 Rough Branch x2: filler
 Arid Lumber x4: filler
 Sandwich x3: filler
+Hi-Sandwich x3: filler
+Chili Con Carne x2: filler
+Flaming Bun x3: filler
+Glaring Rock x4: filler

@@ -285,3 +285,30 @@ Island Trader: progression
 Quality Sprinkler: filler
 Ancient Seeds Recipe: useful
 Resource Pack: 50 Wood: filler
+Seafoam Pudding: filler
+'Squid Kid': filler
+Tapper: filler
+Weathered Floor Recipe: progression
+Trap Bobber: filler
+Seed Maker: filler
+Fairy Seeds: progression
+Progressive Lost Book: progression
+Health Bonus: filler
+Heavy Tapper Recipe: progression
+Resource Pack: 5 Cherry Bomb: filler
+Golden Egg: filler
+Resource Pack: 30 Basic Retaining Soil: filler
+Progressive Pan: useful
+Resource Pack: 10000 Money: filler
+Resource Pack: 2000 Money: filler
+Fruit Salad Recipe: progression
+Lightning Rod: filler
+Silo: useful
+Prize Ticket: filler
+Poppyseed Muffin Recipe: progression
+Chest: filler
+Topaz Ring: filler
+Bite Rate Bonus: filler
+Stone Chest: filler
+Fairy Dust: filler
+Mini-Shipping Bin: progression
