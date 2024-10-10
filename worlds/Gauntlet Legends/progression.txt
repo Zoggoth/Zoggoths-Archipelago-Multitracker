@@ -13,3 +13,4 @@ Runestone 4: progression
 Reflective Shield: filler
 Meat: filler
 Scimitar of Decapitation: useful
+Invulnerability: filler

@@ -80,3 +80,4 @@ Recipe: Polymer Resin: useful
 Recipe: Uranium Fuel Unit: useful
 Recipe: Diluted Fuel (refinery): useful
 Bundle: Xeno-Zapper: useful
+Recipe: Encased Plutonium Cell: progression
