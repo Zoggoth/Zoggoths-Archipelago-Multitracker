@@ -4,10 +4,10 @@ construction-robotics: useful
 discharge-defense-equipment: useful
 electric-energy-accumulators: useful
 exoskeleton-equipment: useful
-explosives: filler
+explosives: useful
 fusion-reactor-equipment: useful
 land-mine: useful
-night-vision-equipment: filler
+night-vision-equipment: useful
 nuclear-power: useful
 optics: useful
 personal-laser-defense-equipment: useful

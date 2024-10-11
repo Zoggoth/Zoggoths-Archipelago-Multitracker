@@ -320,3 +320,9 @@ Resource Pack: 15 Mixed Seeds: filler
 Mummy Mask: filler
 Resource Pack: 10 Hardwood: filler
 Resource Pack: 15 Mixed Flower Seeds: filler
+Resource Pack: 5 Warp Totem: Beach: filler
+Tomato Seeds: progression
+Big Stone Chest Recipe: progression
+Foraging Mastery: progression
+Resource Pack: 30 Basic Fertilizer: filler
+Worm Bin: filler

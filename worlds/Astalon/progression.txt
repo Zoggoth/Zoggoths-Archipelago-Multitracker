@@ -317,3 +317,4 @@ RoA White Door (Spike Balls): progression
 RoA White Door (Skippable): filler
 RoA White Door (Spike Spinners): progression
 RoA White Door (Worms): progression
+Rocks Trap: trap
