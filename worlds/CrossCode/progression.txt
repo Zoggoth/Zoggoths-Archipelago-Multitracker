@@ -997,3 +997,8 @@ Flaming Bun x3: filler
 Glaring Rock x4: filler
 Feather Leaf x5: filler
 Pink Petal x3: filler
+Autumn Leaves x4: filler
+Bear Beer x3: filler
+Spark Tin x3: filler
+Ripe Apples x5: filler
+Royal Hive x2: filler

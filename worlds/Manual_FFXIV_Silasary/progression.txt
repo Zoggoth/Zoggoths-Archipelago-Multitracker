@@ -54,3 +54,4 @@ The Ruby Sea Access: progression
 Wildfowl Fly: progression
 Versatile Lure: progression
 Glowworm: progression
+The Crystarium Access: progression
