@@ -13,3 +13,5 @@ Bottle: progression
 Wallet: progression
 HM07 Waterfall: progression
 Heart Container: progression
+Card Key: progression
+HM01 Cut: progression

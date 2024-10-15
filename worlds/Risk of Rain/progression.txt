@@ -18,3 +18,4 @@ Ancient Valley: progression
 Progressive Stage: progression
 Temple of the Elders: progression
 Hive Cluster: progression
+Sunken Tombs: progression
