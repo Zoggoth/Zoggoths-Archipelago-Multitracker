@@ -9,3 +9,17 @@ Rare Item: useful
 Mage: progression
 Rare Upgrade: useful
 Run Won: progression
+Renegade: progression
+Gold (10): filler
+Common Upgrade: useful
+Gladiator: progression
+Cyborg: progression
+Sick: progression
+Old: progression
+Uncommon Upgrade: useful
+Wildling: progression
+Uncommon Item: useful
+Gold (50): filler
+Streamer: progression
+Common Item: useful
+Arms Dealer: progression

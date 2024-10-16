@@ -343,3 +343,4 @@ Small Magnet Ring: filler
 Power: Price Catalogue: useful
 Glow Ring: filler
 Carp Surprise Recipe: progression
+Inflation Trap: trap

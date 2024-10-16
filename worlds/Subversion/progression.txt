@@ -22,3 +22,6 @@ Speed Booster: progression
 Super Missile: progression
 Varia Suit: progression
 X-Ray Scope: progression
+Aqua Suit: progression
+Spazer: progression
+Ice Beam: progression
