@@ -318,3 +318,21 @@ RoA White Door (Skippable): filler
 RoA White Door (Spike Spinners): progression
 RoA White Door (Worms): progression
 Rocks Trap: trap
+White Door (Gorgon Tomb - Tauros): progression
+White Door (Ruins of Ash - Spike Balls): progression
+White Door (Gorgon Tomb - Linus' Map): progression
+Blue Door (Serpent Path): progression
+Blue Door (Caves): progression
+White Door (Gorgon Tomb - 1st Room): progression
+White Door (Hall of the Phantoms - 1st Room): progression
+Ruins of Ash 1 Elevator: progression
+White Door (Hall of the Phantoms - Boss): progression
+Blue Door (Mechanism - Red Key): progression
+Blue Door (Gorgon Tomb - Ascendant Key): progression
+White Door (Mechanism - Black Knight): progression
+White Door (Ruins of Ash - Skippable): progression
+White Door (Ruins of Ash - Worms): progression
+Blue Door (Tower Roots): progression
+Blue Door (Catacombs - Poison Roots): progression
+Heal HP +5: useful
+Gorgon Tomb 2 Elevator: progression

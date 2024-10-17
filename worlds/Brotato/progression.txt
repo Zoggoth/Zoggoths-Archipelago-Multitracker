@@ -23,3 +23,7 @@ Gold (50): filler
 Streamer: progression
 Common Item: useful
 Arms Dealer: progression
+Legendary Item: progression
+Pacifist: progression
+XP (150): filler
+Soldier: progression
