@@ -27,3 +27,7 @@ Legendary Item: progression
 Pacifist: progression
 XP (150): filler
 Soldier: progression
+One Armed: progression
+Saver: progression
+XP (25): progression
+Speedy: progression
