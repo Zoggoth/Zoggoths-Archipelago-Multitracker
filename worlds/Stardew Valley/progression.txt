@@ -344,3 +344,6 @@ Power: Price Catalogue: useful
 Glow Ring: filler
 Carp Surprise Recipe: progression
 Inflation Trap: trap
+Lacey <3: progression
+Squid Ink Ravioli Recipe: progression
+Dark Talisman: progression
