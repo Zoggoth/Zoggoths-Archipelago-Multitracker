@@ -336,3 +336,8 @@ Blue Door (Tower Roots): progression
 Blue Door (Catacombs - Poison Roots): progression
 Heal HP +5: useful
 Gorgon Tomb 2 Elevator: progression
+White Door (Catacombs - Top): progression
+Blue Door (The Apex): progression
+White Door (Mechanism - Top): progression
+White Door (Ruins of Ash - Spike Spinners): progression
+Blue Door (Catacombs - Lunarian Bow): progression
