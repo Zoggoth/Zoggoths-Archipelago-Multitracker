@@ -41,3 +41,20 @@ Jack: progression
 Chunky: progression
 Multitasker: progression
 Knight: progression
+Apprentice: progression
+Explorer: progression
+Bull: progression
+Cryptid: progression
+Lucky: progression
+XP (50): filler
+Engineer: progression
+Mutant: progression
+Generalist: progression
+Gold (200): progression
+King: progression
+Loud: progression
+Doctor: progression
+Masochist: progression
+Farmer: progression
+Artificer: progression
+Hunter: progression
