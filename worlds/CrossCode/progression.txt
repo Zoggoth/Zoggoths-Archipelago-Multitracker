@@ -1002,3 +1002,35 @@ Bear Beer x3: filler
 Spark Tin x3: filler
 Ripe Apples x5: filler
 Royal Hive x2: filler
+Steel Comb x4: filler
+Spicy Bun x3: filler
+Steak, rare x3: filler
+Crimson Dragonfly x3: filler
+Bug Shell x5: filler
+Azure Dragonfly x3: filler
+Veggie Wraps x3: filler
+Helix Relic x5: filler
+Pike Wood x5: filler
+White Grain x4: filler
+Glowing Sphere x4: filler
+Vivid Water x5: filler
+Ginger Tom. Salad x3: filler
+Frozen Tear x3: filler
+Palmapple Seed x3: filler
+Blue Mango x4: filler
+Old Bones x4: filler
+Gourmet Steak x2: filler
+Crystal Leek x4: filler
+Dirty Rubble x4: filler
+Curly Fern x4: filler
+Metal Gears x3: filler
+Crab Mead x3: filler
+Wolf Cicada x4: filler
+Steel Bamboo x4: filler
+Green Leaf Tea x2: filler
+Sweet Berry Tea x2: filler
+Rusty Bits x5: filler
+Mystery Grape x3: filler
+Cold Platter x2: filler
+Moon Fruit x3: filler
+Star Fruit x2: filler
