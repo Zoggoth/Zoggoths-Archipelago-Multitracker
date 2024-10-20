@@ -82,3 +82,6 @@ Recipe: Diluted Fuel (refinery): useful
 Bundle: Xeno-Zapper: useful
 Recipe: Encased Plutonium Cell: progression
 Recipe: Rotor: progression
+Bundle: Nobelisk: useful
+Bundle: Flower Petals: filler
+Bundle: Zipline: useful
