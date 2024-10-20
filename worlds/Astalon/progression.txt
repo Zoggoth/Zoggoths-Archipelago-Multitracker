@@ -356,3 +356,6 @@ White Door (Ruins of Ash - Ascend): progression
 Blue Door (Catacombs - Checkpoint): progression
 Blue Door (Catacombs - Prison Cyclops): progression
 White Door (Catacombs - After Blue Door): progression
+White Door (Catacombs - Prison): progression
+Blue Door (Catacombs - Prison Right): progression
+Blue Door (Mechanism - Void Charm): progression
