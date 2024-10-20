@@ -85,3 +85,4 @@ Recipe: Rotor: progression
 Bundle: Nobelisk: useful
 Bundle: Flower Petals: filler
 Bundle: Zipline: useful
+Bundle: Encased Industrial Beam: useful
