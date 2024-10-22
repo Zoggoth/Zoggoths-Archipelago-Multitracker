@@ -17,3 +17,5 @@ Reward: Tackle Box: filler
 Reward: Compass: filler
 Post-Skeletron Prime: progression
 Reward: Paint Sprayer: filler
+Post-Frost Legion: filler
+Reward: Treasure Magnet: filler
