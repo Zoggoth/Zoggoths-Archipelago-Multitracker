@@ -1,0 +1,7 @@
+[T]: progression
+[W]: progression
+?: filler
+[D]: progression
+[E]: progression
+[P]: progression
+[B]: progression

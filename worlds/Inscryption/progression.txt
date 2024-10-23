@@ -1,0 +1,4 @@
+Currency: progression
+Wardrobe Key: progression
+Camera Replica: progression
+Card Pack: useful

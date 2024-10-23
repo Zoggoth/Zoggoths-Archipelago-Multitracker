@@ -646,7 +646,7 @@ Novice Rider Pack: progression
 Great To Perfect (10 Pack): filler
 Miss To Great (5 Pack): filler
 Extra Life: filler
-Music Sheet: progression
+Music Sheet: mcguffin
 Bad Apple Trap: trap
 Pixelate Trap: trap
 Ripple Trap: trap

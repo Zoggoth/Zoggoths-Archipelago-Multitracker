@@ -31,5 +31,5 @@ Time Shard (300): filler
 Time Shard (500): filler
 Teleport Trap: trap
 Prophecy Trap: trap
-Power Seal: filler
+Power Seal: mcguffin
 Path of Resilience: useful
