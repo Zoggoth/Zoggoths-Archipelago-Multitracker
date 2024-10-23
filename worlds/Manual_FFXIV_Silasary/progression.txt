@@ -57,3 +57,4 @@ Glowworm: progression
 The Crystarium Access: progression
 Topwater Frog: progression
 5 MNK Levels: progression
+Midge Larva: progression
