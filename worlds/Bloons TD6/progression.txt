@@ -13,3 +13,4 @@ WaterPark-MUnlock: progression
 Druid-TUnlock: progression
 MuddyPuddles-MUnlock: progression
 MonkeyAce-TUnlock: progression
+TackShooter-TUnlock: useful
