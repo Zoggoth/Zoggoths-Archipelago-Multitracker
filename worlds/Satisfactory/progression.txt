@@ -86,3 +86,37 @@ Bundle: Nobelisk: useful
 Bundle: Flower Petals: filler
 Bundle: Zipline: useful
 Bundle: Encased Industrial Beam: useful
+Bundle: Stun Rebar: filler
+Recipe: Blade Runners: useful
+Recipe: Pure Caterium Ingot: useful
+Recipe: Automated Wiring: progression
+Recipe: Smart Plating: progression
+Bundle: Cup: filler
+Recipe: Heat-Fused Frame: progression
+Recipe: Diluted Fuel: useful
+Recipe: Computer: progression
+Bundle: Smart Plating: useful
+Recipe: Heavy Encased Frame: progression
+Recipe: Solid Biofuel: useful
+Recipe: Residual Plastic: useful
+Recipe: High-Speed Connector: progression
+Recipe: Cluster Nobelisk: filler
+Recipe: Pure Copper Ingot: useful
+Recipe: Automated Miner: useful
+Bundle: Hover Pack: useful
+Recipe: Heavy Modular Frame: progression
+Recipe: Caterium Wire: progression
+Bundle: Hazmat Suit: useful
+Bundle: Pulse Nobelisk: filler
+Recipe: Steel Coated Plate: useful
+Recipe: Residual Fuel: useful
+Recipe: Aluminum Ingot: progression
+Bundle: Hog Remains: filler
+Recipe: Heat Sink: progression
+Building: Conveyor Mk.3: useful
+Building: Wall Outlet Mk.2: useful
+Recipe: Crystal Oscillator: progression
+Recipe: OC Supercomputer: useful
+Recipe: Coated Cable: useful
+Recipe: Hog Protein: progression
+Recipe: Packaged Turbofuel: useful
