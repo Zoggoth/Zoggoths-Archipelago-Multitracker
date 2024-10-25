@@ -1,3 +1,9 @@
 Birthday Gift: useful
 Company Credit: progression
 Boombox: useful
+Money: filler
+Stun grenade: useful
+Clone Scrap: filler
+InverseTeleporter: useful
+Offense: progression
+Rend: progression
