@@ -42,3 +42,7 @@ progressive-weapon-shooting-speed: useful
 progressive-worker-robots-speed: useful
 progressive-worker-robots-storage: useful
 robotics: useful
+solar-panel-equipment: useful
+fluid-handling: progression
+rocket-fuel: progression
+logistic-robotics: useful
