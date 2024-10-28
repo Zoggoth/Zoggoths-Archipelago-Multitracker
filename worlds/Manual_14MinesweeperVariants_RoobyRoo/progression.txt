@@ -5,3 +5,4 @@
 [E]: progression
 [P]: progression
 [B]: progression
+[S]: progression
