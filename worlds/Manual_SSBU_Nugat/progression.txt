@@ -5,3 +5,10 @@ Gyro Key: progression
 Spirit: useful
 Kirby Key: progression
 Zelda Key: progression
+Castlevania Key: progression
+Classic Mode Easy Key: progression
+Bayonetta Key: progression
+Final Fantasy Key: progression
+Classic Mode Hard Key: progression
+Mii Key: progression
+Mega Man Key: progression
