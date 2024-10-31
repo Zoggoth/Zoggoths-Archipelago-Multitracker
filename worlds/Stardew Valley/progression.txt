@@ -350,3 +350,6 @@ Dark Talisman: progression
 Resource Pack: 10 Deluxe Fertilizer: filler
 Armor Elixir Recipe: useful
 Leo <3: progression
+Pineapple Seeds: progression
+Progressive Shed: useful
+Resource Pack: 35 Calico Egg: useful
