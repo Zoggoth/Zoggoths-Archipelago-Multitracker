@@ -5,3 +5,5 @@ Spray Nozzle: progression
 Hover Nozzle: progression
 Corona Stamp: progression
 Sunglasses: filler
+Yoshi: progression
+Turbo Nozzle: progression
