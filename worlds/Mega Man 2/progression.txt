@@ -18,7 +18,7 @@ item 1: progression
 item 2: progression
 item 3: progression
 one up: filler
-e tank: useful
+E-Tank: useful
 Weapon Energy (L): filler
 Weapon Energy (S): filler
 Health Energy (L): filler
