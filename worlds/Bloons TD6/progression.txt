@@ -11,3 +11,7 @@ Cargo-MUnlock: progression
 Chutes-MUnlock: progression
 WaterPark-MUnlock: progression
 Druid-TUnlock: progression
+MuddyPuddles-MUnlock: progression
+MonkeyAce-TUnlock: progression
+TackShooter-TUnlock: useful
+Sanctuary-MUnlock: progression

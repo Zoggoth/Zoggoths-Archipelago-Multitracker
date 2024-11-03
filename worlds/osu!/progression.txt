@@ -91,3 +91,9 @@ Song 3: progression
 Song 92: progression
 Song 245: progression
 Song 131: progression
+Song 342: progression
+Song 47: progression
+Song 272: progression
+Song 17: progression
+Song 227: progression
+Song 43: progression

@@ -49,3 +49,75 @@ Recipe: Versatile Framework: progression
 Recipe: Radio Control System: progression
 Recipe: Power Shard (1): progression
 Bundle: Smokeless Powder: filler
+Recipe: Gas Nobelisk: useful
+Recipe: Liquid Biofuel: useful
+Recipe: Empty Canister: filler
+Building: Pipeline Pump Mk.1: progression
+Recipe: Motor: useful
+Building: Packager: useful
+Building: Foundation: useful
+Bundle: Coal: filler
+Bundle: Paleberry: filler
+Transport: Hypertube Wall Hole: useful
+Recipe: Plastic Smart Plating: useful
+Recipe: Steel Pipe: useful
+Recipe: Battery: useful
+Recipe: Supercomputer: useful
+Bundle: Parachute: filler
+Recipe: Cast Screw: useful
+Recipe: Copper Powder: useful
+Recipe: Fused Modular Frame: useful
+Building: Geothermal Generator: useful
+Recipe: Steel Screw: useful
+Recipe: Wet Concrete: useful
+Small Inflated Pocket Dimension: useful
+Building: Resource Well Pressurizer: useful
+Recipe: Electric Motor: progression
+Building: Particle Accelerator: useful
+Recipe: Caterium Computer: progression
+Recipe: Fused Wire: useful
+Recipe: Polymer Resin: useful
+Recipe: Uranium Fuel Unit: useful
+Recipe: Diluted Fuel (refinery): useful
+Bundle: Xeno-Zapper: useful
+Recipe: Encased Plutonium Cell: progression
+Recipe: Rotor: progression
+Bundle: Nobelisk: useful
+Bundle: Flower Petals: filler
+Bundle: Zipline: useful
+Bundle: Encased Industrial Beam: useful
+Bundle: Stun Rebar: filler
+Recipe: Blade Runners: useful
+Recipe: Pure Caterium Ingot: useful
+Recipe: Automated Wiring: progression
+Recipe: Smart Plating: progression
+Bundle: Cup: filler
+Recipe: Heat-Fused Frame: progression
+Recipe: Diluted Fuel: useful
+Recipe: Computer: progression
+Bundle: Smart Plating: useful
+Recipe: Heavy Encased Frame: progression
+Recipe: Solid Biofuel: useful
+Recipe: Residual Plastic: useful
+Recipe: High-Speed Connector: progression
+Recipe: Cluster Nobelisk: filler
+Recipe: Pure Copper Ingot: useful
+Recipe: Automated Miner: useful
+Bundle: Hover Pack: useful
+Recipe: Heavy Modular Frame: progression
+Recipe: Caterium Wire: progression
+Bundle: Hazmat Suit: useful
+Bundle: Pulse Nobelisk: filler
+Recipe: Steel Coated Plate: useful
+Recipe: Residual Fuel: useful
+Recipe: Aluminum Ingot: progression
+Bundle: Hog Remains: filler
+Recipe: Heat Sink: progression
+Building: Conveyor Mk.3: useful
+Building: Wall Outlet Mk.2: useful
+Recipe: Crystal Oscillator: progression
+Recipe: OC Supercomputer: useful
+Recipe: Coated Cable: useful
+Recipe: Hog Protein: progression
+Recipe: Packaged Turbofuel: useful
+Recipe: Nutritional Inhaler: useful

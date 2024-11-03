@@ -1,0 +1,17 @@
+Faith: Large: filler
+Cultural Hegemony: useful
+Governor Title: filler
+Gold:Medium: filler
+Faith: Small: filler
+Faith:Large: filler
+Progressive Era: progression
+Faith: Medium: filler
+Faith:Medium: filler
+Diplomatic Favor: filler
+Machinery: progression
+CIVIC_SYNTHETIC_TECHNOCRACY: progression
+Advanced AI: useful
+Settler: useful
+Gold: Medium: filler
+Faith:Small: filler
+Class Struggle: progression

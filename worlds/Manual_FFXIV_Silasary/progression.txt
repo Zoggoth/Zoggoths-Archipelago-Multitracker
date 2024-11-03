@@ -3,9 +3,11 @@
 5 ARM Levels: filler
 5 BLM Levels: progression
 5 BLU Levels: progression
+5 BRD Levels: progression
 5 BSM Levels: filler
 5 BTN Levels: filler
 5 CRP Levels: filler
+5 CUL Levels: filler
 5 DNC Levels: progression
 5 DRG Levels: progression
 5 DRK Levels: progression
@@ -18,20 +20,28 @@
 5 NIN Levels: progression
 5 RDM Levels: progression
 5 RPR Levels: progression
+5 SCH Levels: progression
 5 SMN Levels: progression
 5 WVR Levels: filler
+Amh Araeng Access: progression
 Blue Bobbit: progression
 Chimera Worm: progression
 Crow Fly: progression
 East Shroud Access: progression
 Eden Key: progression
+Fruit Worm: progression
 Goblin Jig: progression
+Il Mheg Access: progression
+Leech: progression
+Lugworm: progression
 Marble Nymph: progression
-Memory of a Distant World: progression
+Memory of a Distant World: mcguffin
 Midge Basket: progression
 Moth Pupa: progression
+Mythril Spoon Lure: progression
 Omega Key: progression
 Pandaemonium Key: progression
+Salmon Roe: progression
 Sand Gecko: progression
 South Shroud Access: progression
 Southern Thanalan Access: progression
@@ -42,13 +52,9 @@ The Dravanian Forelands Access: progression
 The Dravanian Hinterlands and Idyllshire Access: progression
 The Ruby Sea Access: progression
 Wildfowl Fly: progression
-5 CUL Levels: filler
-5 SCH Levels: progression
-5 BRD Levels: progression
-Leech: progression
-Salmon Roe: progression
-Fruit Worm: progression
-Mythril Spoon Lure: progression
-Il Mheg Access: progression
-Amh Araeng Access: progression
-Lugworm: progression
+Versatile Lure: progression
+Glowworm: progression
+The Crystarium Access: progression
+Topwater Frog: progression
+5 MNK Levels: progression
+Midge Larva: progression

@@ -1,0 +1,60 @@
+Ranger: progression
+Demon: progression
+Legendary Upgrade: useful
+Crazy: progression
+Well Rounded: progression
+Glutton: progression
+Brawler: progression
+Rare Item: useful
+Mage: progression
+Rare Upgrade: useful
+Run Won: progression
+Renegade: progression
+Gold (10): filler
+Common Upgrade: useful
+Gladiator: progression
+Cyborg: progression
+Sick: progression
+Old: progression
+Uncommon Upgrade: useful
+Wildling: progression
+Uncommon Item: useful
+Gold (50): filler
+Streamer: progression
+Common Item: useful
+Arms Dealer: progression
+Legendary Item: progression
+Pacifist: progression
+XP (150): filler
+Soldier: progression
+One Armed: progression
+Saver: progression
+XP (25): progression
+Speedy: progression
+Golem: progression
+XP (10): filler
+Ghost: progression
+Fisherman: progression
+Entrepreneur: progression
+XP (5): filler
+Jack: progression
+Chunky: progression
+Multitasker: progression
+Knight: progression
+Apprentice: progression
+Explorer: progression
+Bull: progression
+Cryptid: progression
+Lucky: progression
+XP (50): filler
+Engineer: progression
+Mutant: progression
+Generalist: progression
+Gold (200): progression
+King: progression
+Loud: progression
+Doctor: progression
+Masochist: progression
+Farmer: progression
+Artificer: progression
+Hunter: progression
