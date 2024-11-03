@@ -120,3 +120,4 @@ Recipe: OC Supercomputer: useful
 Recipe: Coated Cable: useful
 Recipe: Hog Protein: progression
 Recipe: Packaged Turbofuel: useful
+Recipe: Nutritional Inhaler: useful
