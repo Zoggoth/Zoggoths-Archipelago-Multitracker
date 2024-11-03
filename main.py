@@ -15,6 +15,7 @@ for x in text.splitlines():
         gameName = regex[1]
         slotName = "" if regex[2] is None else regex[2]
         trackerLink = regex[3]
+        trackerLink = trackerLink.replace("/tracker/", "/generic_tracker/")
         worldID = re.search(r".../\d/\d+", trackerLink)[0]
         gameList.append((worldID, gameName, trackerLink, slotName))
     except TypeError:
