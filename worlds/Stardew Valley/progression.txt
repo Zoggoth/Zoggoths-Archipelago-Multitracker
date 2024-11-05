@@ -358,3 +358,12 @@ Martin <3: progression
 Progressive Footwear: useful
 Sashimi Recipe: progression
 Survival Burger Recipe: progression
+Resource Pack: 500 Money: useful
+Glazed Butterfish Recipe: progression
+Traveling Merchant Stock Size: useful
+Poppy Seeds: progression
+Resource Pack: 75 Copper Ore: useful
+Claire <3: progression
+Vampire Ring: useful
+Morgan <3: progression
+Resource Pack: 10 Iridium Ore: filler
