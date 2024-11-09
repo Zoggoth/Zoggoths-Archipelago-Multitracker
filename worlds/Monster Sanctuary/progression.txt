@@ -19,3 +19,4 @@ Dumbbell: filler
 Draconov Harness: progression
 700 G: filler
 200 G: filler
+Draconoir Harness: progression
