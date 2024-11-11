@@ -116,3 +116,5 @@ Fishing Hook: progression
 Necklace: progression
 Scale: progression
 Magnifying Glass: progression
+Zol Attack: trap
+Nothing: filler
