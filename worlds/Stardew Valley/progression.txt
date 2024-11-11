@@ -381,3 +381,6 @@ Penny <3: progression
 Morris <3: progression
 Small Glow Ring: useful
 Mr. Ginger <3: progression
+Iridium Fireplace: filler
+Baked Berry Oatmeal Recipe: progression
+Ostrich Incubator Recipe: progression
