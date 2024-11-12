@@ -92,3 +92,4 @@ Rusted Blue Ornament: filler
 Ruined Witch's Book: useful
 Headless Defender: useful
 Hoenir's Diary 1: filler
+Fallen Archer: useful
