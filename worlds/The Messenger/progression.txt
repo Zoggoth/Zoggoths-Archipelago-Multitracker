@@ -33,3 +33,5 @@ Teleport Trap: trap
 Prophecy Trap: trap
 Power Seal: mcguffin
 Path of Resilience: useful
+Time Sense: filler
+Aerobatics Warrior: progression
