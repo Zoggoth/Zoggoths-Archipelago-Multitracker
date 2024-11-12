@@ -114,3 +114,17 @@ research-speed-5: filler
 engine: useful
 energy-weapons-damage-5: filler
 production-science-pack: progression
+personal-roboport-equipment: useful
+circuit-network: useful
+mining-productivity-1: filler
+landfill: useful
+research-speed-4: filler
+railway: useful
+worker-robots-speed-4: filler
+follower-robot-count-3: filler
+uranium-ammo: useful
+research-speed-3: filler
+electric-energy-distribution-1: useful
+braking-force-3: filler
+refined-flammables-1: filler
+follower-robot-count-4: filler
