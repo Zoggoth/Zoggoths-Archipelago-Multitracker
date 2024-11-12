@@ -384,3 +384,7 @@ Mr. Ginger <3: progression
 Iridium Fireplace: filler
 Baked Berry Oatmeal Recipe: progression
 Ostrich Incubator Recipe: progression
+Ayeisha <3: progression
+Deluxe Scarecrow: useful
+Recycling Machine: useful
+Geode Crusher: useful
