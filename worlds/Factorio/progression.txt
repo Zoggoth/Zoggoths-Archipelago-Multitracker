@@ -128,3 +128,13 @@ electric-energy-distribution-1: useful
 braking-force-3: filler
 refined-flammables-1: filler
 follower-robot-count-4: filler
+inserter-capacity-bonus-3: filler
+gate: useful
+productivity-module-2: useful
+research-speed-6: filler
+kovarex-enrichment-process: filler
+productivity-module-3: useful
+physical-projectile-damage-4: filler
+weapon-shooting-speed-3: filler
+inserter-capacity-bonus-5: filler
+weapon-shooting-speed-5: filler
