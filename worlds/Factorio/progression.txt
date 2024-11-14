@@ -138,3 +138,11 @@ physical-projectile-damage-4: filler
 weapon-shooting-speed-3: filler
 inserter-capacity-bonus-5: filler
 weapon-shooting-speed-5: filler
+personal-roboport-mk2-equipment: useful
+worker-robots-speed-1: filler
+follower-robot-count-2: filler
+inserter-capacity-bonus-6: filler
+destroyer: useful
+effectivity-module-2: useful
+weapon-shooting-speed-2: filler
+effectivity-module: useful
