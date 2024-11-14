@@ -35,3 +35,5 @@ Power Seal: mcguffin
 Path of Resilience: useful
 Time Sense: filler
 Aerobatics Warrior: progression
+Currents Master: progression
+Demon's Bane: useful
