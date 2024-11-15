@@ -20,3 +20,5 @@ Draconov Harness: progression
 700 G: filler
 200 G: filler
 Draconoir Harness: progression
+Arch Bow+1: useful
+Shield Generator+3: filler
