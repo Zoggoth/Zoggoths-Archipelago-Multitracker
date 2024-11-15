@@ -58,3 +58,4 @@ Big Key (Swamp Palace): progression
 Compass (Swamp Palace): filler
 Big Key (Ice Ruins): progression
 Compass (Ice Ruins): filler
+Bombs: progression
