@@ -146,3 +146,9 @@ destroyer: useful
 effectivity-module-2: useful
 weapon-shooting-speed-2: filler
 effectivity-module: useful
+stronger-explosives-5: filler
+gun-turret: useful
+energy-weapons-damage-4: filler
+refined-flammables-3: filler
+energy-weapons-damage-1: filler
+fast-inserter: useful
