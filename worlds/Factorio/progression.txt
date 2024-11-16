@@ -152,3 +152,5 @@ energy-weapons-damage-4: filler
 refined-flammables-3: filler
 energy-weapons-damage-1: filler
 fast-inserter: useful
+physical-projectile-damage-2: filler
+laser-shooting-speed-5: filler
