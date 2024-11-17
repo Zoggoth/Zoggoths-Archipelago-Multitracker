@@ -1,0 +1,4 @@
+Orchard ability: useful
+Carry upgrade: useful
+Drill upgrade: progression
+Fruit mining boost: useful
