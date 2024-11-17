@@ -6,3 +6,5 @@
 [P]: progression
 [B]: progression
 [S]: progression
+[C]: progression
+[L]: progression
