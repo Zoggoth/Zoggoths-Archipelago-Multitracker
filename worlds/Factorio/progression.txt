@@ -154,3 +154,5 @@ energy-weapons-damage-1: filler
 fast-inserter: useful
 physical-projectile-damage-2: filler
 laser-shooting-speed-5: filler
+military-3: useful
+laser-shooting-speed-7: filler
