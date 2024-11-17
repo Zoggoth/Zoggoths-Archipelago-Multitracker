@@ -22,3 +22,4 @@ Draconov Harness: progression
 Draconoir Harness: progression
 Arch Bow+1: useful
 Shield Generator+3: filler
+Cocoon: progression
