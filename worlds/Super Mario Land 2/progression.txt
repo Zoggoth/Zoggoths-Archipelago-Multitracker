@@ -14,3 +14,4 @@ Mario Zone Progression: progression
 Super Star Duration Increase: filler
 Turtle Zone Secret: progression
 Macro Zone Secret 1: progression
+Space Zone Secret: progression
