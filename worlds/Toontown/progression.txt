@@ -46,3 +46,5 @@ Random Unite: filler
 1250 Bean Tax: trap
 1000 Bean Tax: trap
 +5 Gag Capacity: progression
+AA Access Key: progression
+Front Factory Key: progression
