@@ -122,3 +122,4 @@ Recipe: Hog Protein: progression
 Recipe: Packaged Turbofuel: useful
 Recipe: Nutritional Inhaler: useful
 Building: Conveyor Lift Mk.2: progression
+Bundle: Power Shard: filler
