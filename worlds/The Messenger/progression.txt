@@ -37,3 +37,4 @@ Time Sense: filler
 Aerobatics Warrior: progression
 Currents Master: progression
 Demon's Bane: useful
+Strike of the Ninja: useful
