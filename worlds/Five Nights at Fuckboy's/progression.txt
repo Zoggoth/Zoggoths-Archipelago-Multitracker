@@ -29,3 +29,4 @@ Backroom BB: progression
 Kitchen Key: progression
 Interior Walls Key: filler
 Attack Boost: filler
+Pizza Pass: progression
