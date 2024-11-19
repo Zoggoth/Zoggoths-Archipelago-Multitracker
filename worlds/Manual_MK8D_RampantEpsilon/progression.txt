@@ -7,3 +7,4 @@ Pipe Frame: filler
 Koopa Clown: filler
 Sports Coupe: filler
 Hylian Kite: filler
+Mushroom Cup Pass: progression
