@@ -157,3 +157,5 @@ laser-shooting-speed-5: filler
 military-3: useful
 laser-shooting-speed-7: filler
 worker-robots-speed-5: filler
+belt-immunity-equipment: useful
+stack-inserter: useful
