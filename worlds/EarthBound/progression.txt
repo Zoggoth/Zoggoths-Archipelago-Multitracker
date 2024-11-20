@@ -62,3 +62,4 @@ Toothbrush: filler
 Bicycle: useful
 Hawk Eye: progression
 Gelato de Resort: filler
+Diamond: progression
