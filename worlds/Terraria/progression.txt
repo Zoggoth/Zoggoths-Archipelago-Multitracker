@@ -20,3 +20,4 @@ Reward: Paint Sprayer: filler
 Post-Frost Legion: filler
 Reward: Treasure Magnet: filler
 Reward: Star Cloak: trap
+Post-Goblin Army: progression
