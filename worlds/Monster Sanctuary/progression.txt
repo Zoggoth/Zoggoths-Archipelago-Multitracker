@@ -23,3 +23,4 @@ Draconoir Harness: progression
 Arch Bow+1: useful
 Shield Generator+3: filler
 Cocoon: progression
+3x Bronze: filler
