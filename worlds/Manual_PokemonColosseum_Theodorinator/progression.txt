@@ -16,3 +16,4 @@ Time Flute: useful
 Progression Key: progression
 Hyper Potion: filler
 TM27 Return: useful
+Burn Heal: filler
