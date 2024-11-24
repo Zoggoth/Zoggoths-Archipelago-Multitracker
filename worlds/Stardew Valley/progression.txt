@@ -391,3 +391,4 @@ Geode Crusher: useful
 Fried Egg Recipe: progression
 Susan <3: progression
 Gunther <3: progression
+Straw Floor Recipe: progression
