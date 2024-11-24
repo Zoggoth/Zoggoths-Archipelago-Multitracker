@@ -43,3 +43,6 @@ Enemy Card Card Soldier: filler
 Sleight Paradise LV3: filler
 Card Set Dumbo: filler
 Enemy Card Red Nocturne: filler
+Card Set Oblivion: useful
+Sleight Furious Volley LV2: filler
+Friend Card Aladdin: progression
