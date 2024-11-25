@@ -392,3 +392,5 @@ Fried Egg Recipe: progression
 Susan <3: progression
 Gunther <3: progression
 Straw Floor Recipe: progression
+Warp Totem: Desert Recipe: progression
+Dish O' The Sea Recipe: progression
