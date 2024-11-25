@@ -361,3 +361,4 @@ Blue Door (Catacombs - Prison Right): progression
 Blue Door (Mechanism - Void Charm): progression
 Tower Roots Elevator: progression
 Cutscene Trap: trap
+Catacombs 2 Elevator: progression
