@@ -394,3 +394,7 @@ Gunther <3: progression
 Straw Floor Recipe: progression
 Warp Totem: Desert Recipe: progression
 Dish O' The Sea Recipe: progression
+Eggplant Parmesan Recipe: progression
+Jasper <3: progression
+Brick Floor Recipe: progression
+Mayonnaise Machine: useful
