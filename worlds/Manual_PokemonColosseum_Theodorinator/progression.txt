@@ -17,3 +17,4 @@ Progression Key: progression
 Hyper Potion: filler
 TM27 Return: useful
 Burn Heal: filler
+Paralyze Heal: filler
