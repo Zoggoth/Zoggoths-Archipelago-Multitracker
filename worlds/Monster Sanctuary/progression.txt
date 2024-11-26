@@ -25,3 +25,5 @@ Shield Generator+3: filler
 Cocoon: progression
 3x Bronze: filler
 Silvaero Harness: progression
+350 G: filler
+2x Reward Box Lvl 1: useful
