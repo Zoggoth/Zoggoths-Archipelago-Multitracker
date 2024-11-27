@@ -92,3 +92,9 @@ Honey Worm: useful
 Eulmore Access: useful
 Lower La Noscea Access: useful
 5 SAM Levels: useful
+Azys Lla Access: useful
+The Azim Steppe Access: useful
+Radz-at-Han Access: useful
+Pill Bug: useful
+Baitbugs: useful
+Rat Tail: useful
