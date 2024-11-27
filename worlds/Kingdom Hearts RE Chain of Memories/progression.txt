@@ -65,3 +65,9 @@ Key to Rewards Castle Oblivion: useful
 Enemy Card Creeper Plant: useful
 Enemy Card Pirate: useful
 Enemy Card Defender: useful
+Card Set Ether: useful
+Enemy Card Hook: useful
+World Card Wonderland: progression
+Enemy Card Crescendo: useful
+Friend Card Jack: progression
+Card Set Spellbinder: useful
