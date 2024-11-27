@@ -41,3 +41,4 @@ Razor Claw: useful
 Mountain Camp (CH): progression
 Ice Stone: useful
 Mirelands Camp (CM): progression
+Progressive Mass Outbreak (OF): progression
