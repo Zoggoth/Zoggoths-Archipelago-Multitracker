@@ -44,3 +44,4 @@ Vegetable Plate: filler
 Jizo: useful
 Happi Headband: filler
 Wooded Kingdom Multi-Moon: progression
+Zipper: progression
