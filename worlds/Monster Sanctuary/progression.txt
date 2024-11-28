@@ -28,3 +28,4 @@ Silvaero Harness: progression
 350 G: filler
 2x Reward Box Lvl 1: useful
 Bandana+4: useful
+Raspberry: filler
