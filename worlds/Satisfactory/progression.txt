@@ -123,3 +123,4 @@ Recipe: Packaged Turbofuel: useful
 Recipe: Nutritional Inhaler: useful
 Building: Conveyor Lift Mk.2: progression
 Bundle: Power Shard: filler
+Recipe: Solid Steel Ingot: progression
