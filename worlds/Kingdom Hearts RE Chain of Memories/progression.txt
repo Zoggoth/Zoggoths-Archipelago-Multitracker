@@ -81,3 +81,9 @@ Sleight Hummingbird LV3: useful
 World Card Monstro: useful
 Friend Card Peter Pan: progression
 Enemy Card Zexion: useful
+Enemy Card Large Body: useful
+Card Set Genie: useful
+Enemy Card Soldier: useful
+Sleight Tornado: useful
+Sleight Sandstorm LV2: useful
+Sleight Surprise! LV3: useful
