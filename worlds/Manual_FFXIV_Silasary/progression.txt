@@ -105,3 +105,7 @@ The Rak'tika Greatwood Access: useful
 Snurble Fly: useful
 Live Shrimp: useful
 Krill Cage Feeder: useful
+Chocobo Fly: useful
+Brute Leech: useful
+Heritage Found Access: useful
+Freshwater Boilie: useful
