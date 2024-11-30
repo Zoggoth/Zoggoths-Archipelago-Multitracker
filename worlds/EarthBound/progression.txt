@@ -65,3 +65,13 @@ Gelato de Resort: filler
 Diamond: progression
 Lost Underworld Teleport: progression
 Tenda Village Teleport: progression
+Deep Darkness Teleport: progression
+Fourside Teleport: progression
+Dalaam Teleport: progression
+Legendary Bat: useful
+Cloak of Kings: useful
+Scaraba Teleport: progression
+Diadem of Kings: useful
+Bracer of Kings: useful
+Zombie Paper: progression
+Saturn Valley Teleport: progression
