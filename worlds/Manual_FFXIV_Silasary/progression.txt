@@ -109,3 +109,12 @@ Chocobo Fly: useful
 Brute Leech: useful
 Heritage Found Access: useful
 Freshwater Boilie: useful
+Spinnerbait: useful
+Living Memory Access: useful
+Goby Ball: useful
+Kholusia Access: useful
+Stonefly Larva: useful
+5 WHM Levels: useful
+Mor Dhona Access: filler
+Herring Ball: useful
+Moyebi Shrimp: useful
