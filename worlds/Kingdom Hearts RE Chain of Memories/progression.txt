@@ -87,3 +87,14 @@ Enemy Card Soldier: useful
 Sleight Tornado: useful
 Sleight Sandstorm LV2: useful
 Sleight Surprise! LV3: useful
+Enemy Card Ansem: useful
+Key to Rewards Neverland: useful
+Card Set Total Eclipse: useful
+Friend Card Goofy: progression
+Card Set Stop: useful
+Card Set Lionheart: useful
+Card Set Midnight Roar: useful
+World Card Neverland: useful
+Sleight Thunder Raid: useful
+Sleight Stardust Blitz: useful
+Sleight Reflect Raid: useful
