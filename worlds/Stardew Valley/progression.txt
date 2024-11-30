@@ -403,3 +403,6 @@ Sunflower Seeds: progression
 Geode Crusher Recipe: progression
 Club Card: progression
 Olivia <3: progression
+Iridium Bomb: progression
+Scarlett <3: progression
+Fortune Teller: useful
