@@ -9,3 +9,4 @@ Memory: progression
 Who's on First: progression
 Time++: progression
 Complicated Wires: progression
+Knob: progression
