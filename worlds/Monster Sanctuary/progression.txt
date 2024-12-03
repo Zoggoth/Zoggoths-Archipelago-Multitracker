@@ -30,3 +30,4 @@ Silvaero Harness: progression
 Bandana+4: useful
 Raspberry: filler
 2x Steel: filler
+2x Corn: filler
