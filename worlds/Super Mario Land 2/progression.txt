@@ -16,3 +16,4 @@ Turtle Zone Secret: progression
 Macro Zone Secret 1: progression
 Space Zone Secret: progression
 Mario Coin: progression
+Tree Zone Secret: progression
