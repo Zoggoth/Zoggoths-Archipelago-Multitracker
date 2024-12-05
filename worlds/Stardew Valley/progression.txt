@@ -414,3 +414,4 @@ Pink Cake Recipe: progression
 Traveling Merchant Discount: useful
 Island Resort: progression
 Sinister Signal: filler
+Mushroom Kebab Recipe: progression
