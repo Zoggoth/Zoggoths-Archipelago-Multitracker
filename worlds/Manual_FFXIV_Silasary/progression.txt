@@ -120,3 +120,5 @@ Herring Ball: useful
 Moyebi Shrimp: useful
 Outer La Noscea Access: useful
 The Churning Mists Access: useful
+Urqopacha Access: useful
+Mayfly: useful
