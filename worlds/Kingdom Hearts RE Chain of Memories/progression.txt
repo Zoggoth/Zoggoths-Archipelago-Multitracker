@@ -101,3 +101,5 @@ Sleight Reflect Raid: useful
 Sleight Warp: useful
 Card Set Ultima Weapon: useful
 Enemy Card Xemnas: useful
+Sleight Aerora: filler
+Enemy Card Darkball: filler
