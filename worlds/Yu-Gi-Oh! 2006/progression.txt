@@ -41,3 +41,4 @@ TD17 10x Quick Spell Unlock: progression
 TD18 The Forbidden Unlock: progression
 TD43 Return Monsters with Effects Unlock: progression
 TD16 Union Unlock: progression
+TD27 Dark Sage Unlock: progression
