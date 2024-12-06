@@ -32,3 +32,4 @@ Raspberry: filler
 2x Steel: filler
 2x Corn: filler
 Cotton: useful
+Heavy Mace+3: useful
