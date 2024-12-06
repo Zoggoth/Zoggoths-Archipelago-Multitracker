@@ -19,3 +19,4 @@ TM27 Return: useful
 Burn Heal: filler
 Paralyze Heal: filler
 Elixir: filler
+Ludicolo dancing salsa: filler
