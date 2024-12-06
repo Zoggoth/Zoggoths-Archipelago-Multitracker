@@ -122,3 +122,6 @@ Outer La Noscea Access: useful
 The Churning Mists Access: useful
 Urqopacha Access: useful
 Mayfly: useful
+The Tempest Access: useful
+Mare Lamentorum Access: useful
+Hoverworm: useful
