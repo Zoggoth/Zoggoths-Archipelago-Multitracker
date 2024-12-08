@@ -125,3 +125,4 @@ Mayfly: useful
 The Tempest Access: useful
 Mare Lamentorum Access: useful
 Hoverworm: useful
+Alexander Key: progression
