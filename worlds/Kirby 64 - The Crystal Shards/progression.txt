@@ -20,3 +20,4 @@ Exploding Snowman: progression
 Mega-Stone: progression
 King Dedede: progression
 Snowflake: progression
+Exploding Gordo: progression
