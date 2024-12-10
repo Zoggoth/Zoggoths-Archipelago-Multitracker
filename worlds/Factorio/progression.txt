@@ -159,3 +159,4 @@ laser-shooting-speed-7: filler
 worker-robots-speed-5: filler
 belt-immunity-equipment: useful
 stack-inserter: useful
+nuclear-fuel-reprocessing: useful
