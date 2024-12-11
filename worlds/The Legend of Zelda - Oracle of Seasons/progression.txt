@@ -14,3 +14,4 @@ Gold Luck Ring: useful
 Fish: progression
 Rod of Seasons (Autumn): progression
 Dimitri's Flute: progression
+Ore Chunks (25): filler
