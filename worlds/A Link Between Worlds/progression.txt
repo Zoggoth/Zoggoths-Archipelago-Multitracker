@@ -59,3 +59,5 @@ Compass (Swamp Palace): filler
 Big Key (Ice Ruins): progression
 Compass (Ice Ruins): filler
 Bombs: progression
+Hylian Shield: useful
+Small Key (Thieves' Hideout): progression
