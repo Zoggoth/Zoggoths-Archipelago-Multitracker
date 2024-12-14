@@ -38,3 +38,6 @@ Aerobatics Warrior: progression
 Currents Master: progression
 Demon's Bane: useful
 Strike of the Ninja: useful
+Power Sense: useful
+Meditation: progression
+Second Wind: progression
