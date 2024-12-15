@@ -41,3 +41,6 @@ Big Egg: progression
 Razzle Egg: progression
 Top: progression
 Firecrackers: progression
+Upside Down Egg: progression
+Brick Egg: progression
+Chocolate Egg: progression
