@@ -61,3 +61,4 @@ Compass (Ice Ruins): filler
 Bombs: progression
 Hylian Shield: useful
 Small Key (Thieves' Hideout): progression
+Flippers: progression
