@@ -27,3 +27,8 @@ Bombs: progression
 Flute: progression
 Moon Stone: progression
 Magical Rod: progression
+Shovel: progression
+Hookshot: progression
+Hammer: progression
+Swimming: progression
+Bow: progression
