@@ -44,3 +44,5 @@ Firecrackers: progression
 Upside Down Egg: progression
 Brick Egg: progression
 Chocolate Egg: progression
+Ruby Egg: progression
+Slink: progression
