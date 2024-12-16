@@ -32,3 +32,5 @@ Hookshot: progression
 Hammer: progression
 Swimming: progression
 Bow: progression
+Feather: progression
+Ice Magic: progression
