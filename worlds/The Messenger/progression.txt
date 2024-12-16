@@ -41,3 +41,5 @@ Strike of the Ninja: useful
 Power Sense: useful
 Meditation: progression
 Second Wind: progression
+Focused Power Sense: filler
+Devil's Due: useful
