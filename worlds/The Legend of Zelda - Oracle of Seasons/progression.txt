@@ -21,3 +21,6 @@ Master Key (Poison Moth's Lair): progression
 Rupees (10): filler
 Piece of Heart: useful
 Zora Ring: filler
+Rupees (1): filler
+Rupees (5): filler
+Progressive Feather: progression
