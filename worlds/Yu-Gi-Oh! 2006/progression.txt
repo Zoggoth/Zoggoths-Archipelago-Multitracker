@@ -35,3 +35,10 @@ LD10 All except LV monsters forbidden Unlock: progression
 Quick/Counter Collection: progression
 TD37 Uria, Lord of Searing Flames Unlock: progression
 LD22 All limited cards forbidden Unlock: progression
+TD23 Huge Revolution Unlock: progression
+Equipment Collection: progression
+TD17 10x Quick Spell Unlock: progression
+TD18 The Forbidden Unlock: progression
+TD43 Return Monsters with Effects Unlock: progression
+TD16 Union Unlock: progression
+TD27 Dark Sage Unlock: progression

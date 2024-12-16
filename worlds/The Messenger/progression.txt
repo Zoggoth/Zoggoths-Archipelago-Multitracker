@@ -33,3 +33,13 @@ Teleport Trap: trap
 Prophecy Trap: trap
 Power Seal: mcguffin
 Path of Resilience: useful
+Time Sense: filler
+Aerobatics Warrior: progression
+Currents Master: progression
+Demon's Bane: useful
+Strike of the Ninja: useful
+Power Sense: useful
+Meditation: progression
+Second Wind: progression
+Focused Power Sense: filler
+Devil's Due: useful

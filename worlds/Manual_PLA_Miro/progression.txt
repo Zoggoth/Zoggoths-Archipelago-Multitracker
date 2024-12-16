@@ -30,3 +30,15 @@ Leaf Stone: filler
 Black Augurite: useful
 Progressive Heavy Ball: useful
 Space-Time Distortion (OF): progression
+Progressive Feather Ball: progression
+Electirizer: useful
+Diamond Settlement (CM): progression
+Water Stone: useful
+Obsidian Fieldlands (OF): progression
+Progressive Stun: progression
+Dawn Stone: useful
+Razor Claw: useful
+Mountain Camp (CH): progression
+Ice Stone: useful
+Mirelands Camp (CM): progression
+Progressive Mass Outbreak (OF): progression

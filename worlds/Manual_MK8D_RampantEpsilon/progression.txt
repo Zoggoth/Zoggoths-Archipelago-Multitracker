@@ -6,3 +6,38 @@ Bowser Jr.: useful
 Pipe Frame: filler
 Koopa Clown: filler
 Sports Coupe: filler
+Hylian Kite: filler
+Mushroom Cup Pass: progression
+Propeller Cup Pass: progression
+Super Glider: useful
+Coins: filler
+Fruit Cup Pass: progression
+Inkstriker: useful
+Toad: useful
+Master Cycle: useful
+Wiggler: useful
+Lightning Cup Pass: progression
+Azure Roller: useful
+Cherry Cup Pass: progression
+Wario Wing: useful
+Peach Parasol: useful
+The Duke: useful
+Sponge: useful
+Wild Wiggler: useful
+Gold Glider: useful
+Bell Cup Pass: progression
+Link: useful
+300 SL Roadster: useful
+GLA Tires: useful
+Acorn Cup Pass: progression
+Metal Mario: useful
+Luigi: useful
+Jet Bike: useful
+Comet: useful
+Rainbow Road Master: progression
+Retro Off-Road: useful
+Triforce Cup Pass: progression
+Baby Mario: useful
+Turnip Cup Pass: progression
+Tanooki Mario: useful
+Daisy: filler

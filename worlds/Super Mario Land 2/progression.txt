@@ -1,2 +1,19 @@
 Tree Zone Progression: progression
 Pipe Traversal: progression
+Macro Zone Secret 2: progression
+Carrot: progression
+Pumpkin Zone Progression: progression
+Pumpkin Zone Secret 1: progression
+Mushroom: progression
+Tree Coin: progression
+Turtle Zone Progression: progression
+Water Physics: progression
+Space Zone Progression: progression
+Fire Flower: progression
+Mario Zone Progression: progression
+Super Star Duration Increase: filler
+Turtle Zone Secret: progression
+Macro Zone Secret 1: progression
+Space Zone Secret: progression
+Mario Coin: progression
+Tree Zone Secret: progression

@@ -15,3 +15,5 @@ MuddyPuddles-MUnlock: progression
 MonkeyAce-TUnlock: progression
 TackShooter-TUnlock: useful
 Sanctuary-MUnlock: progression
+Carved-MUnlock: progression
+Cubism-MUnlock: progression

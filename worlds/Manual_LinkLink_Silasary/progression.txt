@@ -15,3 +15,22 @@ HM07 Waterfall: progression
 Heart Container: progression
 Card Key: progression
 HM01 Cut: progression
+Looking Glass: progression
+Shield (Basic): progression
+Membership Card: progression
+Magic Meter: progression
+Seed Satchel: progression
+Lamp: progression
+Sword: progression
+Magic Spell: progression
+Bombs: progression
+Flute: progression
+Moon Stone: progression
+Magical Rod: progression
+Shovel: progression
+Hookshot: progression
+Hammer: progression
+Swimming: progression
+Bow: progression
+Feather: progression
+Ice Magic: progression

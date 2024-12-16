@@ -40,3 +40,25 @@ Stamina Scroll: useful
 Fire Rod: progression
 Progressive Glove: progression
 Bee Badge: filler
+Big Key (House of Gales): progression
+Compass (House of Gales): filler
+Compass (Skull Woods): filler
+Big Key (Desert Palace): progression
+Quake: useful
+Compass (Desert Palace): filler
+Big Key (Tower of Hera): progression
+Compass (Thieves' Hideout): filler
+Big Key (Turtle Rock): progression
+Big Key (Skull Woods): progression
+Compass (Tower of Hera): filler
+Compass (Turtle Rock): filler
+Compass (Eastern Palace): filler
+Big Key (Thieves' Hideout): progression
+Big Key (Swamp Palace): progression
+Compass (Swamp Palace): filler
+Big Key (Ice Ruins): progression
+Compass (Ice Ruins): filler
+Bombs: progression
+Hylian Shield: useful
+Small Key (Thieves' Hideout): progression
+Flippers: progression

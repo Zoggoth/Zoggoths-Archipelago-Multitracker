@@ -262,3 +262,8 @@ Blue Stake: filler
 Purple Stake: filler
 Orange Stake: filler
 Gold Stake: filler
+Archipelago Belt: useful
+Trance: useful
+Uranus: useful
+Sigil: useful
+Earth: useful

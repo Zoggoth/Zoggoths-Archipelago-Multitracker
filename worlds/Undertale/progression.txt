@@ -86,3 +86,8 @@ Core Key: progression
 Undyne Date: progression
 Alphys Date: progression
 Papyrus Date: progression
+Ruins Population Pack: progression
+Waterfall Population Pack: progression
+Hotland Population Pack: progression
+Ice Trap: trap
+Snowdin Population Pack: progression

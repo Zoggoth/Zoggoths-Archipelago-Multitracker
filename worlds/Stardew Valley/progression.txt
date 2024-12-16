@@ -358,3 +358,62 @@ Martin <3: progression
 Progressive Footwear: useful
 Sashimi Recipe: progression
 Survival Burger Recipe: progression
+Resource Pack: 500 Money: useful
+Glazed Butterfish Recipe: progression
+Traveling Merchant Stock Size: useful
+Poppy Seeds: progression
+Resource Pack: 75 Copper Ore: useful
+Claire <3: progression
+Vampire Ring: useful
+Morgan <3: progression
+Resource Pack: 10 Iridium Ore: filler
+Garden Pot: useful
+Alecto <3: progression
+Open Professor Snail Cave: progression
+Cone Hat: filler
+Resource Pack: 30 Summer Seeds: filler
+Marlon <3: progression
+Resource Pack: 6 Magma Geode: filler
+Napalm Ring: useful
+Salmon Dinner Recipe: progression
+Super Meal Recipe: progression
+Penny <3: progression
+Morris <3: progression
+Small Glow Ring: useful
+Mr. Ginger <3: progression
+Iridium Fireplace: filler
+Baked Berry Oatmeal Recipe: progression
+Ostrich Incubator Recipe: progression
+Ayeisha <3: progression
+Deluxe Scarecrow: useful
+Recycling Machine: useful
+Geode Crusher: useful
+Fried Egg Recipe: progression
+Susan <3: progression
+Gunther <3: progression
+Straw Floor Recipe: progression
+Warp Totem: Desert Recipe: progression
+Dish O' The Sea Recipe: progression
+Eggplant Parmesan Recipe: progression
+Jasper <3: progression
+Brick Floor Recipe: progression
+Mayonnaise Machine: useful
+Fall: progression
+Sunflower Seeds: progression
+Geode Crusher Recipe: progression
+Club Card: progression
+Olivia <3: progression
+Iridium Bomb: progression
+Scarlett <3: progression
+Fortune Teller: useful
+Stone Chest Recipe: progression
+Fiddlehead Risotto Recipe: progression
+Progressive Coop: progression
+Jade Ring: useful
+Pink Cake Recipe: progression
+Traveling Merchant Discount: useful
+Island Resort: progression
+Sinister Signal: filler
+Mushroom Kebab Recipe: progression
+Babies Trap: trap
+Void Salmon Sushi Recipe: progression

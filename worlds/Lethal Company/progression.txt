@@ -7,3 +7,5 @@ Clone Scrap: filler
 InverseTeleporter: useful
 Offense: progression
 Rend: progression
+Assurance: progression
+Teleporter: useful

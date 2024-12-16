@@ -36,3 +36,4 @@ Boating Manual: filler
 33 Coins: useful
 50 Coins: useful
 13 Coins: filler
+Fishing Rod: progression

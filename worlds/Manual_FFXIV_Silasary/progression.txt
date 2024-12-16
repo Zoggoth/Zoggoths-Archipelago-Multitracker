@@ -58,3 +58,71 @@ The Crystarium Access: progression
 Topwater Frog: progression
 5 MNK Levels: progression
 Midge Larva: progression
+5 SGE Levels: progression
+Sand Leech: progression
+Upper La Noscea Access: progression
+Fiend Worm: useful
+Gold Salmon Roe: useful
+Limsa Lominsa and Middle La Noscea Access: progression
+5 VPR Levels: useful
+Ul'dah and Central Thanalan Access: progression
+Gridania and Central Shroud Access: progression
+Giant Crane Fly: useful
+Floating Minnow: useful
+Crayfish Ball: useful
+5 PCT Levels: useful
+Ishgard Access: useful
+Syrphid Basket: useful
+North Shroud Access: useful
+5 AST Levels: useful
+Heavy Steel Jig: useful
+5 PLD Levels: useful
+Steel Jig: useful
+The Peaks Access: useful
+Eastern La Noscea Access: useful
+Magma Worm: useful
+5 WAR Levels: useful
+Metal Spinner: useful
+Caddisfly Larva: useful
+Yumizuno: useful
+Garlemald Access: useful
+Purse Web Spider: useful
+The Fringes Access: useful
+Honey Worm: useful
+Eulmore Access: useful
+Lower La Noscea Access: useful
+5 SAM Levels: useful
+Azys Lla Access: useful
+The Azim Steppe Access: useful
+Radz-at-Han Access: useful
+Pill Bug: useful
+Baitbugs: useful
+Rat Tail: useful
+Kozama'uka Access: useful
+Eastern Thanalan Access: useful
+Kugane Access: useful
+The Rak'tika Greatwood Access: useful
+Snurble Fly: useful
+Live Shrimp: useful
+Krill Cage Feeder: useful
+Chocobo Fly: useful
+Brute Leech: useful
+Heritage Found Access: useful
+Freshwater Boilie: useful
+Spinnerbait: useful
+Living Memory Access: useful
+Goby Ball: useful
+Kholusia Access: useful
+Stonefly Larva: useful
+5 WHM Levels: useful
+Mor Dhona Access: filler
+Herring Ball: useful
+Moyebi Shrimp: useful
+Outer La Noscea Access: useful
+The Churning Mists Access: useful
+Urqopacha Access: useful
+Mayfly: useful
+The Tempest Access: useful
+Mare Lamentorum Access: useful
+Hoverworm: useful
+Alexander Key: progression
