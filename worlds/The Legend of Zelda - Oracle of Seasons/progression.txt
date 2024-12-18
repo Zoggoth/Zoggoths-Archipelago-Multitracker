@@ -24,3 +24,4 @@ Zora Ring: filler
 Rupees (1): filler
 Rupees (5): filler
 Progressive Feather: progression
+Spin Ring: useful
