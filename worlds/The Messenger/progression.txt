@@ -43,3 +43,4 @@ Meditation: progression
 Second Wind: progression
 Focused Power Sense: filler
 Devil's Due: useful
+Energy Shuriken: filler
