@@ -53,3 +53,5 @@ Progressive Harp: progression
 Progressive Flippers: progression
 Boss Key (Wing Dungeon): progression
 Rupees (20): filler
+Tuni Nut: progression
+Rupees (1): filler
