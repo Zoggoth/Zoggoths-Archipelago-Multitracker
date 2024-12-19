@@ -34,3 +34,4 @@ Raspberry: filler
 Cotton: useful
 Heavy Mace+3: useful
 2x Red Gem: useful
+3x Reward Box Lvl 3: useful
