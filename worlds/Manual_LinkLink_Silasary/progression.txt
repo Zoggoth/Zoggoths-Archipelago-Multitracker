@@ -34,3 +34,6 @@ Swimming: progression
 Bow: progression
 Feather: progression
 Ice Magic: progression
+Shield (Mirror): progression
+Leaf: progression
+Fire Magic: progression

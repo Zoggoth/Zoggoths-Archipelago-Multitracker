@@ -46,3 +46,5 @@ Brick Egg: progression
 Chocolate Egg: progression
 Ruby Egg: progression
 Slink: progression
+Key: progression
+Yoyo: progression
