@@ -25,3 +25,4 @@ Rupees (1): filler
 Rupees (5): filler
 Progressive Feather: progression
 Spin Ring: useful
+Armor Ring L-1: useful
