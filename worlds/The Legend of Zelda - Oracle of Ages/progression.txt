@@ -55,3 +55,4 @@ Boss Key (Wing Dungeon): progression
 Rupees (20): filler
 Tuni Nut: progression
 Rupees (1): filler
+Island Chart: progression
