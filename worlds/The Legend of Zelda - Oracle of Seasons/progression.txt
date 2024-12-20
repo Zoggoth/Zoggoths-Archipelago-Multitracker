@@ -26,3 +26,8 @@ Rupees (5): filler
 Progressive Feather: progression
 Spin Ring: useful
 Armor Ring L-1: useful
+Ore Chunks (50): filler
+Progressive Slingshot: progression
+Red Joy Ring: useful
+Compass (Sword & Shield Dungeon): filler
+Compass (Unicorn's Cave): filler
