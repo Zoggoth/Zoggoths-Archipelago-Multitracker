@@ -417,3 +417,4 @@ Sinister Signal: filler
 Mushroom Kebab Recipe: progression
 Babies Trap: trap
 Void Salmon Sushi Recipe: progression
+Artichoke Seeds: progression
