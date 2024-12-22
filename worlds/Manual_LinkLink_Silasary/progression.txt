@@ -40,3 +40,6 @@ Fire Magic: progression
 Bug Net: progression
 Mushroom: progression
 Pegasus Boots: progression
+Red Tunic: progression
+Light Arrows: progression
+Magic Powder: progression
