@@ -39,3 +39,4 @@ Bombproof Ring: useful
 Potion: useful
 Light Ring L-1: useful
 Pegasus Seeds: progression
+Master Key (Hero's Cave): progression
