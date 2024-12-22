@@ -42,3 +42,12 @@ HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 HM05 Flash: progression
+Wiki Berry: filler
+Quick Claw: filler
+Poke Ball: filler
+Rainbow Badge: progression
+Max Repel: filler
+One Pass: progression
+Hyper Potion: filler
+Burn Heal: filler
+Nest Ball: filler
