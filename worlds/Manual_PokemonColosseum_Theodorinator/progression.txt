@@ -30,3 +30,4 @@ Ice Heal: filler
 Absol: progression
 Potion: filler
 Sudowoodo: progression
+Protein: filler
