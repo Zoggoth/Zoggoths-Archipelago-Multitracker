@@ -40,3 +40,5 @@ Potion: useful
 Light Ring L-1: useful
 Pegasus Seeds: progression
 Master Key (Hero's Cave): progression
+Small Key (Explorer's Crypt): progression
+Gale Seeds: progression
