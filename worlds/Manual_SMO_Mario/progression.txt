@@ -47,3 +47,4 @@ Wooded Kingdom Multi-Moon: progression
 Zipper: progression
 Ruined Kingdom Power Moon: progression
 Boulder: progression
+Binoculars: progression
