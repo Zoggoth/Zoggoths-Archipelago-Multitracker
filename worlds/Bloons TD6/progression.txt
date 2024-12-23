@@ -17,3 +17,5 @@ TackShooter-TUnlock: useful
 Sanctuary-MUnlock: progression
 Carved-MUnlock: progression
 Cubism-MUnlock: progression
+Resort-MUnlock: progression
+Tutorial-MUnlock: progression
