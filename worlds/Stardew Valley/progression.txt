@@ -420,3 +420,6 @@ Void Salmon Sushi Recipe: progression
 Artichoke Seeds: progression
 Deluxe Retaining Soil Recipe: progression
 Jukebox Ring: filler
+Grape Starter: progression
+Slime Incubator: useful
+Taro Tuber: progression
