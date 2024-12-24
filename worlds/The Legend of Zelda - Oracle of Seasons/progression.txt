@@ -42,3 +42,6 @@ Pegasus Seeds: progression
 Master Key (Hero's Cave): progression
 Small Key (Explorer's Crypt): progression
 Gale Seeds: progression
+Scent Seeds: progression
+Small Key (Sword & Shield Dungeon): progression
+Boss Key (Sword & Shield Dungeon): progression
