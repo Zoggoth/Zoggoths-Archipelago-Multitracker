@@ -63,3 +63,9 @@ Heart Scale: filler
 Wepear Berry: filler
 10 Coins: filler
 Volcano Badge: progression
+Stardust: filler
+Max Potion: filler
+Ultra Ball: filler
+TM25: useful
+Ether: filler
+Net Ball: filler
