@@ -45,3 +45,4 @@ Gale Seeds: progression
 Scent Seeds: progression
 Small Key (Sword & Shield Dungeon): progression
 Boss Key (Sword & Shield Dungeon): progression
+Rod of Seasons (Spring): progression
