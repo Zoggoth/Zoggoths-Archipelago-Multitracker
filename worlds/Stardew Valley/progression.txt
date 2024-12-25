@@ -423,3 +423,4 @@ Jukebox Ring: filler
 Grape Starter: progression
 Slime Incubator: useful
 Taro Tuber: progression
+Bruschetta Recipe: progression
