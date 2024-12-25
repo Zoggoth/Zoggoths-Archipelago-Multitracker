@@ -19,3 +19,4 @@ Carved-MUnlock: progression
 Cubism-MUnlock: progression
 Resort-MUnlock: progression
 Tutorial-MUnlock: progression
+BloonariusPrime-MUnlock: progression
