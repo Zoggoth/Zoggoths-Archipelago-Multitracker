@@ -44,3 +44,4 @@ Red Tunic: progression
 Light Arrows: progression
 Magic Powder: progression
 Shield (Intermediate): progression
+Biggoron's Sword: progression
