@@ -22,3 +22,4 @@ Reward: Treasure Magnet: filler
 Reward: Star Cloak: trap
 Post-Goblin Army: progression
 Reward: Lavaproof Fishing Hook: useful
+Post-Skeletron: progression
