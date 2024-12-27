@@ -50,3 +50,4 @@ Fertile Soil: progression
 Master Key (Gnarled Root Dungeon): progression
 Cuccodex: progression
 Rupees (50): filler
+Progressive Boomerang: progression
