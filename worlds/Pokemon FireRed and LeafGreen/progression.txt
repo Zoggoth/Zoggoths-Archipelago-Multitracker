@@ -69,3 +69,5 @@ Ultra Ball: filler
 TM25: useful
 Ether: filler
 Net Ball: filler
+Revive: filler
+Premier Ball: filler
