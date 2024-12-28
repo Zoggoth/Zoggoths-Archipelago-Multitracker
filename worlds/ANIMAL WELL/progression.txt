@@ -48,3 +48,4 @@ Ruby Egg: progression
 Slink: progression
 Key: progression
 Yoyo: progression
+Golden Egg: progression
