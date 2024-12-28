@@ -71,3 +71,5 @@ Ether: filler
 Net Ball: filler
 Revive: filler
 Premier Ball: filler
+Nanab Berry: filler
+Full Restore: filler
