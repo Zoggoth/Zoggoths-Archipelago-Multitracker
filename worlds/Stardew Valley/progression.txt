@@ -424,3 +424,13 @@ Grape Starter: progression
 Slime Incubator: useful
 Taro Tuber: progression
 Bruschetta Recipe: progression
+Pumpkin Seeds: progression
+Plum Pudding Recipe: progression
+Red Cabbage Seeds: progression
+Gate Recipe: progression
+Omelet Recipe: progression
+Wood Lamp-post Recipe: progression
+Coleslaw Recipe: progression
+Resource Pack: 25 Gold Ore: filler
+Wood Path Recipe: progression
+Autumn's Bounty Recipe: progression
