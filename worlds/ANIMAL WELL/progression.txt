@@ -49,3 +49,4 @@ Slink: progression
 Key: progression
 Yoyo: progression
 Golden Egg: progression
+Rain Egg: progression
