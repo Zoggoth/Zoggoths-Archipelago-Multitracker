@@ -73,3 +73,8 @@ Revive: filler
 Premier Ball: filler
 Nanab Berry: filler
 Full Restore: filler
+Cheri Berry: filler
+HM07 Waterfall: progression
+Bike Voucher: progression
+Tea: progression
+TM19: useful
