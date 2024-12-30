@@ -70,3 +70,6 @@ Crossing Cup Pass: progression
 King Boo: useful
 Flower Cup Pass: progression
 Dry Bowser: useful
+Shy Guy: useful
+Peach: useful
+Spiny Cup Pass: progression
