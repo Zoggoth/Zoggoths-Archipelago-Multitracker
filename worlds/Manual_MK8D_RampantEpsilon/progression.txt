@@ -73,3 +73,5 @@ Dry Bowser: useful
 Shy Guy: useful
 Peach: useful
 Spiny Cup Pass: progression
+Feather Cup Pass: progression
+P-Wing: useful
