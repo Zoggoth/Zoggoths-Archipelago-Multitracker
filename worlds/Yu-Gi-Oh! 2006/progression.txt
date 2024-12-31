@@ -44,3 +44,4 @@ TD16 Union Unlock: progression
 TD27 Dark Sage Unlock: progression
 TD25 Moth Grows Up Unlock: progression
 Special Gift Collection: progression
+LD11 All except Fairies forbidden Unlock: progression
