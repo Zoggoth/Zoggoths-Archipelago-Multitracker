@@ -31,3 +31,4 @@ Absol: progression
 Potion: filler
 Sudowoodo: progression
 Protein: filler
+3 Max Potions: filler
