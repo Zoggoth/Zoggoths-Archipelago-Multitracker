@@ -434,3 +434,19 @@ Coleslaw Recipe: progression
 Resource Pack: 25 Gold Ore: filler
 Wood Path Recipe: progression
 Autumn's Bounty Recipe: progression
+Jack-O-Lantern Recipe: progression
+Spell: Photosynthesis: progression
+Glazed Yams Recipe: progression
+Jazz Seeds: progression
+Farm Obelisk: useful
+Wedding Ring Recipe: progression
+Carved Brazier Recipe: progression
+Frozen Trap: trap
+Baked Fish Recipe: progression
+Pumpkin Pie Recipe: progression
+Crystal Floor Recipe: progression
+Shrimp Cocktail Recipe: progression
+Pendant of Depths: progression
+Monster Musk: filler
+Spell: Evac: progression
+Farm Computer: filler
