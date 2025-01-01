@@ -89,3 +89,4 @@ Fly Pewter City: progression
 TM47: useful
 Liechi Berry: filler
 Everstone: filler
+Max Revive: filler
