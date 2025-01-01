@@ -32,3 +32,5 @@ Potion: filler
 Sudowoodo: progression
 Protein: filler
 3 Max Potions: filler
+Small Tablet: progression
+2 Max Potions: filler
