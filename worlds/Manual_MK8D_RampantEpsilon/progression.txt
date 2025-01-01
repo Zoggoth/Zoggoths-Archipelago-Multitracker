@@ -75,3 +75,4 @@ Peach: useful
 Spiny Cup Pass: progression
 Feather Cup Pass: progression
 P-Wing: useful
+Star Cup Pass: progression
