@@ -90,3 +90,6 @@ TM47: useful
 Liechi Berry: filler
 Everstone: filler
 Max Revive: filler
+Meteorite: progression
+Orange Mail: filler
+TM18: useful
