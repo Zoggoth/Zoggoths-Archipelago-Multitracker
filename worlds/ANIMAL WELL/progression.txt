@@ -50,3 +50,4 @@ Key: progression
 Yoyo: progression
 Golden Egg: progression
 Rain Egg: progression
+E. Medal: progression
