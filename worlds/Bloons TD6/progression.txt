@@ -20,3 +20,9 @@ Cubism-MUnlock: progression
 Resort-MUnlock: progression
 Tutorial-MUnlock: progression
 BloonariusPrime-MUnlock: progression
+DarkPath-MUnlock: progression
+HighFinance-MUnlock: progression
+GlueGunner-TUnlock: progression
+SuperMonkey-TUnlock: progression
+MoonLanding-MUnlock: progression
+GlacialTrail-MUnlock: progression
