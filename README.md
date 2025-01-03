@@ -22,8 +22,6 @@ All 4 will show new items, but the game name is needed to sort items into progre
 The first run will print all items (since it doesn't know when you last checked each world).  
 All subsequent runs will remember when you last checked & only print new items
 
-If the game has a specialised tracker (e.g Super Metroid, Ocarina of Time), make sure to use a link to the generic tracker (working examples are in [Tracker List.txt](https://github.com/Zoggoth/Zoggoths-Archipelago-Multitracker/blob/main/Tracker%20List.txt))
-
 The GameName should be the same format as the names in the worlds folder (e.g "Ocarina of Time" rather than "TLoZ: OOT").  
 These generally match the names used by the existing multi-world tracker
 
