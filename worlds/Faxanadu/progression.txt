@@ -1,0 +1,34 @@
+Progressive Sword: progression
+Progressive Armor: progression
+Progressive Shield: useful
+Spring Elixir: progression
+Mattock: progression
+Unlock Wingboots: progression
+Key Jack: progression
+Key Queen: progression
+Key King: progression
+Key Joker: progression
+Key Ace: progression
+Ring of Ruby: progression
+Ring of Dworf: progression
+Demons Ring: progression
+Black Onyx: progression
+Sky Spring Flow: progression
+Tower of Fortress Spring Flow: progression
+Joker Spring Flow: progression
+Deluge: progression
+Thunder: useful
+Fire: useful
+Death: useful
+Tilte: useful
+Ring of Elf: useful
+Magical Rod: useful
+Pendant: useful
+Hourglass: filler
+Red Potion: filler
+Elixir: filler
+Glove: filler
+Ointment: filler
+Poison: trap
+Killed Evil One: progression
+Wingboots: useful

@@ -1,0 +1,26 @@
+Powered Blaster: progression
+Flamethrower: progression
+Ice Spreadshot: progression
+Volt Laser: progression
+Life Extension: progression
+Clip Extension: progression
+Faster Reload: progression
+Special Extension: useful
+Jacket: useful
+Cave Key: progression
+Volcanic Key: progression
+Arctic Key: progression
+Swamp Key: progression
+System Power: progression
+Full Heal: filler
+Quick-fire Mode: filler
+Active Camouflage: filler
+Ice Trap: trap
+Shake Trap: trap
+Ninja Trap: trap
+Guard neutralized: progression
+Cliff neutralized: progression
+Ace neutralized: progression
+Snake neutralized: progression
+Power restored: progression
+PRINCESS: progression

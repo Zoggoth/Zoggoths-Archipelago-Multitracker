@@ -1,0 +1,33 @@
+Double: progression
+Tackle: progression
+Kick Boots: progression
+Heavy Ring: progression
+Cleansing: progression
+Roc Wing: progression
+Last Key: progression
+Maiden Detonator: progression
+Heart Max Up: filler
+MP Max Up: filler
+HP Max Up: filler
+Salamander Card: useful
+Serpent Card: progression
+Mandragora Card: useful
+Golem Card: useful
+Cockatrice Card: progression
+Manticore Card: useful
+Griffin Card: useful
+Thunderbird Card: useful
+Unicorn Card: useful
+Black Dog Card: useful
+Mercury Card: progression
+Venus Card: useful
+Jupiter Card: useful
+Mars Card: progression
+Diana Card: useful
+Apollo Card: useful
+Neptune Card: useful
+Saturn Card: useful
+Uranus Card: useful
+Pluto Card: useful
+The Count Downed: progression
+Where's My Super Suit?: progression
