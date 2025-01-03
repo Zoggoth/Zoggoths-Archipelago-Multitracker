@@ -20,7 +20,7 @@ if text == "":
     print()
     userInput = input("Press enter to close")
     exit()
-fullMatches = re.finditer("(https:[^\n ]*).*((\n(\d+-\d+|\d+))+)",text)
+fullMatches = re.finditer("(https?:[^\n ]*).*((\n(\d+-\d+|\d+))+)",text)
 file = open("Tracker List.txt", "w")
 for x in fullMatches:
     numberMatches = re.finditer("((\d+)-(\d+))|(\d+)",x[2])
@@ -37,7 +37,8 @@ for x in fullMatches:
     for y in numberlist:
         trackerMatch = re.search("<tr>\n.*>{}<.*\n.*>(.*)</a.*\n.*>(.*)<.*(\n.*?)*tracker([^\"]*)".format(y), html)
         try:
-            file.write("{} ({}): https://archipelago.gg/generic_tracker{}\n".format(trackerMatch[2], trackerMatch[1], trackerMatch[4]))
+            hostSite = re.search("(.*/)room/", x[1])[1]
+            file.write("{} ({}): {}generic_tracker{}\n".format(trackerMatch[2], trackerMatch[1], hostSite, trackerMatch[4]))
         except:
             print("Couldn't find slot {} in multiworld at {}\nPlease check that the slot number is correct.".format(y, x[1]))
             print("If this problem occurs for multiple slots, it's likely a temporary connection problem.")
@@ -45,4 +46,3 @@ for x in fullMatches:
     file.write("\n")
 file.close()
 userInput = input("Tracker List.txt updated. Press enter to close")
-exit()
