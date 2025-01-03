@@ -41,3 +41,44 @@ Baby Mario: useful
 Turnip Cup Pass: progression
 Tanooki Mario: useful
 Daisy: filler
+Cat Peach: useful
+Tri-Speeder: useful
+Donkey Kong: useful
+Roy: useful
+Parafoil: useful
+Golden Dash Cup Pass: progression
+Rock Cup Pass: progression
+Leaf Tires: useful
+Gold Trophy: progression
+MKTV Parafoil: useful
+Sport Bike: useful
+Gold Standard: useful
+Steel Driver: useful
+Circuit Special: useful
+Isabelle: useful
+Waddle Wing: useful
+Funky Kong: useful
+Crimson Slim: useful
+B Dasher: useful
+Blue Standard: useful
+Streetle: useful
+Waluigi: useful
+Moon Cup Pass: progression
+W 25 Silver Arrow: useful
+Flower Glider: useful
+Crossing Cup Pass: progression
+King Boo: useful
+Flower Cup Pass: progression
+Dry Bowser: useful
+Shy Guy: useful
+Peach: useful
+Spiny Cup Pass: progression
+Feather Cup Pass: progression
+P-Wing: useful
+Star Cup Pass: progression
+Tanooki Kart: useful
+Cat Cruiser: useful
+Pink Gold Peach: useful
+Wario: useful
+Morton: useful
+Toadette: useful

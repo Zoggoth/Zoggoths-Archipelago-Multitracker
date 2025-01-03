@@ -62,3 +62,12 @@ Bombs: progression
 Hylian Shield: useful
 Small Key (Thieves' Hideout): progression
 Flippers: progression
+Small Key (House of Gales): progression
+Small Key (Desert Palace): progression
+Small Key (Swamp Palace): progression
+Small Key (Tower of Hera): progression
+Small Key (Lorule Castle): progression
+Small Key (Skull Woods): progression
+Compass (Lorule Castle): filler
+Small Key (Lorule Sanctuary): progression
+Small Key (Ice Ruins): progression

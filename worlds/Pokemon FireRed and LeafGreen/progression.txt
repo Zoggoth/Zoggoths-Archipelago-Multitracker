@@ -42,3 +42,58 @@ HM02 Fly: progression
 HM03 Surf: progression
 HM04 Strength: progression
 HM05 Flash: progression
+Wiki Berry: filler
+Quick Claw: filler
+Poke Ball: filler
+Rainbow Badge: progression
+Max Repel: filler
+One Pass: progression
+Hyper Potion: filler
+Burn Heal: filler
+Nest Ball: filler
+Escape Rope: filler
+White Flute: filler
+Exp. Share: useful
+Magost Berry: filler
+Aspear Berry: filler
+Zinc: filler
+Soul Badge: progression
+X Special: filler
+Heart Scale: filler
+Wepear Berry: filler
+10 Coins: filler
+Volcano Badge: progression
+Stardust: filler
+Max Potion: filler
+Ultra Ball: filler
+TM25: useful
+Ether: filler
+Net Ball: filler
+Revive: filler
+Premier Ball: filler
+Nanab Berry: filler
+Full Restore: filler
+Cheri Berry: filler
+HM07 Waterfall: progression
+Bike Voucher: progression
+Tea: progression
+TM19: useful
+TM26: useful
+Spelon Berry: filler
+Good Rod: progression
+X Speed: filler
+Sapphire: progression
+Yellow Scarf: filler
+Max Ether: filler
+Fly Pewter City: progression
+TM47: useful
+Liechi Berry: filler
+Everstone: filler
+Max Revive: filler
+Meteorite: progression
+Orange Mail: filler
+TM18: useful
+Aurora Ticket: progression
+Antidote: filler
+Grepa Berry: filler
+Super Potion: filler

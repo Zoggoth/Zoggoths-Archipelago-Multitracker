@@ -46,3 +46,10 @@ Brick Egg: progression
 Chocolate Egg: progression
 Ruby Egg: progression
 Slink: progression
+Key: progression
+Yoyo: progression
+Golden Egg: progression
+Rain Egg: progression
+E. Medal: progression
+S. Medal: progression
+Rust Egg: progression

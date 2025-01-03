@@ -2,3 +2,7 @@ Currency: progression
 Wardrobe Key: progression
 Camera Replica: progression
 Card Pack: useful
+Caged Wolf Card: progression
+Bone Lord Holo Key: progression
+Bone Lord Horn: useful
+Quill: progression
