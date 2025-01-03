@@ -109,7 +109,7 @@ for (worldID, gameName, url, slotName) in gameList:
             failcount += 1
             timeout += 1
     if failcount == maxfails:
-        print("failed {} times. In the interest of finishing, this one will be skipped".format(failcount))
+        print("Failed {} times. In the interest of finishing, this one will be skipped".format(failcount))
         lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, lastUpdate)
         continue
     if failcount >= 1:
