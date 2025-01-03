@@ -94,8 +94,26 @@ for (worldID, gameName, url, slotName) in gameList:
         timeToSleep = lastWebsiteCheck - time.time() + 1
         if timeToSleep > 0:
             time.sleep(timeToSleep)
-        lastWebsiteCheck = time.time()
-    page = urlopen(url)
+    page = None
+    failcount = 0
+    maxfails = 5
+    timeout = 3
+    while failcount < maxfails:
+        try:
+            if failcount > 0:
+                print("Connection took too long. Retrying ({})".format(failcount))
+            lastWebsiteCheck = time.time()
+            page = urlopen(url, timeout=timeout)
+            break
+        except TimeoutError:
+            failcount += 1
+            timeout += 1
+    if failcount == maxfails:
+        print("failed {} times. In the interest of finishing, this one will be skipped".format(failcount))
+        lastUpdatePrint += "{} ({}): {}\n".format(gameName, worldID, lastUpdate)
+        continue
+    if failcount >= 1:
+        print("retrying worked!")
     html_bytes = page.read()
     html = unescape(html_bytes.decode("utf-8"))
     matches = re.findall("<tr>\n *<td>(.*)</td>\n *<td>(.*)</td>\n *<td>(.*)</td>\n *</tr>", html)
