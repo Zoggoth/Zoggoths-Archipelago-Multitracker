@@ -24,3 +24,4 @@ Weapon Energy (S): filler
 Health Energy (L): filler
 Health Energy (S): filler
 e tank: useful
+Crash Man Access Codes: progression

@@ -24,3 +24,30 @@ Zora Ring: filler
 Rupees (1): filler
 Rupees (5): filler
 Progressive Feather: progression
+Spin Ring: useful
+Armor Ring L-1: useful
+Ore Chunks (50): filler
+Progressive Slingshot: progression
+Red Joy Ring: useful
+Compass (Sword & Shield Dungeon): filler
+Compass (Unicorn's Cave): filler
+Green Holy Ring: useful
+Ore Chunks (10): filler
+Master Key (Unicorn's Cave): progression
+Star Ore: progression
+Bombproof Ring: useful
+Potion: useful
+Light Ring L-1: useful
+Pegasus Seeds: progression
+Master Key (Hero's Cave): progression
+Small Key (Explorer's Crypt): progression
+Gale Seeds: progression
+Scent Seeds: progression
+Small Key (Sword & Shield Dungeon): progression
+Boss Key (Sword & Shield Dungeon): progression
+Rod of Seasons (Spring): progression
+Fertile Soil: progression
+Master Key (Gnarled Root Dungeon): progression
+Cuccodex: progression
+Rupees (50): filler
+Progressive Boomerang: progression

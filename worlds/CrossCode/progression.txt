@@ -1035,3 +1035,5 @@ Cold Platter x2: filler
 Moon Fruit x3: filler
 Star Fruit x2: filler
 Fruit Pie x4: filler
+Green Risotto x2: filler
+Blue Grass x4: filler

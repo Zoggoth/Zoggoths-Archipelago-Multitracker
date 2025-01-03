@@ -14,3 +14,5 @@ Sandman: progression
 Lost Sock: progression
 Balloon Kid: progression
 Power Crystal: progression
+Steering Wheel: progression
+Ship Cannon: progression
