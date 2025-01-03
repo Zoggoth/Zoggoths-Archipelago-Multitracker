@@ -51,3 +51,5 @@ Yoyo: progression
 Golden Egg: progression
 Rain Egg: progression
 E. Medal: progression
+S. Medal: progression
+Rust Egg: progression
