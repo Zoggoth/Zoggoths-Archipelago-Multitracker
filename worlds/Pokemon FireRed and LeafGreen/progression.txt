@@ -93,3 +93,7 @@ Max Revive: filler
 Meteorite: progression
 Orange Mail: filler
 TM18: useful
+Aurora Ticket: progression
+Antidote: filler
+Grepa Berry: filler
+Super Potion: filler
