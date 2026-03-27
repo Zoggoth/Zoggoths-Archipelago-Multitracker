@@ -101,11 +101,12 @@ for (worldID, gameName, url, slotName) in gameList:
     while failcount < maxfails:
         try:
             if failcount > 0:
-                print("Connection took too long. Retrying ({})".format(failcount))
+                print("Slow connection. Retrying ({})".format(failcount))
             lastWebsiteCheck = time.time()
             page = urlopen(url, timeout=timeout)
+            html_bytes = page.read()
             break
-        except TimeoutError:
+        except:
             failcount += 1
             timeout += 1
     if failcount == maxfails:
@@ -114,7 +115,6 @@ for (worldID, gameName, url, slotName) in gameList:
         continue
     if failcount >= 1:
         print("retrying worked!")
-    html_bytes = page.read()
     html = unescape(html_bytes.decode("utf-8"))
     matches = re.findall("<tr>\n *<td>(.*)</td>\n *<td>(.*)</td>\n *<td>(.*)</td>\n *</tr>", html)
     # You can't parse [X]HTML with regex. Because HTML can't be parsed by regex.
@@ -162,8 +162,8 @@ usefulPrint = usefulPrint+"\n" if hasUseful else ""
 fillerPrint = fillerPrint+"\n" if hasFiller else ""
 trapPrint = trapPrint+"\n" if hasTrap else ""
 unknownPrint = unknownPrint+"\n" if hasUnknown else ""
-consolePrint = "{}{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, unknownPrint, progressionPrint, mcguffinPrint)
-filePrint = "{}{}{}{}{}{}".format(progressionPrint, unknownPrint, usefulPrint, fillerPrint, trapPrint, mcguffinPrint)
+consolePrint = "{}{}{}{}{}{}".format(trapPrint, fillerPrint, usefulPrint, mcguffinPrint, unknownPrint, progressionPrint)
+filePrint = "{}{}{}{}{}{}".format(progressionPrint, unknownPrint, mcguffinPrint, usefulPrint, fillerPrint, trapPrint)
 print()
 outputFile = open("output.txt", "w", encoding="utf-8")
 outputFile2 = open("old output/{}.txt".format(time.strftime("%Y-%m-%d %H-%M-%S")), "w", encoding="utf-8")
