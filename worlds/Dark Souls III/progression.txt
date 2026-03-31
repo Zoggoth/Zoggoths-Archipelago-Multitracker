@@ -1181,3 +1181,92 @@ Soul of a Wicked Spirit: filler
 Dark Orb: filler
 Morbid Temptation: filler
 Dorris Swarm: filler
+Ruin Helm: filler
+Black Firebomb x3: filler
+Twinkling Titanite x3: filler
+Harald Curved Greatsword: filler
+Blue Bug Pellet x2: filler
+Ember x2: filler
+Yellow Bug Pellet x2: filler
+Repair Powder x3: filler
+Ruin Armor: filler
+Pale Pine Resin x2: filler
+Rotten Pine Resin x4: filler
+Twinkling Titanite x2: filler
+Green Blossom x3: filler
+Dragonslayer Greatarrow x5: filler
+Titanite Scale x2: filler
+Undead Hunter Charm x3: filler
+Duel Charm x3: filler
+Blooming Purple Moss Clump x3: filler
+Ruin Gauntlets: filler
+Throwing Knife x8: filler
+Kukri x9: filler
+Gold Pine Bundle x6: filler
+Human Pine Resin x2: filler
+Rusted Coin x2: filler
+Large Titanite Shard x2: filler
+Budding Green Blossom x2: filler
+Rusted Gold Coin x3: filler
+Astora Straight Sword: filler
+Homeward Bone x2: filler
+Titanite Scale x3: filler
+Green Blossom x4: filler
+Red Bug Pellet x3: filler
+Dragonslayer Lightning Arrow x10: filler
+Poison Arrow x18: filler
+Rime-blue Moss Clump x4: filler
+Firebomb x3: filler
+Green Blossom x2: filler
+Sniper Bolt x11: filler
+Purple Moss Clump x4: filler
+Black Firebomb x2: filler
+Black Bug Pellet x2: filler
+Purple Moss Clump x2: filler
+Ruin Leggings: filler
+Mossfruit x2: filler
+Rotten Pine Resin x2: filler
+Bloodred Moss Clump x3: filler
+Exploding Bolt x6: filler
+Greataxe: filler
+Black Bug Pellet x3: filler
+Titanite Chunk x2: filler
+Charcoal Pine Bundle x2: filler
+Dung Pie x4: filler
+Firebomb x5: filler
+Lightning Urn x6: filler
+Lightning Urn x4: filler
+Undead Hunter Charm x2: filler
+Alluring Skull x3: filler
+Dung Pie x2: filler
+Titanite Chunk x6: filler
+Lightning Bolt x9: filler
+Homeward Bone x3: filler
+Budding Green Blossom x3: filler
+Firebomb x6: filler
+Red Bug Pellet x2: filler
+Alluring Skull x2: filler
+Carthus Rouge x3: filler
+Rime-blue Moss Clump x2: filler
+Lightning Bolt x12: filler
+Black Firebomb x4: filler
+Rusted Gold Coin x2: filler
+Repair Powder x2: filler
+Titanite Shard x2: filler
+Kukri x8: filler
+Large Titanite Shard x3: filler
+Stalk Dung Pie x6: filler
+Human Pine Resin x4: filler
+Yellow Bug Pellet x3: filler
+Charcoal Pine Resin x2: filler
+Carthus Rouge x2: filler
+Millwood Greatarrow x5: filler
+Undead Legion Gauntlet: filler
+Purple Moss Clump x3: filler
+Moonlight Arrow x6: filler
+Gold Pine Resin x2: filler
+Standard Arrow x12: filler
+Homeward Bone x6: filler
+Repair Powder x4: filler
+Throwing Knife x6: filler
+Lightning Urn x3: filler

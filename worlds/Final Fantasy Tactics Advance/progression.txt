@@ -496,3 +496,46 @@ Hunt: progression
 Charge: progression
 Time Magic: progression
 Roulette Trap: trap
+Law Card: Defend: filler
+Law Card: Time Magic antilaw: filler
+Law Card: Control: filler
+Law Card: Silence antilaw: filler
+Law Card: Protect antilaw: filler
+Law Card: Time Magic: filler
+Law Card: Broadswords: filler
+Law Card: Dmg2: Viera antilaw: filler
+Law Card: Morph antilaw: filler
+Law Card: Target All: filler
+Law Card: Haste antilaw: filler
+Law Card: Swords antilaw: filler
+Law Card: Sharpshoot: filler
+Law Card: Hunt antilaw: filler
+Law Card: Haste: filler
+Law Card: R2 Antilaw: filler
+Law Card: Rapiers antilaw: filler
+Law Card: Broadswords antilaw: filler
+Law Card: Addle antilaw: filler
+Law Card: Berserk antilaw: filler
+Law Card: Addle: filler
+Law Card: Holy antilaw: filler
+Law Card: Poison: filler
+Law Card: Dmg2: Animal antilaw: filler
+Law Card: Allmighty antilaw: filler
+Law Card: Instruments: filler
+Law Card: Shell: filler
+Law Card: Charge: filler
+Law Card: R5 Antilaw: filler
+Law Card: Soul antilaw: filler
+Law Card: Summon antilaw: filler
+Law Card: Items: filler
+Law Card: Wind antilaw: filler
+Law Card: Holy: filler
+Law Card: Charm antilaw: filler
+Law Card: Charge antilaw: filler
+Law Card: Instruments antilaw: filler
+Law Card: Copycat antilaw: filler
+Law Card: Status: filler
+Law Card: Sabers: filler
+Law Card: Color Magic antilaw: filler
+Law Card: Knightswords antilaw: filler
+Law Card: Corner antilaw: filler

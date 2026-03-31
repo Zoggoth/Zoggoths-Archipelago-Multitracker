@@ -15,3 +15,46 @@ Meat: filler
 Scimitar of Decapitation: useful
 Invulnerability: filler
 Reflective Shot: filler
+Levitate: filler
+Fire Potion: filler
+Thunder Hammer: filler
+Growth: filler
+Runestone 13: progression
+Lightning Breath: filler
+Invisibility: filler
+Runestone 11: progression
+Runestone 8: progression
+Shrink: filler
+Runestone 5: progression
+Rapid Fire: filler
+Light Potion: filler
+Mountain Obelisk 2: progression
+Yeti Mirror Shard: progression
+Soul Savior: useful
+Runestone 7: progression
+Super Shot: filler
+Ice Axe of Untar: useful
+5-Way Shot: filler
+Plague Fiend Mirror Shard: progression
+Fire Shield: filler
+Runestone 10: progression
+Lightning Amulet: filler
+Timestop: filler
+Poison Fruit: trap
+Lightning Shield: filler
+Mountain Obelisk 3: progression
+Castle Obelisk 2: progression
+Light Amulet: filler
+Runestone 3: progression
+Chimera Mirror Shard: progression
+Runestone 2: progression
+Runestone 12: progression
+Runestone 6: mcguffin
+Electric Shield: filler
+Marker's Javelin: useful
+Phoenix Familiar: filler
+Runestone 9: mcguffin
+Dragon Mirror Shard: progression
+Mountain Obelisk 1: progression
+Runestone 1: progression
+Flame of Tarkana: useful

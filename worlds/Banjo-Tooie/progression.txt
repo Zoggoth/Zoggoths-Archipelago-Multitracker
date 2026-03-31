@@ -92,3 +92,28 @@ Witchyworld: progression
 Wing Whack: progression
 Wonderwing: progression
 Yellow Jinjo: progression
+Beak Barge: progression
+Blue Eggs: progression
+Third Person Egg Shooting: progression
+Progressive Bash Attack: progression
+Egg Nest: filler
+Feather Nest: filler
+Progressive Beak Buster: progression
+Amaze-O-Gaze: progression
+Progressive Adv. Water Training: progression
+Progressive Egg Aim: progression
+Progressive Water Training: progression
+Grunty Industries: progression
+Progressive Flight: progression
+Trip Trap: trap
+Slip Trap: trap
+Air Rat-a-tat Rap: progression
+Transform Trap: trap
+Tip Trap: trap
+Bass Clef: progression
+Turbo Trainers: progression
+Tall Jump: progression
+Golden Egg Nest: trap
+Stilt Stride: progression
+Ground Rat-a-tat Rap: progression
+Squish Trap: trap

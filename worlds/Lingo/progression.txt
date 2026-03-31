@@ -184,3 +184,19 @@ Progressive Colorful: progression
 Progressive Hallway Room: progression
 Progressive Art Gallery: progression
 Outside The Agreeable - Lookout Entrance: progression
+Color Hunt - EXIT (Panel): progression
+Outside The Wanderer - WANDERLUST (Panel): progression
+Tenacious Entrance Panels: progression
+Compass Room Panels: progression
+Hub Room - TRACE (Panel): progression
+The Perceptive - GAZE (Panel): progression
+Backside Entrance Panels: progression
+Outside The Initiated - OXEN (Panel): progression
+Outside The Wondrous - SHRINK (Panel): progression
+Starting Room - HIDDEN (Panel): progression
+Crossroads - NOPE (Panel): progression
+Giant Seven Panels: progression
+Hallway Room Panels: progression
+Outside The Undeterred - PEN (Panel): progression
+Progressive Number Hunt: progression
+Directional Gallery - TURN, LEARN (Panels): progression

@@ -126,3 +126,42 @@ Bundle: Power Shard: filler
 Recipe: Solid Steel Ingot: progression
 Building: Industrial Storage Container: useful
 Recipe: Copper Rotor: progression
+Bundle: Plasma Spitter Remains: filler
+Building: Conveyor Merger: progression
+Building: Lookout Tower: useful
+Bundle: Aluminum Casing: filler
+Bundle: Blade Runners: useful
+Recipe: Iron Rebar: filler
+Recipe: Pure Iron Ingot: useful
+Transport: Factory Cart (golden): filler
+Recipe: Coated Iron Canister: progression
+Recipe: Nobelisk: progression
+Building: Conveyor Mk.2: progression
+Bundle: Rebar Gun: filler
+Recipe: Power Shard (5): progression
+Recipe: Residual Rubber: progression
+Bundle: Petroleum Coke: filler
+Bundle: Silica: filler
+Recipe: Pure Aluminum Ingot: progression
+Recipe: Therapeutic Inhaler: progression
+Recipe: Caterium Ingot: progression
+Recipe: Biomass (Alien Protein): progression
+Bundle: Screw: filler
+Recipe: Spitter Protein: progression
+Bundle: Beacon: filler
+Building: Pipeline Pump Mk.2: progression
+Recipe: Modular Engine: progression
+Recipe: Classic Battery: progression
+Recipe: Alumina Solution: progression
+Bundle: Bacon Agaric: filler
+Building: Conveyor Splitter: progression
+Bundle: Wood: filler
+Bundle: Electromagnetic Control Rod: filler
+Recipe: Aluminum Casing: progression
+Recipe: Sulfuric Acid: progression
+Recipe: Petroleum Coke: progression
+Recipe: Steel Ingot: progression
+Recipe: Plutonium Pellet: progression
+Bundle: Silver Hog Statue: filler
+Recipe: Cheap Silica: progression
+Recipe: Cooling System: progression

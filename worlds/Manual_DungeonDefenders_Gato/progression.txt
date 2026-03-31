@@ -3,3 +3,5 @@ Mana Crystal (100K): useful
 Key Fragment - Goblin Mech: progression
 Blood Rage: useful
 Warrior Minion: useful
+Key Fragment - Demon Lord: mcguffin
+Crystal Key: mcguffin

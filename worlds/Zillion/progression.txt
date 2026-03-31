@@ -1,0 +1,12 @@
+ID Card: filler
+Floppy Disk: mcguffin
+Zillion: progression
+Scope: useful
+Bread: filler
+JJ: progression
+Opa-Opa: progression
+Apple: progression
+Empty: filler
+Red ID Card: mcguffin
+Champ: progression
+Win: progression

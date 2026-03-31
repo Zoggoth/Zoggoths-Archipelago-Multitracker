@@ -15,3 +15,41 @@ Settler: useful
 Gold: Medium: filler
 Faith:Small: filler
 Class Struggle: progression
+Scorched Earth: filler
+Progressive Space Port: useful
+Global Warming Mitigation: filler
+Progressive Aerodrome: progression
+Castles: progression
+Progressive Campus: progression
+Progressive Theater: progression
+Combustion: useful
+Scientific Theory: progression
+Printing: progression
+State Workforce: progression
+Progressive Holy Site: progression
+Iron Working: progression
+Progressive Entertainment Complex: progression
+Refining: progression
+Progressive Industrial Zone: progression
+Progressive Commercial Hub: progression
+Code of Laws: progression
+Mercantilism: progression
+Progressive Preserve: progression
+Progressive Encampment: progression
+Globalization: progression
+Mining: progression
+Nationalism: progression
+Seasteads: useful
+Mercenaries: progression
+Stealth Technology: useful
+Reformed Church: progression
+Political Philosophy: useful
+Animal Husbandry: progression
+Progressive Diplomatic Quarter: progression
+Smart Power Doctrine: progression
+Computers: progression
+Square Rigging: progression
+Cartography: progression
+Cultural Heritage: progression
+Steam Power: progression
+Foreign Trade: progression

@@ -1,0 +1,8 @@
+Fertilizer: progression
+Green Goop: progression
+Flower: progression
+Mural Doodle: progression
+Potted Petalportal: progression
+Trophy: progression
+Crown: progression
+The Last Slice: progression

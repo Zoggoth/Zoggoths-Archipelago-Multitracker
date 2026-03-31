@@ -52,3 +52,11 @@ Ice Trap: trap
 Spring Trap: trap
 Police Trap: trap
 Buyon Trap: trap
+Gravity Trap: trap
+Reverse Trap: trap
+Monorail: progression
+Station Back Key: progression
+Station Front Key: progression
+Egglift: progression
+Hotel Front Key: progression
+Hotel Back Key: progression

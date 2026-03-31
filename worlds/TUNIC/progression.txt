@@ -37,12 +37,12 @@ Key: progression
 Fortress Vault Key: progression
 Flask Shard: useful
 Potion Flask: useful
-Golden Coin: progression
+Golden Coin: mcguffin
 Card Slot: useful
 Red Questagon: progression
 Green Questagon: progression
 Blue Questagon: progression
-Gold Questagon: progression
+Gold Questagon: mcguffin
 ATT Offering: useful
 DEF Offering: useful
 Potion Offering: useful
@@ -149,3 +149,8 @@ Ladders to Frog's Domain: progression
 Ladders in Library: progression
 Ladders in Lower Quarry: progression
 Ladders in Swamp: progression
+Grass: filler
+Money x2: filler
+Money x4: filler
+Money x5: filler
+Money x3: filler

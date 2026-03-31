@@ -30,3 +30,10 @@ Kitchen Key: progression
 Interior Walls Key: filler
 Attack Boost: filler
 Pizza Pass: progression
+Bonbon Combo: progression
+Foxy: progression
+Toreador March: progression
+Bonnie: progression
+Small Pizza: filler
+Freddy: progression
+Chica: progression

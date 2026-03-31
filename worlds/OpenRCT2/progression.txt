@@ -1,0 +1,102 @@
+Rainstorm: filler
+Construction Rights Discount: useful
+Roto Drop: progression
+Car Ride: useful
+Furry Convention Trap: trap
+Spam Trap: trap
+$5,000: filler
+Allow Tree Removal: progression
+Bathroom Trap: trap
+150 Guests: filler
+Land Discount: useful
+$1,000: filler
+Junior Roller Coaster: progression
+Progressive Speed: useful
+50 Guests: filler
+scenery: useful
+Food Stall: progression
+Spinning Wild Mouse: progression
+Steeplechase: progression
+Cash Machine: filler
+Hypertwister: progression
+$500: filler
+Skip: useful
+Miniature Railway: progression
+Vertical Drop Roller Coaster: progression
+Information Kiosk: progression
+$10,000: filler
+Bobsleigh Coaster: progression
+$2,500: filler
+Boat Hire: progression
+Shop: progression
+Thunderstorm: filler
+Inverted Hairpin Coaster: progression
+Toilets: progression
+Snowstorm: filler
+Drink Stall: progression
+Crooked House: progression
+100 Guests: filler
+Twister Roller Coaster: progression
+250 Guests: filler
+First Aid: progression
+Allow Marketing Campaigns: useful
+River Rapids: progression
+Allow Landscape Changes: progression
+Easier Guest Generation: useful
+Chairlift: progression
+Hypercoaster: progression
+Maze: progression
+Space Rings: progression
+Dodgems: progression
+Water Coaster: progression
+Flying Roller Coaster: progression
+Enterprise: progression
+Go Karts: progression
+Easier Park Rating: useful
+Ghost Train: progression
+LIM Launched Roller Coaster: useful
+Monster Trucks: useful
+Mini Roller Coaster: useful
+Single Rail Roller Coaster: useful
+Wooden Roller Coaster: useful
+Inverted Impulse Coaster: useful
+Side Friction Roller Coaster: useful
+Top Spin: useful
+Monorail Cycles: useful
+Mini Suspended Roller Coaster: useful
+Splash Boats: useful
+Monorail: useful
+Reverser Roller Coaster: useful
+Twist: useful
+Inverted Roller Coaster: useful
+Beauty Contest: useful
+Circus: useful
+Heartline Twister Coaster: useful
+Wooden Wild Mouse: useful
+Spiral Roller Coaster: useful
+Submarine Ride: useful
+River Rafts: useful
+Alpine Roller Coaster: useful
+Spiral Slide: useful
+Allow High Construction: progression
+Mine Train Coaster: useful
+Swinging Inverter Ship: useful
+Magic Carpet: progression
+Steel Wild Mouse: useful
+Compact Inverted Coaster: useful
+Virginia Reel: useful
+Suspended Monorail: useful
+Giga Coaster: useful
+Lay Down Roller Coaster: useful
+Lift: useful
+Merry Go Round: useful
+3d Cinema: useful
+Reverse Freefall Coaster: useful
+Mini Helicopters: progression
+Suspended Swinging Coaster: progression
+Blizzard: filler
+Mine Ride: progression
+Hybrid Coaster: progression
+Mini Golf: progression
+Observation Tower: progression
+Motion Simulator: progression

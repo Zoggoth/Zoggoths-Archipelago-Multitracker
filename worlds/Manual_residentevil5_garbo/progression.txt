@@ -17,3 +17,8 @@ SIG P226 Reload Speed Upgrades: useful
 VZ61: useful
 S&W M29 Firepower Upgrades: useful
 Jailbreaker Capacity Upgrades: useful
+SIG 556 Capacity Upgrades: useful
+Acid Rounds: filler
+S&W M29: progression
+AK74 Firepower Upgrades: useful
+Chapter 3-1: progression

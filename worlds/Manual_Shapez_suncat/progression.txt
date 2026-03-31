@@ -9,3 +9,11 @@ Tunnel Tier 2: progression
 Extractor: progression
 Rotator (180 Degrees): progression
 Chaining Extractor: useful
+Compact Merger: progression
+Progressive Powerup (Cutting, Rotating & Stacking): useful
+Color Mixer: progression
+Progressive Powerup (Mixing & Painting): useful
+Painter: progression
+Quad Painter: progression
+Storage: useful
+Wires: useful

@@ -82,3 +82,40 @@ Pink Gold Peach: useful
 Wario: useful
 Morton: useful
 Toadette: useful
+Monster: useful
+Villager (Female): useful
+Larry: useful
+Rosalina: useful
+Peachette: useful
+Mr. Scooty: useful
+Baby Daisy: useful
+City Tripper: useful
+Leaf Cup Pass: progression
+Ludwig: useful
+Landship: useful
+Dry Bones: useful
+Paper Glider: useful
+Hot Monster: useful
+Slim: useful
+Banana Cup Pass: progression
+Baby Luigi: useful
+Lemmy: useful
+Petey Piranha: useful
+Pauline: useful
+Yoshi: useful
+Cushion: useful
+Special Cup Pass: progression
+Sneeker: useful
+Inkling Girl: useful
+Lakitu: useful
+Diddy Kong: useful
+Standard ATV: useful
+Boomerang Cup Pass: progression
+Inkling Boy: useful
+Baby Rosalina: useful
+Badwagon: useful
+Blue Falcon: useful
+Wendy: useful
+Metal: useful
+Splat Buggy: useful
+Shell Cup Pass: progression

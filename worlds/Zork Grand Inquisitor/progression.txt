@@ -121,3 +121,65 @@ Totemizer Destination: Straight to Hell: progression
 Totemizer Destination: Surface of Merz: filler
 ZIMDOR Scroll: progression
 Zork Rocks: progression
+LOKTAR Scroll: Cause Temporal Distension: filler
+Zork Tour Landmark: mcguffin
+Spell: YASTARD: progression
+MEEF Scroll: Cause Plants to Wilt: filler
+LOBAL Scroll: Sharpen Hearing: filler
+GUNCHO Scroll: Banish Victim to Another Plane of Existence: filler
+BAYALA Scroll: Deform Body: filler
+IMALI Scroll: Worsen Eyesight: filler
+Hotspot: Dungeon Master's House Exit: progression
+KOAASST Scroll: Play Soothing Ambient Music: filler
+GILCH Scroll: Astral Travel: filler
+FOBLUB Scroll: Glue Audience to Seats: filler
+FILFRE Scroll: Create Gratuitous Fireworks: filler
+Hotspot: Spell Lab Bridge Exit: progression
+SWANZO Scroll: Exorcise an Inhabiting Presence: filler
+AIMFIZ Scroll: Transport Caster to Someone Else's Location: filler
+Hotspots: Past Port Foozle: progression
+Teleport Trap: trap
+ZVision Trap: trap
+Hotspots: Crossroads: progression
+Hotspots: Port Foozle: progression
+ZOOKA Scroll: Turn Eggs Into Overripe Cabbage: filler
+NERZO Scroll: Balance Checkbook: filler
+NITFOL Scroll: Converse With Beasts in Their Own Tongue: filler
+FIZMO Scroll: Cause Stopped-Up Pipes to Unclog: filler
+Reverse Controls Trap: trap
+Hotspots: Monastery: progression
+LIDIBO Scroll: Make a Creature Think You Are Really Ugly: filler
+EXEX Scroll: Make Things Move With Greater Speed: filler
+DRILBO Scroll: Strip a Floor of Yellowed Wax: filler
+MUSDEX Scroll: Improve Muscle Tone: filler
+PULVER Scroll: Dry Liquids: filler
+MELBOR Scroll: Protect From Harm by Evil Beings: filler
+Totemizer Destination: Newark, New Jersey: progression
+GHEL-OOH Scroll: Suspend Subject in a Gelatinous Substance: filler
+YOMIN Scroll: Mind Probe: filler
+GIZGUM Scroll: Predict Visits From Relatives: filler
+Hotspots: Flood Control Dam #3: progression
+Hotspots: Dragon Archipelago: progression
+QUELBO Scroll: Transmute Coconuts Into Gold: filler
+Spell: SNAVIG: progression
+UMBOZ Scroll: Obviate Need for Dusting: filler
+LESOCH Scroll: Gust of Wind: filler
+Spell: BEBURTT: progression
+Subway Destination: Crossroads: progression
+YONK Scroll: Augment the Power of Certain Spells: filler
+BLORPLE Scroll: Explore an Object's Mystic Connections: filler
+Hotspots: GUE Tech: progression
+BLORB Scroll: Safely Protect a Small Object: filler
+KEPMKOMN Scroll: Cause Massive Destruction to Edifices: filler
+Sandwitch Wrapper: filler
+FROTZ Scroll: Cause Something to Give Off Light: filler
+Teleporter Destination: Crossroads: progression
+GOLMAC Scroll: Travel Temporally: filler
+VAXUM Scroll: Make a Hostile Creature Your Friend: filler
+KRAK Scroll: Slow Time Drastically: filler
+Infinite Corridor Trap: trap
+FRIPPLE Scroll: Erect a Magical Barrier: filler
+Hotspots: White House: progression
+Cigar: progression
+BORCH Scroll: Put Insects to Sleep: filler
+Hotspots: Dungeon Master's Lair: progression
